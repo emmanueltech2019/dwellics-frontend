@@ -182,7 +182,7 @@ function footer() {
               <li>
                 <a
                   className="footer-social-button footer-social-button--instagram"
-                  href="https://www.instagram.com/nichesocial/"
+                  href="#"
                   rel="noreferrer"
                   target="_blank"  
                 >
@@ -192,7 +192,7 @@ function footer() {
               <li>
                 <a
                   className="footer-social-button footer-social-button--facebook"
-                  href="https://www.facebook.com/nichesocial"
+                  href="#"
                   rel="noreferrer"
                   target="_blank"
                 >
@@ -202,7 +202,7 @@ function footer() {
               <li>
                 <a
                   className="footer-social-button footer-social-button--twitter"
-                  href="https://twitter.com/nichesocial"
+                  href="#"
                   rel="noreferrer"
                   target="_blank"
                 >
@@ -212,7 +212,7 @@ function footer() {
               <li>
                 <a
                   className="footer-social-button footer-social-button--tiktok"
-                  href="https://www.tiktok.com/@nichesocial"
+                  href="#"
                   rel="noreferrer"
                   target="_blank"
                 >
@@ -222,7 +222,7 @@ function footer() {
               <li>
                 <a
                   className="footer-social-button footer-social-button--discord"
-                  href="https://discord.com/invite/PKK7be6Mtd"
+                  href="#"
                   rel="noreferrer"
                   target="_blank"
                 >
