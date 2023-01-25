@@ -33858,7 +33858,7 @@ a:focus > .event-listing__title {
   fill: #f4ece7;
 }
 .home-header {
-  color: #464646;
+  color: #FAF3F0;
   display: block;
   line-height: 1em;
   margin: 0;
@@ -35414,7 +35414,7 @@ a.button.return-home-message__button:hover {
   outline-offset: 3px;
 }
 .home-compare__animation-wrap {
-  background: #ff9800;
+  background: #FAF3F0;
   display: flex;
   height: 400px;
 }

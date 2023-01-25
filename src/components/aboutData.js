@@ -84,7 +84,7 @@ function aboutData() {
           <section className="about-layout-wrap about-layout--max-w-900">
             <div className="about-layout about-layout--m-t-50">
               <div className="about-text about-text--14 about-text--niche about-text--600 about-text--green02 about-text--pad-b-2">
-                WHERE OUR DATA COMES FROM
+                Our Data Sources
               </div>
 
               <div className="about-text about-text--30-35 about-text--pad-b-1">
@@ -93,9 +93,7 @@ function aboutData() {
               </div>
 
               <div className="about-text about-text--18 about-text--leading-150">
-                We rigorously analyze dozens of public data sets and over 100
-                million reviews and survey responses to help you understand what
-                a place is really like.
+              At Dwellics, we boast of robust, all-inclusive data which immensely benefits real estate brokers and agents, mortgage brokers and agents, and moving companies. We provide authentic public data sets thoroughly analyzed in a way that makes it super useful and relevant to you our client, helping you successfully attain business growth.
               </div>
             </div>
           </section>
@@ -224,15 +222,15 @@ function aboutData() {
                       From rigorous analysis, we refine and simplify complex
                       data into comparable rankings, grades, and profiles for
                       schools and neighborhoods. See how we calculate our
-                      <a href="https://www.niche.com/about/methodology/best-places-to-live/">
+                      <a href="#">
                         Best Places to Live
                       </a>
                       ,
-                      <a href="https://www.niche.com/about/methodology/best-school-districts/">
+                      <a href="#">
                         K-12
                       </a>
                       , and
-                      <a href="https://www.niche.com/about/methodology/best-colleges/">
+                      <a href="#">
                         College
                       </a>
                       rankings.
@@ -259,7 +257,7 @@ function aboutData() {
                 </div>
 
                 <div className="about-button-center about-text--pad-t-4">
-                  <a href="https://www.niche.com/about/licensing/">
+                  <a href="/licensing">
                     <div className="button button-small button-wide button-green">
                       Learn More About Data Licensing
                     </div>

@@ -1,4 +1,3 @@
-import Image from "next/image";
 import React from "react";
 
 function Home() {
@@ -8,7 +7,7 @@ function Home() {
         <noscript>
           <div class="noscript">
             <span>
-              Niche requires Javascript to work correctly. Please
+              Dwellics requires Javascript to work correctly. Please
               <a
                 target="_blank"
                 rel="noreferrer"
@@ -25,37 +24,43 @@ function Home() {
             <picture class="home-hero__photo home-hero__photo-v2">
               <source
                 srcset="
-                      https://d33a4decm84gsn.cloudfront.net/static/home/hero-lg.webp
+                https://images.pexels.com/photos/7415064/pexels-photo-7415064.jpeg?cs=srgb&dl=pexels-mart-production-7415064.jpg&fm=jpg
                     "
+                    width={"10px"}
                 type="image/webp"
               />
               <source
                 srcset="
                       https://d33a4decm84gsn.cloudfront.net/static/home/hero.webp
                     "
+                    width={"10px"}
                 type="image/webp"
               />
               <source
                 srcset="
                       https://d33a4decm84gsn.cloudfront.net/static/home/hero-lg.jpg
                     "
+                    width={"10px"}
                 type="image/jpeg"
               />
               <source
                 srcset="
                       https://d33a4decm84gsn.cloudfront.net/static/home/hero.jpg
                     "
+                    width={"10px"}
                 type="image/jpeg"
               />
-              <Image
+              <img
                 src="https://d33a4decm84gsn.cloudfront.net/static/home/hero.jpg"
                 alt="Student wearing backpack"
+                width={100}
+                height={100}
               />
             </picture>
             <div class="home-hero__content-container">
               <h1 class="home-hero__header">
                 <div class="type--weight-600 home-hero__header__kicker">
-                  Find the School
+                  Find the HOME
                 </div>
                 <div class="type--weight-700 home-hero__header__title">
                   That Fits You Best
@@ -71,8 +76,8 @@ function Home() {
                 </svg>
               </div>
               <div class="type--weight-400 home-body home-body--hero">
-                Finding the right school shouldn&apos;t be hard. From K‑12 to
-                college to grad school, we make it easy to discover and connect
+                Finding the right HOME shouldn&apos;t be hard. From K‑12 to
+                college to grad HOME, we make it easy to discover and connect
                 with the best ones for you.
               </div>
               <div class="home-hero__cta-wrap">
@@ -82,7 +87,7 @@ function Home() {
                 <ul class="home-hero__ctas">
                   <li class="home-hero__cta">
                     <a
-                      href="https://www.niche.com/k12/search/best-schools/?geoip=true"
+                      href="#"
                       class="button home-button--green home-hero__cta-link"
                       tabindex="0"
                     >
@@ -91,7 +96,7 @@ function Home() {
                   </li>
                   <li class="home-hero__cta">
                     <a
-                      href="https://www.niche.com/colleges/search/best-colleges/"
+                      href="#"
                       class="button home-button--green home-hero__cta-link"
                       tabindex="0"
                     >
@@ -100,7 +105,7 @@ function Home() {
                   </li>
                   <li class="home-hero__cta">
                     <a
-                      href="https://www.niche.com/graduate-schools/search/best-graduate-schools/"
+                      href="#"
                       class="button home-button--green home-hero__cta-link"
                       tabindex="0"
                     >
@@ -111,7 +116,7 @@ function Home() {
               </div>
             </div>
             <div class="home-hero__stamp">
-              <Image
+              <img
                 loading="lazy"
                 src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-fit.svg"
                 alt=""
@@ -130,7 +135,7 @@ function Home() {
               </div>
             </div>
             <h2 class="home-header home-header--why">
-              <div class="type--weight-600 home-header__kicker">Why Niche?</div>
+              <div class="type--weight-600 home-header__kicker">Why Dwellics?</div>
             </h2>
             <p class="type--weight-700 home-header home-header--why home-header__title">
               Your search is unique.
@@ -153,7 +158,7 @@ function Home() {
             <ul class="home-why-reasons">
               <li class="home-why-reason">
                 <figure class="home-why-reason__illustration">
-                  <Image
+                  <img
                     loading="lazy"
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/why-icon-1.svg"
                     alt="12"
@@ -168,7 +173,7 @@ function Home() {
               </li>
               <li class="home-why-reason">
                 <figure class="home-why-reason__illustration">
-                  <Image
+                  <img
                     loading="lazy"
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/why-icon-2.svg"
                     alt="hidw"
@@ -179,12 +184,12 @@ function Home() {
                 </h3>
                 <div class="type--weight-400 home-body home-why-reason__body">
                   Our user reviews let you hear directly from families and
-                  students to give you an honest and holistic view.
+                  individuals to give you an honest and holistic view.
                 </div>
               </li>
               <li class="home-why-reason">
                 <figure class="home-why-reason__illustration">
-                  <Image
+                  <img
                     loading="lazy"
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/why-icon-3.svg"
                     alt=""
@@ -210,10 +215,10 @@ function Home() {
               </svg>
             </div>
             <h2 class="home-header home-header--testimonial">
-              <div class="home-testimonial__kicker">Real Niche Stories</div>
+              <div class="home-testimonial__kicker">Real Dwellics Stories</div>
             </h2>
             <p class="home-testimonial__title">
-              Niche has helped millions of students and families find
+              Dwellics has helped millions of individuals and families find
               their&nbsp;fit.
             </p>
             <div class="home-testimonial__carousel home-testimonial__carousel--animatable home-testimonial__carousel--make-slides">
@@ -257,7 +262,7 @@ function Home() {
                               "
                           type="image/jpeg"
                         />
-                        <Image
+                        <img
                           loading="lazy"
                           src="https://d33a4decm84gsn.cloudfront.net/static/home/abby-1.jpg"
                           alt="Abby smiling at the camera"
@@ -278,7 +283,7 @@ function Home() {
                               "
                           type="image/jpeg"
                         />
-                        <Image
+                        <img
                           loading="lazy"
                           src="https://d33a4decm84gsn.cloudfront.net/static/home/abby-2.jpg"
                           alt="Abby standing under an outdoor arch and smiling at the camera"
@@ -290,16 +295,16 @@ function Home() {
                       class="home-testimonial__swoosh--abby"
                     ></div>
                     <div aria-hidden="true" class="home-testimonial__stamp">
-                      <Image
+                      <img
                         loading="lazy"
                         src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-found.svg"
-                        alt="I Found My Niche"
+                        alt="I Found My Dwellics"
                       />
                     </div>
                   </div>
                   <div class="home-testimonial__quote home-testimonial__quote--abby home-testimonial__quote--debut">
                     During my college search, I was having a difficult time
-                    narrowing down what I wanted in a school, so I used Niche to
+                    narrowing down what I wanted in a HOME, so I used Dwellics to
                     help. I especially liked looking at the rankings for
                     different aspects of the college experience, like the
                     campus, academics, and much more!
@@ -327,7 +332,7 @@ function Home() {
                               "
                           type="image/jpeg"
                         />
-                        <Image
+                        <img
                           loading="lazy"
                           src="https://d33a4decm84gsn.cloudfront.net/static/home/dayna-1.jpg"
                           alt="Dayna reading a book with her child"
@@ -348,7 +353,7 @@ function Home() {
                               "
                           type="image/jpeg"
                         />
-                        <Image
+                        <img
                           loading="lazy"
                           src="https://d33a4decm84gsn.cloudfront.net/static/home/dayna-2.jpg"
                           alt="Dayna’s son posing in a green elementary graduation outfit"
@@ -363,15 +368,15 @@ function Home() {
                       aria-hidden="true"
                       class="home-testimonial__stamp home-testimonial__stamp--dayna"
                     >
-                      <Image
+                      <img
                         loading="lazy"
                         src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-dayna.svg"
-                        alt="I Found Our Best-Fit School On Niche"
+                        alt="I Found Our Best-Fit HOME On Dwellics"
                       />
                     </div>
                   </div>
                   <div class="home-testimonial__quote home-testimonial__quote--dayna">
-                    I am so grateful for Niche and their resources. Schooling
+                    I am so grateful for Dwellics and their resources. Schooling
                     children at home has truly had its challenges. But having
                     resources has made it so much easier. Finding the right
                     programs for my little ones has been invaluable.
@@ -397,7 +402,7 @@ function Home() {
                               "
                           type="image/jpeg"
                         />
-                        <Image
+                        <img
                           loading="lazy"
                           src="https://d33a4decm84gsn.cloudfront.net/static/home/clay-1.jpg"
                           alt="Clay smiling at the camera while leaning on a bridge railing"
@@ -418,7 +423,7 @@ function Home() {
                               "
                           type="image/jpeg"
                         />
-                        <Image
+                        <img
                           loading="lazy"
                           src="https://d33a4decm84gsn.cloudfront.net/static/home/clay-2.jpg"
                           alt="Clay sitting and enjoying the sunlight on a campus lawn"
@@ -430,18 +435,18 @@ function Home() {
                       class="home-testimonial__swoosh--clay"
                     ></div>
                     <div aria-hidden="true" class="home-testimonial__stamp">
-                      <Image
+                      <img
                         loading="lazy"
                         src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-clay.svg"
-                        alt="I Found My Best-Fit School On Niche"
+                        alt="I Found My Best-Fit HOME On Dwellics"
                       />
                     </div>
                   </div>
                   <div class="home-testimonial__quote home-testimonial__quote--clay">
                     When I was applying to college, I had no idea what I was
-                    looking for. Niche helped me explore different schools and
+                    looking for. Dwellics helped me explore different schools and
                     see breakdowns on many aspects of their programs! Thanks to
-                    Niche, I found a school that was a perfect fit!
+                    Dwellics, I found a HOME that was a perfect fit!
                   </div>
                   <div class="home-testimonial__quoter">Clay N.</div>
                 </li>
@@ -464,7 +469,7 @@ function Home() {
                 </div>
               </h2>
               <p class="type--weight-700 home-header home-header--features home-header__title">
-                Tools to organize&nbsp;your school&nbsp;search.
+                Tools to organize&nbsp;your HOME&nbsp;search.
               </p>
               <div class="home-squiggle home-squiggle--features">
                 <svg
@@ -481,7 +486,7 @@ function Home() {
               </div>
               <div class="home-features__cta-wrap">
                 <a
-                  href="https://www.niche.com/colleges/search/best-colleges/"
+                  href="#"
                   class="type--weight-600 home-features__cta"
                   tabindex="0"
                 >
@@ -615,7 +620,7 @@ function Home() {
                       font-family="Source Sans Pro"
                       font-style="normal"
                       font-weight="normal"
-                      aria-label="SCHOOL COST (NET PRICE) "
+                      aria-label="HOME COST (NET PRICE) "
                       transform="matrix(0.949999988079071,0,0,0.949999988079071,372.5196533203125,478.1486511230469)"
                       opacity="1"
                       style={{ display: "block" }}
@@ -888,7 +893,7 @@ function Home() {
                       font-family="Source Sans Pro"
                       font-style="normal"
                       font-weight="normal"
-                      aria-label="SCHOOL SIZE "
+                      aria-label="HOME SIZE "
                       transform="matrix(0.949999988079071,0,0,0.949999988079071,181.376953125,741.6248168945312)"
                       opacity="1"
                       style={{ display: "block" }}
@@ -1142,7 +1147,7 @@ function Home() {
                         font-family="Source Sans Pro"
                         font-style="normal"
                         font-weight="normal"
-                        aria-label="SCHOOL SIZE "
+                        aria-label="HOME SIZE "
                         transform="matrix(1,0,0,1,170.528076171875,695.3660278320312)"
                         opacity="1"
                         style={{ display: "block" }}
@@ -1257,7 +1262,7 @@ function Home() {
                         font-family="Source Sans Pro"
                         font-style="normal"
                         font-weight="normal"
-                        aria-label="SCHOOL COST (NET PRICE) "
+                        aria-label="HOME COST (NET PRICE) "
                         transform="matrix(1,0,0,1,356.7509765625,468.1789855957031)"
                         opacity="1"
                         style={{ display: "block" }}
@@ -2381,7 +2386,7 @@ function Home() {
           </section>
           <section class="home-compare">
             <div class="home-compare__stamp">
-              <Image
+              <img
                 loading="lazy"
                 src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-everything.svg"
                 alt=""
@@ -2390,7 +2395,7 @@ function Home() {
             <div class="home-compare__copy-container">
               <h2 class="home-header home-header--compare">
                 <div class="type--weight-600 home-header__kicker">
-                  Choose Your School
+                  Choose Your HOME
                 </div>
               </h2>
               <p class="type--weight-700 home-header home-header--compare home-header__title">
@@ -2406,19 +2411,19 @@ function Home() {
                 </svg>
               </div>
               <div class="type--weight-400 home-body home-body--compare">
-                With the information you care about on every school in America,
+                With the information you care about on every HOME in America,
                 we make it easy for you to compare schools and colleges to make
                 your decision.
               </div>
               <ul class="home-compare__links">
                 <li class="home-compare__link">
-                  <a href="https://www.niche.com/k12/compare/" tabindex="0">
+                  <a href="#" tabindex="0">
                     Compare K-12 Schools
                   </a>
                 </li>
                 <li class="home-compare__link">
                   <a
-                    href="https://www.niche.com/colleges/compare/"
+                    href="#"
                     tabindex="0"
                   >
                     Compare Colleges
@@ -2540,7 +2545,7 @@ function Home() {
                       font-family="Source Sans Pro"
                       font-style="normal"
                       font-weight="normal"
-                      aria-label="Add a School"
+                      aria-label="Add a HOME"
                       transform="matrix(1,0,0,1,277.94000244140625,609.2269897460938)"
                       opacity="1"
                       style={{ display: "block" }}
@@ -2634,7 +2639,7 @@ function Home() {
                       font-family="Source Sans Pro"
                       font-style="normal"
                       font-weight="normal"
-                      aria-label="Add a School"
+                      aria-label="Add a HOME"
                       transform="matrix(1,0,0,1,668.3419799804688,607.990966796875)"
                       opacity="1"
                       style={{ display: "block" }}
@@ -4190,7 +4195,7 @@ function Home() {
             <ul class="home-rankings__ranks">
               <li class="home-rankings__rank">
                 <a
-                  href="https://www.niche.com/colleges/rankings/"
+                  href="#"
                   class="home-rankings__rank__link"
                   tabindex="0"
                 >
@@ -4210,7 +4215,7 @@ function Home() {
               </li>
               <li class="home-rankings__rank">
                 <a
-                  href="https://www.niche.com/k12/rankings/"
+                  href="#"
                   class="home-rankings__rank__link"
                   tabindex="0"
                 >
@@ -4230,7 +4235,7 @@ function Home() {
               </li>
               <li class="home-rankings__rank">
                 <a
-                  href="https://www.niche.com/k12/search/best-school-districts/"
+                  href="#"
                   class="home-rankings__rank__link"
                   tabindex="0"
                 >
@@ -4264,7 +4269,7 @@ function Home() {
             <div class="home-partners__copy-container">
               <h2 class="home-header home-header--partners">
                 <div class="type--weight-600 home-header__kicker">
-                  Partner With Niche
+                  Partner With Dwellics
                 </div>
               </h2>
               <p class="type--weight-700 home-header home-header--partners home-header__title">
@@ -4280,13 +4285,13 @@ function Home() {
                 </svg>
               </div>
               <div class="type--weight-400 home-body home-body--partners">
-                Are you a college or K-12 school representative? Learn more
-                about how you can partner with Niche to connect with students
-                and families throughout the school search process.
+                Are you a college or K-12 HOME representative? Learn more
+                about how you can partner with Dwellics to connect with individuals
+                and families throughout the HOME search process.
               </div>
               <div class="home-partners__cta-claim">
                 <a
-                  href="https://www.niche.com/claim-your-school/"
+                  href="#"
                   class="home-partners__cta-claim__link"
                   tabindex="0"
                 >
@@ -4296,7 +4301,7 @@ function Home() {
                     role="navigation"
                   ></span>
                   <span class="type--weight-600 home-partners__cta-claim__text">
-                    Claim Your School
+                    Claim Your HOME
                   </span>
                 </a>
               </div>
@@ -4323,10 +4328,10 @@ function Home() {
                           "
                       type="image/jpeg"
                     />
-                    <Image
+                    <img
                       loading="lazy"
                       src="https://d33a4decm84gsn.cloudfront.net/static/home/partner-dartmouth.jpg"
-                      alt="Niche Partner: Dartmouth College"
+                      alt="Dwellics Partner: Dartmouth College"
                     />
                   </picture>
                 </div>
@@ -4349,10 +4354,10 @@ function Home() {
                           "
                       type="image/jpeg"
                     />
-                    <Image
+                    <img
                       loading="lazy"
                       src="https://d33a4decm84gsn.cloudfront.net/static/home/partner-nazareth-prep.jpg"
-                      alt="Niche Partner: Nazareth Prep"
+                      alt="Dwellics Partner: Nazareth Prep"
                     />
                   </picture>
                 </div>
@@ -4361,7 +4366,7 @@ function Home() {
                 </figcaption>
               </figure>
               <figure class="home-partners__stamp">
-                <Image
+                <img
                   loading="lazy"
                   src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-claim.svg"
                   alt=""
@@ -4373,11 +4378,11 @@ function Home() {
               style={{ gridTemplateColumns: "repeat(4, 1fr)" }}
             >
               <div class="type--weight-700 home-partners__logos-title">
-                Over 1,700 schools partner with Niche
+                Over 1,700 schools partner with Dwellics
               </div>
               <ul class="home-partners__logos">
                 <li class="home-partners__logo">
-                  <Image
+                  <img
                     loading="lazy"
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/logo-phillips-andover.png"
                     class="home-partners__logo__image"
@@ -4385,7 +4390,7 @@ function Home() {
                   />
                 </li>
                 <li class="home-partners__logo">
-                  <Image
+                  <img
                     loading="lazy"
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/logo-oregon.png"
                     class="home-partners__logo__image"
@@ -4393,7 +4398,7 @@ function Home() {
                   />
                 </li>
                 <li class="home-partners__logo">
-                  <Image
+                  <img
                     loading="lazy"
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/logo-wash-jeff.png"
                     class="home-partners__logo__image"
@@ -4401,7 +4406,7 @@ function Home() {
                   />
                 </li>
                 <li class="home-partners__logo">
-                  <Image
+                  <img
                     loading="lazy"
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/logo-marquette.png"
                     class="home-partners__logo__image"
@@ -4436,7 +4441,7 @@ function Home() {
                       "
                   type="image/png"
                 />
-                <Image
+                <img
                   loading="lazy"
                   src="https://d33a4decm84gsn.cloudfront.net/static/home/start-student-with-dog.png"
                   alt="Illustration of a student and dog looking to the future"
@@ -4465,7 +4470,7 @@ function Home() {
               <ul class="home-start__ctas">
                 <li class="home-start__cta">
                   <a
-                    href="https://www.niche.com/colleges/college-quiz/"
+                    href="#"
                     class="button home-button--green home-start__button-block"
                     tabindex="0"
                   >
@@ -4474,7 +4479,7 @@ function Home() {
                 </li>
                 <li class="home-start__cta">
                   <a
-                    href="https://www.niche.com/k12/schools-near-you/"
+                    href="#"
                     class="button home-button--green home-start__button-block"
                     tabindex="0"
                   >
