@@ -6,10 +6,10 @@ function aboutData() {
       <div className="content-wrapper">
         <main className="structured-container" id="maincontent">
           <div id="navSentinel" className=""></div>
-          <nav className="nav" aria-label="About Niche">
+          <nav className="nav" aria-label="About Dwellics">
             <div className="nav__inner">
               <div className="nav__title" aria-hidden="true">
-                About Niche
+                About Dwellics
               </div>
 
               <ul className="nav__primaries">
@@ -39,7 +39,7 @@ function aboutData() {
                     href="https://www.niche.com/about/team/"
                     className="nav__label"
                   >
-                    Working At Niche
+                    Working At Dwellics
                   </a>
                 </li>
                 <li className="nav__primary">
@@ -88,7 +88,7 @@ function aboutData() {
               </div>
 
               <div className="about-text about-text--30-35 about-text--pad-b-1">
-                Niche has the most comprehensive data on U.S. schools and
+                Dwellics has the most comprehensive data on U.S. schools and
                 neighborhoods.
               </div>
 
@@ -249,7 +249,7 @@ function aboutData() {
                 </div>
 
                 <div className="about-text about-text--18 about-text--leading-150 text-changw">
-                  Niche has the most comprehensive data on U.S. K-12 schools,
+                  Dwellics has the most comprehensive data on U.S. K-12 schools,
                   colleges, and places (neighborhoods, cities, ZIP codes, etc.).
                   We offer data solutions for the education and real estate
                   industries as well as custom solutions for brands and market
@@ -384,16 +384,16 @@ function aboutData() {
                   <li className="about-data-source">
                     <a
                       className="about-link"
-                      href="https://www.niche.com/k12/survey/"
+                      href="#"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      Niche K-12 Student and Parent Surveys
+                      Dwellics K-12 Student and Parent Surveys
                     </a>
                     <br />
                     <div className="about-data-source__indent">
                       Survey administered to millions of parents, high school
-                      students, and recent alumni&nbsp;on Niche.com.
+                      students, and recent alumni&nbsp;on Dwellics.com.
                     </div>
                   </li>
 
@@ -404,13 +404,13 @@ function aboutData() {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      Niche K-12 Student and Parent Surveys
+                      Dwellics K-12 Student and Parent Surveys
                     </a>
                     &nbsp;
                     <br />
                     <div className="about-data-source__indent">
                       Survey administered to millions of parents, high school
-                      students, and recent alumni on Niche.com.
+                      students, and recent alumni on Dwellics.com.
                     </div>
                     <div className="about-data-source__cta about-data-source__cta--green">
                       <div className="about-data-source__cta-icon about-data-source__cta-icon--green">
@@ -433,7 +433,7 @@ function aboutData() {
                             className="about-link"
                             href="https://www.niche.com/k12/survey/"
                           >
-                            Niche&apos;s School Survey Sweepstakes
+                            Dwellics&apos;s School Survey Sweepstakes
                           </a>
                         </strong>
                         helps others find the area that&apos;s right for them.
@@ -442,10 +442,10 @@ function aboutData() {
                   </li>
 
                   <li className="about-data-source" id="data-college">
-                    Niche K-12 Data Update through Niche Partner Accounts&nbsp;
+                    Dwellics K-12 Data Update through Dwellics Partner Accounts&nbsp;
                     <br />
                     <div className="about-data-source__indent">
-                      A Niche Partner Account is administered to school
+                      A Dwellics Partner Account is administered to school
                       representatives giving them access to add or update data
                       related to their school.
                     </div>
@@ -588,13 +588,13 @@ function aboutData() {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      Niche College Student Survey
+                      Dwellics College Student Survey
                     </a>
                     &nbsp;
                     <br />
                     <div className="about-data-source__indent">
                       Survey administered to millions of current students and
-                      recent alumni on Niche.com.
+                      recent alumni on Dwellics.com.
                     </div>
                     <div className="about-data-source__cta about-data-source__cta--green">
                       <div className="about-data-source__cta-icon about-data-source__cta-icon--green">
@@ -617,7 +617,7 @@ function aboutData() {
                             className="about-link"
                             href="https://www.niche.com/colleges/survey/"
                           >
-                            Niche&apos;s College Student Survey
+                            Dwellics&apos;s College Student Survey
                           </a>
                         </strong>
                         helps others find the college that&apos;s right for them.
@@ -626,11 +626,11 @@ function aboutData() {
                   </li>
 
                   <li className="about-data-source" id="data-places-to-live">
-                    Niche College Data Update through Niche Partner
+                    Dwellics College Data Update through Dwellics Partner
                     Account&nbsp;
                     <br />
                     <div className="about-data-source__indent">
-                      A Niche Partner Account is administered to college
+                      A Dwellics Partner Account is administered to college
                       representatives giving them access to add or update data
                       related to their school.
                     </div>
@@ -837,13 +837,13 @@ function aboutData() {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      Niche Local Survey{" "}
+                      Dwellics Local Survey{" "}
                     </a>
                     &nbsp;
                     <br />
                     <div className="about-data-source__indent">
                       Survey administered to millions of people living in
-                      neighborhoods across the U.S. on Niche.com
+                      neighborhoods across the U.S. on Dwellics.com
                     </div>
                     <div className="about-data-source__cta about-data-source__cta--green">
                       <div className="about-data-source__cta-icon about-data-source__cta-icon--green">
@@ -863,7 +863,7 @@ function aboutData() {
                       <div className="about-data-source__cta-text">
                         <strong>
                           <a className="about-link" href="#">
-                            Niche&apos;s Local Survey
+                            Dwellics&apos;s Local Survey
                           </a>
                         </strong>
                         helps others find the area that&apos;s right for them.
