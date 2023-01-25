@@ -250,34 +250,34 @@ function footer() {
             <ul className="footer-vertical-links">
               <li className="footer-vertical-links__item">
                 <a href="#" target="_self">
-                  K-12
+                Homebuyers data
                 </a>
               </li>
               <li className="footer-vertical-links__item">
                 <a href="#" target="_self">
-                  Colleges
+                Places to live data
                 </a>
               </li>
               <li className="footer-vertical-links__item">
                 <a href="#" target="_self">
-                  Graduate Schools
+                Mortgage leads
                 </a>
               </li>
               <li className="footer-vertical-links__item">
                 <a href="#" target="_self">
-                  Places to Live
+                Market Insights
                 </a>
               </li>
             </ul>
             <div className="footer-claim-cta">
               <div className="claim-your-school-cta">
-                Do you work for a school or college?
+                Are you looking for a house or loan?
                 <a
                   className="claim-your-school-cta__link"
-                  href="#"
+                  href="/cleam"
                   target="_self"
                 >
-                  Claim Your School
+                  Check Here
                   <span className="icon-arrowright-thin--expansion"></span>
                 </a>
               </div>

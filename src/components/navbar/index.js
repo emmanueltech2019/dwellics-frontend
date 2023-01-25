@@ -62,15 +62,15 @@ function Navbar() {
                           href="https://www.niche.com/k12/search/best-schools/s/massachusetts/"
                           role="button"
                         >
-                          K-12
+                          Homebuyers data
                         </a>
                       </li>
                       <li className="global-links__item">
                         <a
-                          href="https://www.niche.com/colleges/search/best-colleges/s/massachusetts/"
+                          href="https://www.niche.com/Places to live data/search/best-Places to live data/s/massachusetts/"
                           role="button"
                         >
-                          Colleges
+                          Places to live data
                         </a>
                       </li>
                       <li className="global-links__item">
@@ -83,10 +83,10 @@ function Navbar() {
                       </li>
                       <li className="global-links__item">
                         <a
-                          href="https://www.niche.com/colleges/scholarships/"
+                          href="https://www.niche.com/Places to live data/scholarships/"
                           role="button"
                         >
-                          Scholarships
+                          Market Insights
                         </a>
                       </li>
                       <li className="global-links__item">
@@ -322,9 +322,9 @@ function Navbar() {
                   <button className="button button-small button-darker global-nav__account-signup" data-modal-target="authentication-modal" data-modal-toggle="authentication-modal">
                     Sign&nbsp;Up
                   </button>
-                  <button data-modal-target="authentication-modal" data-modal-toggle="authentication-modal" class="block text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800" type="button">
+                  {/* <button data-modal-target="authentication-modal" data-modal-toggle="authentication-modal" class="block text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800" type="button">
   Toggle modal
-</button>
+</button> */}
 
                 </div>
               </div>
@@ -337,10 +337,10 @@ function Navbar() {
               <div className="mega-menu__category-label">
                 <a
                   className="mega-menu-category-label__link"
-                  href="https://www.niche.com/k12/search/best-schools/s/massachusetts/"
-                  aria-label="K-12 Schools Group - Click to collapse"
+                  href="#"
+                  aria-label="Homebuyers data Schools Group - Click to collapse"
                 >
-                  K-12 SCHOOLS
+                  Homebuyers data SCHOOLS
                 </a>
                 <div className="mega-menu__category-label__arrow">
                   <svg
@@ -353,7 +353,7 @@ function Navbar() {
                   >
                     <path
                       xmlns="http://www.w3.org/2000/svg"
-                      id="arrow_up_K-12 SCHOOLS"
+                      id="arrow_up_Homebuyers data SCHOOLS"
                       className="st0"
                       d="M4.4 18.6c.7.7 1.6.3 2.1-.2l5.5-5.5 5.5 5.5c.5.5 1.4.9 2.1.2.7-.7.3-1.6-.2-2.1L12 9.1l-7.4 7.4c-.5.5-.9 1.3-.2 2.1z"
                     ></path>
@@ -381,7 +381,7 @@ function Navbar() {
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/about/k12-quiz/">K-12 Quiz</a>
+                <a href="https://www.niche.com/about/k12-quiz/">Homebuyers data Quiz</a>
               </li>
               <li className="mega-menu__item">
                 <a href="https://www.niche.com/k12/compare/">Compare Schools</a>
@@ -401,10 +401,10 @@ function Navbar() {
               <div className="mega-menu__category-label">
                 <a
                   className="mega-menu-category-label__link"
-                  href="https://www.niche.com/colleges/search/best-colleges/s/massachusetts/"
-                  aria-label="Colleges Group - Click to collapse"
+                  href="https://www.niche.com/Places to live data/search/best-Places to live data/s/massachusetts/"
+                  aria-label="Places to live data Group - Click to collapse"
                 >
-                  COLLEGES
+                  Places to live data
                 </a>
                 <div className="mega-menu__category-label__arrow">
                   <svg
@@ -425,32 +425,32 @@ function Navbar() {
                 </div>
               </div>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/colleges/search/best-colleges/s/massachusetts/">
+                <a href="https://www.niche.com/Places to live data/search/best-Places to live data/s/massachusetts/">
                   College Search
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/colleges/search/best-online-colleges/">
+                <a href="https://www.niche.com/Places to live data/search/best-online-Places to live data/">
                   Online College Search
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/colleges/rankings/">
+                <a href="https://www.niche.com/Places to live data/rankings/">
                   College Rankings
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/colleges/college-quiz/">
+                <a href="https://www.niche.com/Places to live data/college-quiz/">
                   College Quiz
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/colleges/scholarships/">
+                <a href="https://www.niche.com/Places to live data/scholarships/">
                   Scholarships
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/colleges/scholarships/no-essay-scholarship/">
+                <a href="https://www.niche.com/Places to live data/scholarships/no-essay-scholarship/">
                   $2,000 No Essay Scholarship
                 </a>
               </li>
@@ -460,17 +460,17 @@ function Navbar() {
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/colleges/admissions-calculator/">
+                <a href="https://www.niche.com/Places to live data/admissions-calculator/">
                   Admissions Calculator
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/colleges/compare/">
-                  Compare Colleges
+                <a href="https://www.niche.com/Places to live data/compare/">
+                  Compare Places to live data
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/colleges/survey/">
+                <a href="https://www.niche.com/Places to live data/survey/">
                   Review Your College
                 </a>
               </li>
@@ -487,7 +487,7 @@ function Navbar() {
                   href="https://www.niche.com/graduate-schools/search/best-graduate-schools/s/massachusetts/"
                   aria-label="Graduate Schools Group - Click to collapse"
                 >
-                  GRADUATE SCHOOLS
+                  Mortgage leads
                 </a>
                 <div className="mega-menu__category-label__arrow">
                   <svg

@@ -14,56 +14,34 @@ function licensing() {
         <h1>Licensing Dwellics Data</h1>
         <p>
           <span style={{fontWeight: "400"}}>
-            Dwellics has the most comprehensive{" "}
+          At Dwellics, we boast of a robust, all-inclusive data which will immensely benefit real estate brokers and agents, mortgage brokers and agents, and moving companies. We provide authentic public data sets thoroughly analysed in a way that makes it super useful and relevant to you our client. These are backed by thousands of reviews too.
           </span>
-          <span style={{fontWeight: "400"}}>data</span>
+        </p>
+        <p>Want to learn more about Dwellics data? Read more <a href="/about">here</a></p>
+        <p>
           <span style={{fontWeight: "400"}}>
-            on user who want to buy a house ore relocate to the US. We rigorously analyze dozens of public data sets
-            and over 100 million reviews and survey responses to help you
-            understand what a place is really like. You can read more about our
-            data <a href="https://www.dwellics.com/about/data"> here</a>. We offer
-            data solutions for the education and real estate industries as well
-            as custom solutions for brands and market research.
+            <strong>Homebuyers data</strong>{" "}
           </span>
         </p>
         <p>
           <span style={{fontWeight: "400"}}>
-            <strong>mortgage</strong>{" "}
+          Dwellics goes above and beyond to give you rigorously curated data on homebuyers. Our homebuyers data encompasses data on mothers, fathers, singles and families looking to buy homes in various neighborhoods, cities, zip codes. We provide only thoroughly cleaned data compiled based on various pertinent user-friendly metrics using innovative technological methods. 
           </span>
         </p>
         <p>
+          <strong> Places to live data</strong>
+        </p>
+        <p>
           <span style={{fontWeight: "400"}}>
-            Dwellics thoroughly cleans and curates all of our K-12 school data. Our
-            data covers all U.S. school districts, private schools, and public
-            schools. Dwellics&apos;s K-12 coverage promises clean names, up-to-date
-            data, and rigorously compiled rankings. Our school rankings are
-            carefully compiled using dozens of factors and advanced statistical
-            techniques. Dwellics&apos;s data solutions are great for both internal use
-            and client-facing applications.
+          Dwellics provides our users with comprehensive  places to live data. Our clients have access to detailed profiles and data on users looking for places to live from across the length and breath of the United States. Our data set is in different categories suitable for different purposes, depending on your needs. Some of the data points include email addresses, city/state, credit score and budget. 
           </span>
         </p>
         <p>
-          <strong> Data</strong>
+          <strong>Market insights</strong>
         </p>
         <p>
           <span style={{fontWeight: "400"}}>
-            Dwellics is an authority in the college research space, with detailed
-            profiles on every college and university in the United States. We
-            have carefully compiled detailed data sets on all types of colleges.
-            These robust data sets include information on academics, athletics,
-            student life, value, location, and many other data points for each
-            institution.
-          </span>
-        </p>
-        <p>
-          <strong>Places to Live Data</strong>
-        </p>
-        <p>
-          <span style={{fontWeight: "400"}}>
-            Dwellics also has detailed data on every neighborhood in the United
-            States. Our data set provides unique insights into public school
-            quality, housing, jobs, diversity, and many other factors at the
-            state, zip, and neighborhood levels.
+          Diverse Companies and startups find Dwellics data useful for marketing, lead generation and growth. Our data comes from impeccable sources and are analysed with our clients in mind.
           </span>
         </p>
         <p>
@@ -71,30 +49,11 @@ function licensing() {
         </p>
         <p>
           <span style={{fontWeight: "400"}}>
-            Dwellics&apos;s data solutions are delivered as a custom file, as we don’t
-            currently have an API. Our data licenses are typically issued
-            annually, although Dwellics can accommodate monthly or quarterly
-            updates in some cases. All files are issued at the national level,
-            unless otherwise discussed and are priced separately for each
-            vertical (K-12, Colleges, Places to Live).{" "}
-          </span>
-          <span style={{fontWeight: "400"}}>
-            Packages are available for any budget.
+          Mortgage leads are essential to every real estate and mortgage business and Dwellics goal is to provide perfect data solutions. Our data packages are available for various budgets on monthly and annually. 
+If you want more information on our packages and pricing, please send a detailed email of your specific needs and use to <a href="mailto:licensing@dwellics.com">licensing@dwellics.com</a>
           </span>
         </p>
-        <p>
-          <span style={{fontWeight: "400"}}>
-            For information on pricing, please reach out to{" "}
-          </span>
-          <a href="mailto:licensing@Dwellics.com">
-            <span style={{fontWeight: "400"}}>licensing@dwellics.com </span>
-          </a>
-          <span style={{fontWeight: "400"}}>
-            with a detailed description of the type of data you are looking for
-            and your intended use case. We will follow up with additional
-            information.
-          </span>
-        </p>
+
       </main>
     </div>
     
