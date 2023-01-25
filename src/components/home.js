@@ -3,9 +3,9 @@ import React from "react";
 function Home() {
   return (
     <div>
-      <div class="content" id="maincontent">
+      <div className="content" id="maincontent">
         <noscript>
-          <div class="noscript">
+          <div className="noscript">
             <span>
               Dwellics requires Javascript to work correctly. Please
               <a
@@ -19,9 +19,9 @@ function Home() {
             </span>
           </div>
         </noscript>
-        <main class="home-overview-wrap">
-          <section class="home-hero">
-            <picture class="home-hero__photo home-hero__photo-v2">
+        <main className="home-overview-wrap">
+          <section className="home-hero">
+            <picture className="home-hero__photo home-hero__photo-v2">
               <source
                 srcset="
                 https://images.pexels.com/photos/7415064/pexels-photo-7415064.jpeg?cs=srgb&dl=pexels-mart-production-7415064.jpg&fm=jpg
@@ -57,16 +57,16 @@ function Home() {
                 height={100}
               />
             </picture>
-            <div class="home-hero__content-container">
-              <h1 class="home-hero__header">
-                <div class="type--weight-600 home-hero__header__kicker">
-                  Find the HOME
+            <div className="home-hero__content-container">
+              <h1 className="home-hero__header">
+                <div className="type--weight-600 home-hero__header__kicker">
+                  Find the Best
                 </div>
-                <div class="type--weight-700 home-hero__header__title">
-                  That Fits You Best
+                <div className="type--weight-700 home-hero__header__title">
+                home for you
                 </div>
               </h1>
-              <div class="home-squiggle">
+              <div className="home-squiggle">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 186 17"
@@ -75,47 +75,47 @@ function Home() {
                   <path d="M184.68 8.95006C169.95 1.68006 152.06 1.68006 137.32 8.95006C124.03 15.5101 107.9 15.5101 94.61 8.95006C79.88 1.68006 61.99 1.68006 47.25 8.95006C33.96 15.5101 17.83 15.5101 4.54 8.95006L1 7.43006"></path>
                 </svg>
               </div>
-              <div class="type--weight-400 home-body home-body--hero">
+              <div className="type--weight-400 home-body home-body--hero">
                 Finding the right HOME shouldn&apos;t be hard. From K‑12 to
                 college to grad HOME, we make it easy to discover and connect
                 with the best ones for you.
               </div>
-              <div class="home-hero__cta-wrap">
-                <div class="type--weight-600 home-hero__cta-title">
+              <div className="home-hero__cta-wrap">
+                <div className="type--weight-600 home-hero__cta-title">
                   Start Your Search
                 </div>
-                <ul class="home-hero__ctas">
-                  <li class="home-hero__cta">
+                <ul className="home-hero__ctas">
+                  <li className="home-hero__cta">
                     <a
                       href="#"
-                      class="button home-button--green home-hero__cta-link"
+                      className="button home-button--green home-hero__cta-link"
                       tabindex="0"
                     >
-                      K-12 Schools
+                      Best Home
                     </a>
                   </li>
-                  <li class="home-hero__cta">
+                  <li className="home-hero__cta">
                     <a
                       href="#"
-                      class="button home-button--green home-hero__cta-link"
+                      className="button home-button--green home-hero__cta-link"
                       tabindex="0"
                     >
-                      Colleges
+                      Cheap Homes
                     </a>
                   </li>
-                  <li class="home-hero__cta">
+                  <li className="home-hero__cta">
                     <a
                       href="#"
-                      class="button home-button--green home-hero__cta-link"
+                      className="button home-button--green home-hero__cta-link"
                       tabindex="0"
                     >
-                      Grad Schools
+                      Mortgage Homes
                     </a>
                   </li>
                 </ul>
               </div>
             </div>
-            <div class="home-hero__stamp">
+            <div className="home-hero__stamp">
               <img
                 loading="lazy"
                 src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-fit.svg"
@@ -123,9 +123,9 @@ function Home() {
               />
             </div>
           </section>
-          <section class="home-why-niche">
-            <div class="home-wavy-edge">
-              <div class="home-wavy-edge__inner">
+          <section className="home-why-niche">
+            <div className="home-wavy-edge">
+              <div className="home-wavy-edge__inner">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 45">
                   <path
                     d="M2000,17.26a2.6,2.6,0,0,1-.4.49C1970.2,16.56,1970.41,5,1941,5s-29.42,12.75-58.84,12.75S1852.73,5,1823.31,5s-29.42,12.75-58.83,12.75S1735.06,5,1705.64,5s-29.41,12.75-58.83,12.75S1617.39,5,1588,5s-29.41,12.75-58.83,12.75S1499.72,5,1470.3,5s-29.41,12.75-58.83,12.75S1382.05,5,1352.64,5s-29.42,12.75-58.83,12.75S1264.39,5,1235,5s-29.42,12.75-58.83,12.75S1146.73,5,1117.32,5s-29.42,12.75-58.83,12.75S1029.07,5,999.66,5s-29.42,12.75-58.84,12.75S911.41,5,882,5s-29.41,12.75-58.83,12.75S793.74,5,764.33,5,734.91,17.75,705.5,17.75,676.08,5,646.67,5s-29.42,12.75-58.84,12.75S558.42,5,529,5s-29.41,12.75-58.83,12.75S440.76,5,411.34,5s-29.41,12.75-58.83,12.75S323.1,5,293.68,5s-29.42,12.75-58.83,12.75S205.43,5,176,5,146.6,17.75,117.19,17.75,87.77,5,58.36,5C29.11,5,28.93,17.61,0,17.74V50H2000Z"
@@ -134,15 +134,15 @@ function Home() {
                 </svg>
               </div>
             </div>
-            <h2 class="home-header home-header--why">
-              <div class="type--weight-600 home-header__kicker">Why Dwellics?</div>
+            <h2 className="home-header home-header--why">
+              <div className="type--weight-600 home-header__kicker">Why Dwellics?</div>
             </h2>
-            <p class="type--weight-700 home-header home-header--why home-header__title">
+            <p className="type--weight-700 home-header home-header--why home-header__title">
               Your search is unique.
               <br />
               Just&nbsp;like&nbsp;you.
             </p>
-            <div class="home-squiggle">
+            <div className="home-squiggle">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 186 17"
@@ -151,62 +151,62 @@ function Home() {
                 <path d="M184.68 8.95006C169.95 1.68006 152.06 1.68006 137.32 8.95006C124.03 15.5101 107.9 15.5101 94.61 8.95006C79.88 1.68006 61.99 1.68006 47.25 8.95006C33.96 15.5101 17.83 15.5101 4.54 8.95006L1 7.43006"></path>
               </svg>
             </div>
-            <div class="type--weight-400 home-body home-body--why">
+            <div className="type--weight-400 home-body home-body--why">
               We give you all of the data, reviews, and insights in one place to
               make your search as easy as possible.
             </div>
-            <ul class="home-why-reasons">
-              <li class="home-why-reason">
-                <figure class="home-why-reason__illustration">
+            <ul className="home-why-reasons">
+              <li className="home-why-reason">
+                <figure className="home-why-reason__illustration">
                   <img
                     loading="lazy"
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/why-icon-1.svg"
                     alt="12"
                   />
                 </figure>
-                <h3 class="type--weight-800 home-why-reason__title">
+                <h3 className="type--weight-800 home-why-reason__title">
                   No Heavy Lifting
                 </h3>
-                <div class="type--weight-400 home-body home-why-reason__body">
+                <div className="type--weight-400 home-body home-why-reason__body">
                   We analyze the data so you don&apos;t have to.
                 </div>
               </li>
-              <li class="home-why-reason">
-                <figure class="home-why-reason__illustration">
+              <li className="home-why-reason">
+                <figure className="home-why-reason__illustration">
                   <img
                     loading="lazy"
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/why-icon-2.svg"
                     alt="hidw"
                   />
                 </figure>
-                <h3 class="type--weight-800 home-why-reason__title">
+                <h3 className="type--weight-800 home-why-reason__title">
                   The Good, The Bad, &amp;&nbsp;The&nbsp;Honest
                 </h3>
-                <div class="type--weight-400 home-body home-why-reason__body">
+                <div className="type--weight-400 home-body home-why-reason__body">
                   Our user reviews let you hear directly from families and
                   individuals to give you an honest and holistic view.
                 </div>
               </li>
-              <li class="home-why-reason">
-                <figure class="home-why-reason__illustration">
+              <li className="home-why-reason">
+                <figure className="home-why-reason__illustration">
                   <img
                     loading="lazy"
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/why-icon-3.svg"
                     alt=""
                   />
                 </figure>
-                <h3 class="type--weight-800 home-why-reason__title">
+                <h3 className="type--weight-800 home-why-reason__title">
                   Like A Glove
                 </h3>
-                <div class="type--weight-400 home-body home-why-reason__body">
+                <div className="type--weight-400 home-body home-why-reason__body">
                   We personalize your search based on what&apos;s most important
                   to you.
                 </div>
               </li>
             </ul>
           </section>
-          <section id="testimonialCarousel" class="home-testimonial">
-            <div class="home-background-squiggle">
+          <section id="testimonialCarousel" className="home-testimonial">
+            <div className="home-background-squiggle">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 1512 3578.12"
@@ -214,39 +214,39 @@ function Home() {
                 <path d="M1512,556.42s-38-103-214-151.21C1135.43,360.67,1019.11,430,873,371c-141.22-57-70.34-103.33-199.7-163.65-155.48-72.5-326.65,9.32-412.23-72.5C146.07,25,0,.23,0,.23V3578.35H1512Z"></path>
               </svg>
             </div>
-            <h2 class="home-header home-header--testimonial">
-              <div class="home-testimonial__kicker">Real Dwellics Stories</div>
+            <h2 className="home-header home-header--testimonial">
+              <div className="home-testimonial__kicker">Real Dwellics Stories</div>
             </h2>
-            <p class="home-testimonial__title">
+            <p className="home-testimonial__title">
               Dwellics has helped millions of individuals and families find
               their&nbsp;fit.
             </p>
-            <div class="home-testimonial__carousel home-testimonial__carousel--animatable home-testimonial__carousel--make-slides">
-              <div aria-hidden="false" class="carousel-dots">
+            <div className="home-testimonial__carousel home-testimonial__carousel--animatable home-testimonial__carousel--make-slides">
+              <div aria-hidden="false" className="carousel-dots">
                 <button
-                  class="carousel-dot carousel-dot--active"
+                  className="carousel-dot carousel-dot--active"
                   aria-label="Go to slide 1"
                   aria-current="true"
                 ></button>
                 <button
-                  class="carousel-dot"
+                  className="carousel-dot"
                   aria-label="Go to slide 2"
                   aria-current="false"
                 ></button>
                 <button
-                  class="carousel-dot"
+                  className="carousel-dot"
                   aria-label="Go to slide 3"
                   aria-current="false"
                 ></button>
               </div>
-              <ul class="home-testimonial__slides" id="carouselSlides">
+              <ul className="home-testimonial__slides" id="carouselSlides">
                 <li
-                  class="home-testimonial__slide home-testimonial__slide--debut"
+                  className="home-testimonial__slide home-testimonial__slide--debut"
                   aria-hidden="false"
                 >
-                  <div class="home-testimonial__canvas">
+                  <div className="home-testimonial__canvas">
                     <div
-                      class="home-testimonial__pic-1"
+                      className="home-testimonial__pic-1"
                       id="testimonialAnimation"
                     >
                       <picture>
@@ -269,7 +269,7 @@ function Home() {
                         />
                       </picture>
                     </div>
-                    <div class="home-testimonial__pic-2">
+                    <div className="home-testimonial__pic-2">
                       <picture>
                         <source
                           srcset="
@@ -292,9 +292,9 @@ function Home() {
                     </div>
                     <div
                       aria-hidden="true"
-                      class="home-testimonial__swoosh--abby"
+                      className="home-testimonial__swoosh--abby"
                     ></div>
-                    <div aria-hidden="true" class="home-testimonial__stamp">
+                    <div aria-hidden="true" className="home-testimonial__stamp">
                       <img
                         loading="lazy"
                         src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-found.svg"
@@ -302,21 +302,21 @@ function Home() {
                       />
                     </div>
                   </div>
-                  <div class="home-testimonial__quote home-testimonial__quote--abby home-testimonial__quote--debut">
+                  <div className="home-testimonial__quote home-testimonial__quote--abby home-testimonial__quote--debut">
                     During my college search, I was having a difficult time
                     narrowing down what I wanted in a HOME, so I used Dwellics to
                     help. I especially liked looking at the rankings for
                     different aspects of the college experience, like the
                     campus, academics, and much more!
                   </div>
-                  <div class="home-testimonial__quoter home-testimonial__quoter--debut">
+                  <div className="home-testimonial__quoter home-testimonial__quoter--debut">
                     Abby D.
                   </div>
                 </li>
-                <li class="home-testimonial__slide" aria-hidden="true">
-                  <div class="home-testimonial__canvas">
+                <li className="home-testimonial__slide" aria-hidden="true">
+                  <div className="home-testimonial__canvas">
                     <div
-                      class="home-testimonial__pic-1"
+                      className="home-testimonial__pic-1"
                       id="testimonialAnimation"
                     >
                       <picture>
@@ -339,7 +339,7 @@ function Home() {
                         />
                       </picture>
                     </div>
-                    <div class="home-testimonial__pic-2">
+                    <div className="home-testimonial__pic-2">
                       <picture>
                         <source
                           srcset="
@@ -362,11 +362,11 @@ function Home() {
                     </div>
                     <div
                       aria-hidden="true"
-                      class="home-testimonial__swoosh--dayna"
+                      className="home-testimonial__swoosh--dayna"
                     ></div>
                     <div
                       aria-hidden="true"
-                      class="home-testimonial__stamp home-testimonial__stamp--dayna"
+                      className="home-testimonial__stamp home-testimonial__stamp--dayna"
                     >
                       <img
                         loading="lazy"
@@ -375,18 +375,18 @@ function Home() {
                       />
                     </div>
                   </div>
-                  <div class="home-testimonial__quote home-testimonial__quote--dayna">
+                  <div className="home-testimonial__quote home-testimonial__quote--dayna">
                     I am so grateful for Dwellics and their resources. Schooling
                     children at home has truly had its challenges. But having
                     resources has made it so much easier. Finding the right
                     programs for my little ones has been invaluable.
                   </div>
-                  <div class="home-testimonial__quoter">Dayna M.</div>
+                  <div className="home-testimonial__quoter">Dayna M.</div>
                 </li>
-                <li class="home-testimonial__slide" aria-hidden="true">
-                  <div class="home-testimonial__canvas">
+                <li className="home-testimonial__slide" aria-hidden="true">
+                  <div className="home-testimonial__canvas">
                     <div
-                      class="home-testimonial__pic-1"
+                      className="home-testimonial__pic-1"
                       id="testimonialAnimation"
                     >
                       <picture>
@@ -409,7 +409,7 @@ function Home() {
                         />
                       </picture>
                     </div>
-                    <div class="home-testimonial__pic-2">
+                    <div className="home-testimonial__pic-2">
                       <picture>
                         <source
                           srcset="
@@ -432,9 +432,9 @@ function Home() {
                     </div>
                     <div
                       aria-hidden="true"
-                      class="home-testimonial__swoosh--clay"
+                      className="home-testimonial__swoosh--clay"
                     ></div>
-                    <div aria-hidden="true" class="home-testimonial__stamp">
+                    <div aria-hidden="true" className="home-testimonial__stamp">
                       <img
                         loading="lazy"
                         src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-clay.svg"
@@ -442,19 +442,19 @@ function Home() {
                       />
                     </div>
                   </div>
-                  <div class="home-testimonial__quote home-testimonial__quote--clay">
+                  <div className="home-testimonial__quote home-testimonial__quote--clay">
                     When I was applying to college, I had no idea what I was
                     looking for. Dwellics helped me explore different schools and
                     see breakdowns on many aspects of their programs! Thanks to
                     Dwellics, I found a HOME that was a perfect fit!
                   </div>
-                  <div class="home-testimonial__quoter">Clay N.</div>
+                  <div className="home-testimonial__quoter">Clay N.</div>
                 </li>
               </ul>
             </div>
           </section>
-          <section class="home-features">
-            <div class="home-background-squiggle home-background-squiggle--green">
+          <section className="home-features">
+            <div className="home-background-squiggle home-background-squiggle--green">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 1512 3578.12"
@@ -462,16 +462,16 @@ function Home() {
                 <path d="M1512,556.42s-38-103-214-151.21C1135.43,360.67,1019.11,430,873,371c-141.22-57-70.34-103.33-199.7-163.65-155.48-72.5-326.65,9.32-412.23-72.5C146.07,25,0,.23,0,.23V3578.35H1512Z"></path>
               </svg>
             </div>
-            <div class="home-features__copy-container">
-              <h2 class="home-header home-header--features">
-                <div class="type--weight-600 home-header__kicker">
+            <div className="home-features__copy-container">
+              <h2 className="home-header home-header--features">
+                <div className="type--weight-600 home-header__kicker">
                   Stay On Track
                 </div>
               </h2>
-              <p class="type--weight-700 home-header home-header--features home-header__title">
+              <p className="type--weight-700 home-header home-header--features home-header__title">
                 Tools to organize&nbsp;your HOME&nbsp;search.
               </p>
-              <div class="home-squiggle home-squiggle--features">
+              <div className="home-squiggle home-squiggle--features">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 186 17"
@@ -480,23 +480,23 @@ function Home() {
                   <path d="M184.68 8.95006C169.95 1.68006 152.06 1.68006 137.32 8.95006C124.03 15.5101 107.9 15.5101 94.61 8.95006C79.88 1.68006 61.99 1.68006 47.25 8.95006C33.96 15.5101 17.83 15.5101 4.54 8.95006L1 7.43006"></path>
                 </svg>
               </div>
-              <div class="type--weight-400 home-body home-body--features">
+              <div className="type--weight-400 home-body home-body--features">
                 We&apos;ll help you build your list, track your progress and get
                 new recommendations as your search narrows.
               </div>
-              <div class="home-features__cta-wrap">
+              <div className="home-features__cta-wrap">
                 <a
                   href="#"
-                  class="type--weight-600 home-features__cta"
+                  className="type--weight-600 home-features__cta"
                   tabindex="0"
                 >
                   Start Exploring
                 </a>
               </div>
             </div>
-            <div aria-hidden="true" class="home-features__animation-wrap">
+            <div aria-hidden="true" className="home-features__animation-wrap">
               <div
-                class="home-features__animation"
+                className="home-features__animation"
                 id="featuresAnimation"
                 role="button"
                 aria-label="Animation, Search and manage schools; Click to pause"
@@ -2384,24 +2384,24 @@ function Home() {
               </div>
             </div>
           </section>
-          <section class="home-compare">
-            <div class="home-compare__stamp">
+          <section className="home-compare">
+            <div className="home-compare__stamp">
               <img
                 loading="lazy"
                 src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-everything.svg"
                 alt=""
               />
             </div>
-            <div class="home-compare__copy-container">
-              <h2 class="home-header home-header--compare">
-                <div class="type--weight-600 home-header__kicker">
+            <div className="home-compare__copy-container">
+              <h2 className="home-header home-header--compare">
+                <div className="type--weight-600 home-header__kicker">
                   Choose Your HOME
                 </div>
               </h2>
-              <p class="type--weight-700 home-header home-header--compare home-header__title">
+              <p className="type--weight-700 home-header home-header--compare home-header__title">
                 Everything you need to make your&nbsp;decision.
               </p>
-              <div class="home-squiggle home-squiggle--compare">
+              <div className="home-squiggle home-squiggle--compare">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 186 17"
@@ -2410,18 +2410,18 @@ function Home() {
                   <path d="M184.68 8.95006C169.95 1.68006 152.06 1.68006 137.32 8.95006C124.03 15.5101 107.9 15.5101 94.61 8.95006C79.88 1.68006 61.99 1.68006 47.25 8.95006C33.96 15.5101 17.83 15.5101 4.54 8.95006L1 7.43006"></path>
                 </svg>
               </div>
-              <div class="type--weight-400 home-body home-body--compare">
+              <div className="type--weight-400 home-body home-body--compare">
                 With the information you care about on every HOME in America,
                 we make it easy for you to compare schools and colleges to make
                 your decision.
               </div>
-              <ul class="home-compare__links">
-                <li class="home-compare__link">
+              <ul className="home-compare__links">
+                <li className="home-compare__link">
                   <a href="#" tabindex="0">
-                    Compare K-12 Schools
+                    Compare  Homes
                   </a>
                 </li>
-                <li class="home-compare__link">
+                <li className="home-compare__link">
                   <a
                     href="#"
                     tabindex="0"
@@ -2431,9 +2431,9 @@ function Home() {
                 </li>
               </ul>
             </div>
-            <div aria-hidden="true" class="home-compare__animation-wrap">
+            <div aria-hidden="true" className="home-compare__animation-wrap">
               <div
-                class="home-compare__animation"
+                className="home-compare__animation"
                 id="compareAnimation"
                 role="button"
                 aria-label="Animation, Compare schools easily; Click to pause"
@@ -4160,9 +4160,9 @@ function Home() {
               </div>
             </div>
           </section>
-          <section class="home-rankings">
-            <div class="home-wavy-edge home-wavy-edge--rankings">
-              <div class="home-wavy-edge__inner">
+          <section className="home-rankings">
+            <div className="home-wavy-edge home-wavy-edge--rankings">
+              <div className="home-wavy-edge__inner">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 45">
                   <path
                     d="M2000,17.26a2.6,2.6,0,0,1-.4.49C1970.2,16.56,1970.41,5,1941,5s-29.42,12.75-58.84,12.75S1852.73,5,1823.31,5s-29.42,12.75-58.83,12.75S1735.06,5,1705.64,5s-29.41,12.75-58.83,12.75S1617.39,5,1588,5s-29.41,12.75-58.83,12.75S1499.72,5,1470.3,5s-29.41,12.75-58.83,12.75S1382.05,5,1352.64,5s-29.42,12.75-58.83,12.75S1264.39,5,1235,5s-29.42,12.75-58.83,12.75S1146.73,5,1117.32,5s-29.42,12.75-58.83,12.75S1029.07,5,999.66,5s-29.42,12.75-58.84,12.75S911.41,5,882,5s-29.41,12.75-58.83,12.75S793.74,5,764.33,5,734.91,17.75,705.5,17.75,676.08,5,646.67,5s-29.42,12.75-58.84,12.75S558.42,5,529,5s-29.41,12.75-58.83,12.75S440.76,5,411.34,5s-29.41,12.75-58.83,12.75S323.1,5,293.68,5s-29.42,12.75-58.83,12.75S205.43,5,176,5,146.6,17.75,117.19,17.75,87.77,5,58.36,5C29.11,5,28.93,17.61,0,17.74V50H2000Z"
@@ -4171,15 +4171,15 @@ function Home() {
                 </svg>
               </div>
             </div>
-            <h2 class="home-header home-header--rankings">
-              <div class="type--weight-600 home-header__kicker">
+            <h2 className="home-header home-header--rankings">
+              <div className="type--weight-600 home-header__kicker">
                 2023 Rankings
               </div>
             </h2>
-            <p class="type--weight-700 home-header home-header--rankings home-header__title">
+            <p className="type--weight-700 home-header home-header--rankings home-header__title">
               Browse schools &amp; colleges by “best&nbsp;of”&nbsp;lists.
             </p>
-            <div class="home-squiggle home-squiggle--rankings">
+            <div className="home-squiggle home-squiggle--rankings">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 186 17"
@@ -4188,76 +4188,76 @@ function Home() {
                 <path d="M184.68 8.95006C169.95 1.68006 152.06 1.68006 137.32 8.95006C124.03 15.5101 107.9 15.5101 94.61 8.95006C79.88 1.68006 61.99 1.68006 47.25 8.95006C33.96 15.5101 17.83 15.5101 4.54 8.95006L1 7.43006"></path>
               </svg>
             </div>
-            <div class="type--weight-400 home-body home-body--rankings">
+            <div className="type--weight-400 home-body home-body--rankings">
               We combine the reviews and the data to put together these
               comprehensive lists to get you started.
             </div>
-            <ul class="home-rankings__ranks">
-              <li class="home-rankings__rank">
+            <ul className="home-rankings__ranks">
+              <li className="home-rankings__rank">
                 <a
                   href="#"
-                  class="home-rankings__rank__link"
+                  className="home-rankings__rank__link"
                   tabindex="0"
                 >
-                  <figure class="home-rankings__rank__badge">
+                  <figure className="home-rankings__rank__badge">
                     <div
-                      class="rankings-badge"
+                      className="rankings-badge"
                       data-size="large"
                       data-theme="salt"
                       data-vertical="colleges"
                       data-testid="rankings-badge"
                     ></div>
                   </figure>
-                  <span class="type--weight-600 home-rankings__rank__cta">
+                  <span className="type--weight-600 home-rankings__rank__cta">
                     View Best Colleges
                   </span>
                 </a>
               </li>
-              <li class="home-rankings__rank">
+              <li className="home-rankings__rank">
                 <a
                   href="#"
-                  class="home-rankings__rank__link"
+                  className="home-rankings__rank__link"
                   tabindex="0"
                 >
-                  <figure class="home-rankings__rank__badge">
+                  <figure className="home-rankings__rank__badge">
                     <div
-                      class="rankings-badge"
+                      className="rankings-badge"
                       data-size="large"
                       data-theme="salt"
                       data-vertical="k12"
                       data-testid="rankings-badge"
                     ></div>
                   </figure>
-                  <span class="type--weight-600 home-rankings__rank__cta">
+                  <span className="type--weight-600 home-rankings__rank__cta">
                     View Best Homes
                   </span>
                 </a>
               </li>
-              <li class="home-rankings__rank">
+              <li className="home-rankings__rank">
                 <a
                   href="#"
-                  class="home-rankings__rank__link"
+                  className="home-rankings__rank__link"
                   tabindex="0"
                 >
-                  <figure class="home-rankings__rank__badge">
+                  <figure className="home-rankings__rank__badge">
                     <div
-                      class="rankings-badge"
+                      className="rankings-badge"
                       data-size="large"
                       data-theme="salt"
                       data-vertical="k12"
                       data-testid="rankings-badge"
                     ></div>
                   </figure>
-                  <span class="type--weight-600 home-rankings__rank__cta">
+                  <span className="type--weight-600 home-rankings__rank__cta">
                     View Best Districts
                   </span>
                 </a>
               </li>
             </ul>
           </section>
-          <section class="home-partners">
-            <div class="home-wavy-edge home-wavy-edge--partners">
-              <div class="home-wavy-edge__inner">
+          <section className="home-partners">
+            <div className="home-wavy-edge home-wavy-edge--partners">
+              <div className="home-wavy-edge__inner">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 45">
                   <path
                     d="M2000,17.26a2.6,2.6,0,0,1-.4.49C1970.2,16.56,1970.41,5,1941,5s-29.42,12.75-58.84,12.75S1852.73,5,1823.31,5s-29.42,12.75-58.83,12.75S1735.06,5,1705.64,5s-29.41,12.75-58.83,12.75S1617.39,5,1588,5s-29.41,12.75-58.83,12.75S1499.72,5,1470.3,5s-29.41,12.75-58.83,12.75S1382.05,5,1352.64,5s-29.42,12.75-58.83,12.75S1264.39,5,1235,5s-29.42,12.75-58.83,12.75S1146.73,5,1117.32,5s-29.42,12.75-58.83,12.75S1029.07,5,999.66,5s-29.42,12.75-58.84,12.75S911.41,5,882,5s-29.41,12.75-58.83,12.75S793.74,5,764.33,5,734.91,17.75,705.5,17.75,676.08,5,646.67,5s-29.42,12.75-58.84,12.75S558.42,5,529,5s-29.41,12.75-58.83,12.75S440.76,5,411.34,5s-29.41,12.75-58.83,12.75S323.1,5,293.68,5s-29.42,12.75-58.83,12.75S205.43,5,176,5,146.6,17.75,117.19,17.75,87.77,5,58.36,5C29.11,5,28.93,17.61,0,17.74V50H2000Z"
@@ -4266,16 +4266,16 @@ function Home() {
                 </svg>
               </div>
             </div>
-            <div class="home-partners__copy-container">
-              <h2 class="home-header home-header--partners">
-                <div class="type--weight-600 home-header__kicker">
+            <div className="home-partners__copy-container">
+              <h2 className="home-header home-header--partners">
+                <div className="type--weight-600 home-header__kicker">
                   Partner With Dwellics
                 </div>
               </h2>
-              <p class="type--weight-700 home-header home-header--partners home-header__title">
+              <p className="type--weight-700 home-header home-header--partners home-header__title">
                 For schools and&nbsp;colleges
               </p>
-              <div class="home-squiggle home-squiggle--partners">
+              <div className="home-squiggle home-squiggle--partners">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 186 17"
@@ -4284,37 +4284,37 @@ function Home() {
                   <path d="M184.68 8.95006C169.95 1.68006 152.06 1.68006 137.32 8.95006C124.03 15.5101 107.9 15.5101 94.61 8.95006C79.88 1.68006 61.99 1.68006 47.25 8.95006C33.96 15.5101 17.83 15.5101 4.54 8.95006L1 7.43006"></path>
                 </svg>
               </div>
-              <div class="type--weight-400 home-body home-body--partners">
-                Are you a college or K-12 HOME representative? Learn more
+              <div className="type--weight-400 home-body home-body--partners">
+                Are you a mortgage or HOME representative? Learn more
                 about how you can partner with Dwellics to connect with individuals
                 and families throughout the HOME search process.
               </div>
-              <div class="home-partners__cta-claim">
+              <div className="home-partners__cta-claim">
                 <a
                   href="#"
-                  class="home-partners__cta-claim__link"
+                  className="home-partners__cta-claim__link"
                   tabindex="0"
                 >
                   <span
-                    class="claimed-entity-icon home-partners__cta-claim__icon"
+                    className="claimed-entity-icon home-partners__cta-claim__icon"
                     aria-label="blue checkmark"
                     role="navigation"
                   ></span>
-                  <span class="type--weight-600 home-partners__cta-claim__text">
+                  <span className="type--weight-600 home-partners__cta-claim__text">
                     Claim Your HOME
                   </span>
                 </a>
               </div>
-              <div class="home-partners__cta-learn">
-                <button class="button home-button--green">Learn More</button>
+              <div className="home-partners__cta-learn">
+                <button className="button home-button--green">Learn More</button>
               </div>
             </div>
             <div
-              class="home-partners__photo-container home-partners__photo-container--animatable"
+              className="home-partners__photo-container home-partners__photo-container--animatable"
               id="partnerAnimation"
             >
-              <figure class="home-partners__photo home-partners__photo--photo1">
-                <div class="home-partners__photo__image-wrap">
+              <figure className="home-partners__photo home-partners__photo--photo1">
+                <div className="home-partners__photo__image-wrap">
                   <picture>
                     <source
                       srcset="
@@ -4335,12 +4335,12 @@ function Home() {
                     />
                   </picture>
                 </div>
-                <figcaption class="type--weight-600 home-partners__photo__caption">
+                <figcaption className="type--weight-600 home-partners__photo__caption">
                   Dartmouth College
                 </figcaption>
               </figure>
-              <figure class="home-partners__photo home-partners__photo--photo2">
-                <div class="home-partners__photo__image-wrap">
+              <figure className="home-partners__photo home-partners__photo--photo2">
+                <div className="home-partners__photo__image-wrap">
                   <picture>
                     <source
                       srcset="
@@ -4361,11 +4361,11 @@ function Home() {
                     />
                   </picture>
                 </div>
-                <figcaption class="type--weight-600 home-partners__photo__caption">
+                <figcaption className="type--weight-600 home-partners__photo__caption">
                   Nazareth Prep
                 </figcaption>
               </figure>
-              <figure class="home-partners__stamp">
+              <figure className="home-partners__stamp">
                 <img
                   loading="lazy"
                   src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-claim.svg"
@@ -4374,51 +4374,51 @@ function Home() {
               </figure>
             </div>
             <div
-              class="home-partners__logos-wrap"
+              className="home-partners__logos-wrap"
               style={{ gridTemplateColumns: "repeat(4, 1fr)" }}
             >
-              <div class="type--weight-700 home-partners__logos-title">
+              <div className="type--weight-700 home-partners__logos-title">
                 Over 1,700 schools partner with Dwellics
               </div>
-              <ul class="home-partners__logos">
-                <li class="home-partners__logo">
+              <ul className="home-partners__logos">
+                <li className="home-partners__logo">
                   <img
                     loading="lazy"
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/logo-phillips-andover.png"
-                    class="home-partners__logo__image"
+                    className="home-partners__logo__image"
                     alt="Phillips Academy Andover logo"
                   />
                 </li>
-                <li class="home-partners__logo">
+                <li className="home-partners__logo">
                   <img
                     loading="lazy"
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/logo-oregon.png"
-                    class="home-partners__logo__image"
+                    className="home-partners__logo__image"
                     alt="University of Oregon logo"
                   />
                 </li>
-                <li class="home-partners__logo">
+                <li className="home-partners__logo">
                   <img
                     loading="lazy"
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/logo-wash-jeff.png"
-                    class="home-partners__logo__image"
+                    className="home-partners__logo__image"
                     alt="Washington and Jefferson College logo"
                   />
                 </li>
-                <li class="home-partners__logo">
+                <li className="home-partners__logo">
                   <img
                     loading="lazy"
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/logo-marquette.png"
-                    class="home-partners__logo__image"
+                    className="home-partners__logo__image"
                     alt="Marquette University logo"
                   />
                 </li>
               </ul>
             </div>
           </section>
-          <section class="home-started">
-            <div class="home-wavy-edge home-wavy-edge--start">
-              <div class="home-wavy-edge__inner">
+          <section className="home-started">
+            <div className="home-wavy-edge home-wavy-edge--start">
+              <div className="home-wavy-edge__inner">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 45">
                   <path
                     d="M2000,17.26a2.6,2.6,0,0,1-.4.49C1970.2,16.56,1970.41,5,1941,5s-29.42,12.75-58.84,12.75S1852.73,5,1823.31,5s-29.42,12.75-58.83,12.75S1735.06,5,1705.64,5s-29.41,12.75-58.83,12.75S1617.39,5,1588,5s-29.41,12.75-58.83,12.75S1499.72,5,1470.3,5s-29.41,12.75-58.83,12.75S1382.05,5,1352.64,5s-29.42,12.75-58.83,12.75S1264.39,5,1235,5s-29.42,12.75-58.83,12.75S1146.73,5,1117.32,5s-29.42,12.75-58.83,12.75S1029.07,5,999.66,5s-29.42,12.75-58.84,12.75S911.41,5,882,5s-29.41,12.75-58.83,12.75S793.74,5,764.33,5,734.91,17.75,705.5,17.75,676.08,5,646.67,5s-29.42,12.75-58.84,12.75S558.42,5,529,5s-29.41,12.75-58.83,12.75S440.76,5,411.34,5s-29.41,12.75-58.83,12.75S323.1,5,293.68,5s-29.42,12.75-58.83,12.75S205.43,5,176,5,146.6,17.75,117.19,17.75,87.77,5,58.36,5C29.11,5,28.93,17.61,0,17.74V50H2000Z"
@@ -4427,7 +4427,7 @@ function Home() {
                 </svg>
               </div>
             </div>
-            <div class="home-start__illustration">
+            <div className="home-start__illustration">
               <picture>
                 <source
                   srcset="
@@ -4448,13 +4448,13 @@ function Home() {
                 />
               </picture>
             </div>
-            <div class="home-start__content-container">
-              <h2 class="home-header home-header--start">
-                <div class="type--weight-700 home-header__title">
+            <div className="home-start__content-container">
+              <h2 className="home-header home-header--start">
+                <div className="type--weight-700 home-header__title">
                   Not sure where to start?
                 </div>
               </h2>
-              <div class="home-squiggle home-squiggle--start">
+              <div className="home-squiggle home-squiggle--start">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 186 17"
@@ -4463,27 +4463,27 @@ function Home() {
                   <path d="M184.68 8.95006C169.95 1.68006 152.06 1.68006 137.32 8.95006C124.03 15.5101 107.9 15.5101 94.61 8.95006C79.88 1.68006 61.99 1.68006 47.25 8.95006C33.96 15.5101 17.83 15.5101 4.54 8.95006L1 7.43006"></path>
                 </svg>
               </div>
-              <div class="type--weight-400 home-body home-body--start">
+              <div className="type--weight-400 home-body home-body--start">
                 Tell us what matters most to you and we&apos;ll create a custom
                 list of schools tailored to fit your needs.
               </div>
-              <ul class="home-start__ctas">
-                <li class="home-start__cta">
+              <ul className="home-start__ctas">
+                <li className="home-start__cta">
                   <a
                     href="#"
-                    class="button home-button--green home-start__button-block"
+                    className="button home-button--green home-start__button-block"
                     tabindex="0"
                   >
                     Take our College Quiz
                   </a>
                 </li>
-                <li class="home-start__cta">
+                <li className="home-start__cta">
                   <a
                     href="#"
-                    class="button home-button--green home-start__button-block"
+                    className="button home-button--green home-start__button-block"
                     tabindex="0"
                   >
-                    Find K-12 Schools Near You
+                    Find homes near you
                   </a>
                 </li>
               </ul>

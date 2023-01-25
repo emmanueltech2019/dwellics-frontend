@@ -135,6 +135,7 @@ function aboutData() {
                 </div>
               </div>
             </div>
+            </div>
           </section>
 
           <div className="about-background about-background--angle about-layout--p-t-0 about-layout--p-b-30 about-background--green05">
@@ -152,13 +153,10 @@ function aboutData() {
                   <div className="about-grid__group about-grid__group--add-padding">
                     <div className="about-text"></div>
                     <div className="about-text about-text--25-30 about-text--pad-b-1">
-                      Real Reviews &amp; Outcomes
+                    Reviews &amp; Outcomes
                     </div>
                     <div className="about-text about-text--leading-130">
-                      We&apos;ve gathered over 100 million reviews and survey
-                      responses from students, parents, and residents to help
-                      you better understand what a school or neighborhood is
-                      really like.
+                    With millions of reviews and survey responses gathered from mothers, fathers, students, home buyers and residents, you are equipped with information to learn what is trending and where to focus your marketing strategies.
                     </div>
                   </div>
                 </div>
@@ -182,10 +180,7 @@ function aboutData() {
                       Rigorous Analysis
                     </div>
                     <div className="about-text about-text--leading-130">
-                      Our Data Team uses advanced algorithms and statistical
-                      techniques to compare, score, and connect millions of data
-                      points to thoroughly analyze U.S. schools and
-                      neighborhoods.
+                    Dwellics functions on data. We have a dedicated data team that meticulously analyses our data using state-of-the-art technology and algorithms. This ensures that the data we offer you is ever effective in comparing and connecting all the datapoints from cities, communities, neighborhoods and zip codes
                     </div>
                   </div>
                 </div>
@@ -209,21 +204,7 @@ function aboutData() {
                       Rankings, Grades, and Profiles
                     </div>
                     <div className="about-text about-text--leading-130">
-                      From rigorous analysis, we refine and simplify complex
-                      data into comparable rankings, grades, and profiles for
-                      schools and neighborhoods. See how we calculate our
-                      <a href="#">
-                        Best Places to Live
-                      </a>
-                      ,
-                      <a href="#">
-                        K-12
-                      </a>
-                      , and
-                      <a href="#">
-                        College
-                      </a>
-                      rankings.
+                    Dwellics transforms complex data sets into thoroughly analyzed and simplified data in a way that makes it super useful and relevant to you our client through easily comparable profiles, rankings, and grades. Click to see how we calculate our Homebuyers data and Places to live data.
                     </div>
                   </div>
                 </div>
@@ -233,17 +214,11 @@ function aboutData() {
             <section className="about-layout-wrap about-layout--max-w-700 text-white " style={{color:"#fff !important"}}>
               <div className="about-layout about-layout--m-t-0 text-white" style={{color:"#fff !important"}}>
                 <div className="about-text about-text--25-30 about-text--pad-b-1 text-white" style={{color:"#fff !important"}}>
-                  Interested in Licensing our Data?
+                Want a Slice of Our Data License?
                 </div>
 
                 <div className="about-text about-text--18 about-text--leading-150 text-changw">
-                  Dwellics has the most comprehensive data on U.S. K-12 schools,
-                  colleges, and places (neighborhoods, cities, ZIP codes, etc.).
-                  We offer data solutions for the education and real estate
-                  industries as well as custom solutions for brands and market
-                  research. Our rankings, reviews, and statistics power
-                  applications, research, and media coverage of U.S. schools and
-                  neighborhoods.
+                At Dwellics, we boast of robust, all-inclusive data which immensely benefits real estate brokers and agents, mortgage brokers and agents, and moving companies. We provide authentic public data sets thoroughly analyzed in a way that makes it super useful and relevant to you our client, helping you successfully attain business growth.
                 </div>
 
                 <div className="about-button-center about-text--pad-t-4">
