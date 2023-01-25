@@ -91,7 +91,7 @@ function partner() {
                     className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
                     Niche enables school administrators to claim their school.
-                    Get access to manage your school’s profile on Niche.
+                    Get access to manage your school&apos;s profile on Niche.
                   </div>
 
                   <div
@@ -345,7 +345,7 @@ function partner() {
                 style={{ paddingBottom: "28px" }}
                 class="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
               >
-                Get access to manage your school’s profile on Niche for free.
+                Get access to manage your school&apos;s profile on Niche for free.
                 You’ll be able to track engagement and update your information.
                 Upgrade to Premium to motivate users to drive more applications,
                 visits, and inquiries.

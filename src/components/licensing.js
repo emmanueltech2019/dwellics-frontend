@@ -35,10 +35,10 @@ function licensing() {
           <span style={{fontWeight: "400"}}>
             Dwellics thoroughly cleans and curates all of our K-12 school data. Our
             data covers all U.S. school districts, private schools, and public
-            schools. Dwellics’s K-12 coverage promises clean names, up-to-date
+            schools. Dwellics&apos;s K-12 coverage promises clean names, up-to-date
             data, and rigorously compiled rankings. Our school rankings are
             carefully compiled using dozens of factors and advanced statistical
-            techniques. Dwellics’s data solutions are great for both internal use
+            techniques. Dwellics&apos;s data solutions are great for both internal use
             and client-facing applications.
           </span>
         </p>
@@ -71,7 +71,7 @@ function licensing() {
         </p>
         <p>
           <span style={{fontWeight: "400"}}>
-            Dwellics’s data solutions are delivered as a custom file, as we don’t
+            Dwellics&apos;s data solutions are delivered as a custom file, as we don’t
             currently have an API. Our data licenses are typically issued
             annually, although Dwellics can accommodate monthly or quarterly
             updates in some cases. All files are issued at the national level,

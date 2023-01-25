@@ -167,7 +167,7 @@ function aboutData() {
                       Real Reviews &amp; Outcomes
                     </div>
                     <div className="about-text about-text--leading-130">
-                      We’ve gathered over 100 million reviews and survey
+                      We&apos;ve gathered over 100 million reviews and survey
                       responses from students, parents, and residents to help
                       you better understand what a school or neighborhood is
                       really like.
@@ -433,10 +433,10 @@ function aboutData() {
                             className="about-link"
                             href="https://www.niche.com/k12/survey/"
                           >
-                            Niche's School Survey Sweepstakes
+                            Niche&apos;s School Survey Sweepstakes
                           </a>
                         </strong>
-                        helps others find the area that's right for them.
+                        helps others find the area that&apos;s right for them.
                       </div>
                     </div>
                   </li>
@@ -617,10 +617,10 @@ function aboutData() {
                             className="about-link"
                             href="https://www.niche.com/colleges/survey/"
                           >
-                            Niche's College Student Survey
+                            Niche&apos;s College Student Survey
                           </a>
                         </strong>
-                        helps others find the college that's right for them.
+                        helps others find the college that&apos;s right for them.
                       </div>
                     </div>
                   </li>
@@ -863,10 +863,10 @@ function aboutData() {
                       <div className="about-data-source__cta-text">
                         <strong>
                           <a className="about-link" href="#">
-                            Niche's Local Survey
+                            Niche&apos;s Local Survey
                           </a>
                         </strong>
-                        helps others find the area that's right for them.
+                        helps others find the area that&apos;s right for them.
                       </div>
                     </div>
                   </li>

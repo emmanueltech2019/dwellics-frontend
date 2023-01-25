@@ -63,7 +63,7 @@ function Home() {
                     </svg>
                   </div>
                   <div class="type--weight-400 home-body home-body--hero">
-                    Finding the right school shouldn’t be hard. From K‑12 to
+                    Finding the right school shouldn&apos;t be hard. From K‑12 to
                     college to grad school, we make it easy to discover and
                     connect with the best ones for you.
                   </div>
@@ -196,7 +196,7 @@ function Home() {
                     <div
                       class="type--weight-400 home-body home-why-reason__body"
                     >
-                      We personalize your search based on what's most important
+                      We personalize your search based on what&apos;s most important
                       to you.
                     </div>
                   </li>
@@ -482,7 +482,7 @@ function Home() {
                     </svg>
                   </div>
                   <div class="type--weight-400 home-body home-body--features">
-                    We'll help you build your list, track your progress and get
+                    We&apos;ll help you build your list, track your progress and get
                     new recommendations as your search narrows.
                   </div>
                   <div class="home-features__cta-wrap">
@@ -4370,7 +4370,7 @@ function Home() {
                     </svg>
                   </div>
                   <div class="type--weight-400 home-body home-body--start">
-                    Tell us what matters most to you and we'll create a custom
+                    Tell us what matters most to you and we&apos;ll create a custom
                     list of schools tailored to fit your needs.
                   </div>
                   <ul class="home-start__ctas">
