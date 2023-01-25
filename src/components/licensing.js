@@ -50,7 +50,7 @@ function licensing() {
         <p>
           <span style={{fontWeight: "400"}}>
           Mortgage leads are essential to every real estate and mortgage business and Dwellics goal is to provide perfect data solutions. Our data packages are available for various budgets on monthly and annually. 
-If you want more information on our packages and pricing, please send a detailed email of your specific needs and use to <a href="mailto:licensing@dwellics.com">licensing@dwellics.com</a>
+If you want more information on our packages and pricing, please send a detailed email of your specific needs and usage to <a href="mailto:licensing@dwellics.com">licensing@dwellics.com</a>
           </span>
         </p>
 

@@ -45,12 +45,12 @@ function Navbar() {
               </div>
               <div className="global-nav__logo">
                 <a
-                  title="Niche"
-                  href="https://www.niche.com/"
+                  title="Dwellics"
+                  href="#"
                   data-after-sherlock="true"
-                  aria-label="Niche Home"
+                  aria-label="Dwellics Home"
                 >
-                    <Image src={Logo} alt=""/>
+                    <Image src={Logo} alt="" className="h-10"/>
                 </a>
               </div>
               <div className="global-nav__primary--collapsed-inner">
@@ -59,7 +59,7 @@ function Navbar() {
                     <ul className="global-links__list">
                       <li className="global-links__item">
                         <a
-                          href="https://www.niche.com/k12/search/best-schools/s/massachusetts/"
+                          href="#"
                           role="button"
                         >
                           Homebuyers data
@@ -67,7 +67,7 @@ function Navbar() {
                       </li>
                       <li className="global-links__item">
                         <a
-                          href="https://www.niche.com/Places to live data/search/best-Places to live data/s/massachusetts/"
+                          href="#"
                           role="button"
                         >
                           Places to live data
@@ -75,7 +75,7 @@ function Navbar() {
                       </li>
                       <li className="global-links__item">
                         <a
-                          href="https://www.niche.com/graduate-schools/search/best-graduate-schools/s/massachusetts/"
+                          href="#"
                           role="button"
                         >
                           Graduate Schools
@@ -83,7 +83,7 @@ function Navbar() {
                       </li>
                       <li className="global-links__item">
                         <a
-                          href="https://www.niche.com/Places to live data/scholarships/"
+                          href="#"
                           role="button"
                         >
                           Market Insights
@@ -91,7 +91,7 @@ function Navbar() {
                       </li>
                       <li className="global-links__item">
                         <a
-                          href="https://www.niche.com/places-to-live/search/best-places-to-live/s/massachusetts/"
+                          href="#"
                           role="button"
                         >
                           Places to Live
@@ -99,7 +99,7 @@ function Navbar() {
                       </li>
                       <li className="global-links__item">
                         <a
-                          href="https://www.niche.com/places-to-work/search/all-workplaces/s/massachusetts/"
+                          href="#"
                           role="button"
                         >
                           Places to Work
@@ -366,33 +366,33 @@ function Navbar() {
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/k12/search/best-school-districts/s/massachusetts/">
+                <a href="#">
                   District Search
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/k12/rankings/">
+                <a href="#">
                   School Rankings
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/k12/schools-near-you/">
+                <a href="#">
                   Schools Near You
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/about/k12-quiz/">Homebuyers data Quiz</a>
+                <a href="#">Homebuyers data Quiz</a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/k12/compare/">Compare Schools</a>
+                <a href="#">Compare Schools</a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/k12/survey/">
+                <a href="#">
                   Review Your School
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/blog/topics/parent-resources/?ref=megamenu">
+                <a href="#">
                   Parent Resources
                 </a>
               </li>
@@ -401,7 +401,7 @@ function Navbar() {
               <div className="mega-menu__category-label">
                 <a
                   className="mega-menu-category-label__link"
-                  href="https://www.niche.com/Places to live data/search/best-Places to live data/s/massachusetts/"
+                  href="#"
                   aria-label="Places to live data Group - Click to collapse"
                 >
                   Places to live data
@@ -425,57 +425,57 @@ function Navbar() {
                 </div>
               </div>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/Places to live data/search/best-Places to live data/s/massachusetts/">
+                <a href="#">
                   College Search
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/Places to live data/search/best-online-Places to live data/">
+                <a href="#">
                   Online College Search
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/Places to live data/rankings/">
+                <a href="#">
                   College Rankings
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/Places to live data/college-quiz/">
+                <a href="#">
                   College Quiz
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/Places to live data/scholarships/">
+                <a href="#">
                   Scholarships
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/Places to live data/scholarships/no-essay-scholarship/">
+                <a href="#">
                   $2,000 No Essay Scholarship
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/about/find-private-student-loans/">
+                <a href="#">
                   Student Loans
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/Places to live data/admissions-calculator/">
+                <a href="#">
                   Admissions Calculator
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/Places to live data/compare/">
+                <a href="#">
                   Compare Places to live data
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/Places to live data/survey/">
+                <a href="#">
                   Review Your College
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/blog/topics/college-guidance/?ref=megamenu">
+                <a href="#">
                   College Guidance
                 </a>
               </li>
@@ -484,7 +484,7 @@ function Navbar() {
               <div className="mega-menu__category-label">
                 <a
                   className="mega-menu-category-label__link"
-                  href="https://www.niche.com/graduate-schools/search/best-graduate-schools/s/massachusetts/"
+                  href="#"
                   aria-label="Graduate Schools Group - Click to collapse"
                 >
                   Mortgage leads
@@ -508,22 +508,22 @@ function Navbar() {
                 </div>
               </div>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/graduate-schools/search/best-graduate-schools/s/massachusetts/">
+                <a href="#">
                   Grad School Search
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/graduate-schools/programs/">
+                <a href="#">
                   Graduate Programs
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/graduate-schools/graduate-school-survey-scholarship/">
+                <a href="#">
                   $1,000 Graduate Survey Scholarship
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/graduate-schools/survey/">
+                <a href="#">
                   Review Your Grad School
                 </a>
               </li>
@@ -532,7 +532,7 @@ function Navbar() {
               <div className="mega-menu__category-label">
                 <a
                   className="mega-menu-category-label__link"
-                  href="https://www.niche.com/places-to-live/search/best-places-to-live/s/massachusetts/"
+                  href="#"
                   aria-label="Places To Live Group - Click to collapse"
                 >
                   PLACES TO LIVE
@@ -556,56 +556,56 @@ function Navbar() {
                 </div>
               </div>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/places-to-live/search/best-places-to-live/s/massachusetts/">
+                <a href="#">
                   Find Places to Live
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/places-to-live/rankings/">
+                <a href="#">
                   Rankings
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/places-to-live/survey/">
+                <a href="#">
                   Review Your Area
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/places-to-work/search/all-workplaces/s/massachusetts/">
+                <a href="#">
                   Find Places to Work
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/places-to-work/survey/">
+                <a href="#">
                   Review Your Company
                 </a>
               </li>
               <li className="mega-menu__item">
-                <a href="https://www.niche.com/blog/topics/home-buying-tips/?ref=megamenu">
+                <a href="#">
                   Home Buying Tips
                 </a>
               </li>
             </ul>
             <ul className="mega-menu__niche-links-wrap">
               <li className="mega-menu__niche-link">
-                <a href="https://www.niche.com/about/">About Niche</a>
+                <a href="#">About Niche</a>
               </li>
               <li className="mega-menu__niche-link">
-                <a href="https://www.niche.com/about/data/">Niche Data</a>
+                <a href="#">Niche Data</a>
               </li>
               <li className="mega-menu__niche-link">
-                <a href="https://www.niche.com/about/team/">Careers</a>
+                <a href="#">Careers</a>
               </li>
               <li className="mega-menu__niche-link">
-                <a href="https://www.niche.com/blog/?ref=megamenu">Blog</a>
+                <a href="#">Blog</a>
               </li>
               <li className="mega-menu__niche-link">
-                <a href="https://www.niche.com/claim-your-school/">
+                <a href="#">
                   Claim Your School
                 </a>
               </li>
               <li className="mega-menu__niche-link">
-                <a href="/contact/">Contact Niche</a>
+                <a href="#">Contact Niche</a>
               </li>
             </ul>
           </nav>
