@@ -290,7 +290,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="http://www2.ed.gov/about/inits/ed/edfacts/data-files/index.html"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       US Department of Education
@@ -302,7 +302,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="http://nces.ed.gov/surveys/pss/"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Private School Universe Survey (PSS)
@@ -319,7 +319,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="http://nces.ed.gov/ccd/"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Common Core Data (CCD)
@@ -336,7 +336,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="http://nces.ed.gov/ccd/"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Common Core Data (CCD) School District Finance Survey
@@ -353,7 +353,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="http://ocrdata.ed.gov/"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Civil Rights Data Collection
@@ -369,7 +369,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="http://nces.ed.gov/surveys/sdds/sabs/#Datasets"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       School Attendance Boundary Survey (SABS)
@@ -385,7 +385,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="https://www.niche.com/k12/survey/"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Niche K-12 Student and Parent Surveys
@@ -401,7 +401,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="https://www.niche.com/k12/survey/"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Niche K-12 Student and Parent Surveys
@@ -488,7 +488,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="http://nces.ed.gov/ipeds/"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Integrated Postsecondary Education Data System (IPEDS)
@@ -505,7 +505,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="http://www2.ed.gov/about/offices/list/ope/index.html"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Office of Post-Secondary Education (OPE)
@@ -521,7 +521,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="https://mup.asu.edu/University-Data"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       The Center for Measuring University Performance
@@ -536,7 +536,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="https://collegescorecard.ed.gov/"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       College Scorecard Data
@@ -553,7 +553,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="http://www.brookings.edu/"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Brookings Institute
@@ -569,7 +569,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="https://nsf.gov/"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       National Science Foundation
@@ -585,7 +585,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="https://www.niche.com/colleges/survey/"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Niche College Student Survey
@@ -676,7 +676,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="http://www.census.gov/acs/www/"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       American Community Survey (ACS)
@@ -692,7 +692,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="http://www.fbi.gov/about-us/cjis/ucr/ucr"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Uniformed Crime Report
@@ -707,7 +707,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="http://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/climate-normals/1981-2010-normals-data"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       National Climatic Data Center (NCDC)
@@ -723,7 +723,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="https://www.census.gov/programs-surveys/geography.html"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Topologically Integrated Geographic Encoding and
@@ -739,7 +739,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="https://www.census.gov/programs-surveys/cbp/data.html"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       County Business Patterns
@@ -751,7 +751,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="https://www.census.gov/programs-surveys/cbp/data.html"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       ZIP Code Business Patterns
@@ -763,7 +763,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="http://www.ers.usda.gov/data-products/food-environment-atlas.aspx"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Food Environment Atlas
@@ -775,7 +775,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="https://www.volunteeringinamerica.gov/"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Volunteering and Civic Life in America
@@ -787,7 +787,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="http://www.irs.gov/Charities-&amp;-Non-Profits/Exempt-Organizations-Business-Master-File-Extract-EO-BMF"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Exempt Organizations Business Master File
@@ -799,7 +799,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="https://www.niche.com/about/urban-neighborhood-data-disclaimers-and-sources/"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Urban Neighborhood Boundaries and Statistics
@@ -810,7 +810,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="http://factle.com"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Factle
@@ -834,7 +834,7 @@ function aboutData() {
                     <a
                       className="about-link"
                       href="#"
-                      target="_blank"
+                      target="_blank"  rel="noreferrer"
                       rel="noopener noreferrer"
                     >
                       Niche Local Survey{" "}

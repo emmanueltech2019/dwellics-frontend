@@ -8,10 +8,10 @@ function Home() {
               ><div class="noscript">
                 <span
                   >Niche requires Javascript to work correctly. Please
-                  <a target="_blank" href="http://www.enable-javascript.com/"
+                  <a target="_blank"  rel="noreferrer" href="http://www.enable-javascript.com/"
                     >turn it on</a
                   >
-                  if you're experiencing issues.</span
+                  if you&apos;re experiencing issues.</span
                 >
               </div></noscript
             >
@@ -161,7 +161,7 @@ function Home() {
                     <div
                       class="type--weight-400 home-body home-why-reason__body"
                     >
-                      We analyze the data so you don't have to.
+                      We analyze the data so you don&apos;t have to.
                     </div>
                   </li>
                   <li class="home-why-reason">
