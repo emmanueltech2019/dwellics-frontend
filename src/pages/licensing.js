@@ -5,13 +5,13 @@ import styles from '@/styles/Home.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 import Layout from "@/components/layout"
-import HomeCom from "@/components/home"
+import LicensingCom from "@/components/licensing"
 
-export default function Home() {
+export default function Licensing() {
   return (
     <>
      <Layout>
-        <HomeCom/>
+        <LicensingCom/>
       </Layout>
     </>
   )

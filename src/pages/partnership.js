@@ -5,14 +5,16 @@ import styles from '@/styles/Home.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 import Layout from "@/components/layout"
-import HomeCom from "@/components/home"
+import PartnerCom from "@/components/partner"
 
-export default function Home() {
-  return (
-    <>
-     <Layout>
-        <HomeCom/>
-      </Layout>
-    </>
-  )
+function partnership() {
+    return (
+        <>
+         <Layout>
+            <PartnerCom/>
+          </Layout>
+        </>
+      )
 }
+
+export default partnership
