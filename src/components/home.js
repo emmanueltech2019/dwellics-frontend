@@ -4229,7 +4229,7 @@ function Home() {
                     ></div>
                   </figure>
                   <span class="type--weight-600 home-rankings__rank__cta">
-                    View Best K-12 Schools
+                    View Best Homes
                   </span>
                 </a>
               </li>

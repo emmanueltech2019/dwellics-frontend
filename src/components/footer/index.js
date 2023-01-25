@@ -107,16 +107,7 @@ function footer() {
                   Partnerships
                 </a>
               </li>
-              <li className="footer-static-list__item">
-                <a
-                  className="footer-static-list__link"
-                  href="#"
-                  rel="noopener"
-                  target="_self"
-                >
-                  Press
-                </a>
-              </li>
+              
               <li className="footer-static-list__item">
                 <a
                   className="footer-static-list__link"
@@ -244,8 +235,7 @@ function footer() {
           </div>
           <div className="footer-dynamic-nav-container">
             <p className="footer-tagline">
-              Discover the schools, companies, and neighborhoods that are right
-              for you.
+            Discover the Homebuyers data, Places to live data, and mortgage leads.
             </p>
             <ul className="footer-vertical-links">
               <li className="footer-vertical-links__item">

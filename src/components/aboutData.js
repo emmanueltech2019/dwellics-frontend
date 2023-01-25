@@ -88,8 +88,7 @@ function aboutData() {
               </div>
 
               <div className="about-text about-text--30-35 about-text--pad-b-1">
-                Dwellics has the most comprehensive data on U.S. schools and
-                neighborhoods.
+                Dwellics has the most comprehensive data on houses, mortgate and climate.
               </div>
 
               <div className="about-text about-text--18 about-text--leading-150">
@@ -112,20 +111,11 @@ function aboutData() {
                 <div className="about-grid__group about-grid__group--add-padding">
                   <div className="about-text"></div>
                   <div className="about-text about-text--25-30 about-text--pad-b-1">
-                    Comprehensive Data
+                  All-inclusive Data
                   </div>
                   <div className="about-text about-text--leading-130">
-                    We use the most up-to-date data available from dozens of
-                    public data sources including the
-                    <a href="https://www2.ed.gov/about/inits/ed/edfacts/data-files/index.html">
-                      Department of Education
-                    </a>
-                    ,
-                    <a href="https://www.census.gov/programs-surveys/acs/">
-                      U.S. Census
-                    </a>
-                    , and <a href="https://ucr.fbi.gov/ucr">FBI</a>.
-                  </div>
+                  We collate fresh, comprehensive data from various public data sources including the National Association of Realtors, the United States Census Bureau and the Federal Housing Finance Agency.
+                    
 
                   <div className="about-link-wrap">
                     <a className="about-link" href="#dataSources">

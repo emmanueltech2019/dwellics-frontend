@@ -166,7 +166,7 @@ function aboutDwellics() {
 				<div class="about-text about-text--18 about-text--leading-150 
 				 
 				about-text--pad-b-4">
-					Dwellics is the market leader in connecting colleges and schools with students and families. With in-depth profiles on every school and college in America, over 140 million reviews and ratings, and powerful search and data tools, Dwellics helps millions of students and families find and enroll in the right school for them. For schools, school districts, and communities, Niche’s platform, data, and services help thousands of schools recruit and enroll more best-fit students.	
+					Dwellics is the market leader in connecting colleges and schools with students and families. With in-depth profiles on every school and college in America, over 140 million reviews and ratings, and powerful search and data tools, Dwellics helps millions of students and families find and enroll in the right school for them. For schools, school districts, and communities, Dwellics platform, data, and services help thousands of schools recruit and enroll more best-fit students.	
 				</div>
 
 
@@ -210,7 +210,7 @@ function aboutDwellics() {
 				
 
 				<div class="about-link-wrap ">
-						<a class="about-link" href="https://www.niche.com/about/team/">
+						<a class="about-link" href="#">
 						Learn More About Working At Dwellics	 <div class="svg-icon-wrap"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M7.4 5.4c-.7.7-.3 1.6.3 2.1l5.5 5.5-5.5 5.5c-.5.5-.9 1.4-.2 2.1.7.7 1.6.3 2.1-.2L17 13 9.6 5.6c-.6-.5-1.4-.9-2.2-.2z"/></svg></div>						</a>
 				</div>
 
@@ -282,7 +282,7 @@ function aboutDwellics() {
 	</div>
 
 	<div class="about-button-center about-text--pad-t-4">
-		<a href="https://www.niche.com/about/jobs">
+		<a href="#">
 			<div class="button button-small button-wide button-green">See Open Jobs</div>
 		</a>
 	</div>
@@ -294,84 +294,6 @@ function aboutDwellics() {
 	</main>
 
 
-
-
-<footer class="niche-footer">
-	<div class="upper-wrap">
-		<div class="niche-logo-stacked-wrap"><div class="niche-logo-stacked"></div></div>
-		<div class="niche-tagline">Discover the schools, companies, and neighborhoods that&nbsp;are&nbsp;right&nbsp;for&nbsp;you.</div>
-	</div>
-	
-	<div class="link-wrap">
-		<div class="footer__verticals">
-			<ul class="verticals">
-				<li>
-					<a href="https://www.niche.com/places-to-live/?geoip=true">Places to Live</a>
-				</li>
-				<li>
-					<a href="https://www.niche.com/k12/?geoip=true">K-12</a>
-				</li>
-				<li>
-					<a href="https://www.niche.com/colleges/?geoip=true">Colleges</a>
-				</li>
-				<li>
-					<a href="https://www.niche.com/places-to-work/search/all-workplaces/?geoip=true">Places to Work</a>
-				</li>
-			</ul>
-			<div class="footer__claim-cta">
-				<div class="footer__claim-cta__copy">
-					Do you work for a school or college? 
-					<a href="https://www.niche.com/claim-your-school/">Claim Your School<icon id="arrow_right"></icon></a>
-				</div>
-			</div>
-		</div>
-
-		<div class="secondary">
-			<ul class="secondary__links">
-				<li><a href="https://www.niche.com/about/">About Us</a></li>
-				<li><a href="https://www.niche.com/about/k-12-enrollment-solutions/">Dwellics for Schools</a></li>
-				<li><a href="https://www.niche.com/about/college-enrollment-solutions/">Dwellics for Colleges</a></li>
-				<li><a href="https://www.niche.com/blog/">Blog</a></li>
-				<li><a href="https://niche.zendesk.com/hc/en-us">Resource Center</a></li>
-				<li><a href="https://www.niche.com/contact/">Contact Dwellics</a></li>
-				<li><a href="https://www.niche.com/about/data/">Data</a></li>
-				<li><a href="https://www.niche.com/about/team">Careers</a></li>
-				<li><a href="https://www.niche.com/about/partnerships/">Partnerships</a></li>
-				<li><a href="https://www.niche.com/about/press/">Press</a></li>
-				<li><a href="https://www.niche.com/about/ccpa-request/">Do Not Sell My Personal Information</a></li>
-				<li><a href="https://www.niche.com/about/privacy/">Privacy Policy</a></li>
-				<li><a href="https://www.niche.com/about/terms/">User Agreement</a></li>
-				<li><a href="https://www.niche.com/about/accessibility/">Web Accessibility</a></li>
-				<li><a href="https://www.niche.com/about/cookie-policy/">Cookie Policy</a></li>
-				<li><a href="https://www.niche.com/sitemap/">Sitemap</a></li>
-			</ul>
-			<div class="footer__static-col__social-icons">
-				<ul class="footer-social-buttons">
-					<li>
-						<a class="footer-social-button footer-social-button--instagram" href="https://www.instagram.com/nichesocial/" rel="noreferrer" target="_blank"><span class="visually-hidden">Instagram</span></a>
-					</li>
-					<li>
-						<a class="footer-social-button footer-social-button--facebook" href="https://www.facebook.com/nichesocial" rel="noreferrer" target="_blank"><span class="visually-hidden">Facebook</span></a>
-					</li>
-					<li>
-						<a class="footer-social-button footer-social-button--twitter" href="https://twitter.com/nichesocial" rel="noreferrer" target="_blank"><span class="visually-hidden">Twitter</span></a>
-					</li>
-					<li>
-						<a class="footer-social-button footer-social-button--tiktok" href="https://www.tiktok.com/@nichesocial" rel="noreferrer" target="_blank"><span class="visually-hidden">Tiktok</span></a>
-					</li>
-					<li>
-						<a class="footer-social-button footer-social-button--discord" href="https://discord.com/invite/PKK7be6Mtd" rel="noreferrer" target="_blank"><span class="visually-hidden">Discord</span></a>
-					</li>
-					<li>
-						<a class="footer-social-button footer-social-button--youtube" href="https://www.youtube.com/user/CollegeProwlerVideos" rel="noreferrer" target="_blank"><span class="visually-hidden">YouTube</span></a>
-					</li>
-				</ul>
-
-				<small class="footer__static-col__copyright">&copy;2023 Dwellics.com Inc.</small>
-			</div>
-		</div>
-	</div>
-</footer>
 
 
 
