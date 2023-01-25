@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import React from 'react'
 
 function Home() {
@@ -38,7 +39,7 @@ function Home() {
                       https://d33a4decm84gsn.cloudfront.net/static/home/hero.jpg
                     "
                     type="image/jpeg" />
-                  <img
+                  <Image
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/hero.jpg"
                     alt="Student wearing backpack"
                 /></picture>
@@ -100,7 +101,7 @@ function Home() {
                   </div>
                 </div>
                 <div class="home-hero__stamp">
-                  <img
+                  <Image
                     loading="lazy"
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-fit.svg"
                     alt=""
@@ -149,10 +150,10 @@ function Home() {
                 <ul class="home-why-reasons">
                   <li class="home-why-reason">
                     <figure class="home-why-reason__illustration">
-                      <img
+                      <Image
                         loading="lazy"
                         src="https://d33a4decm84gsn.cloudfront.net/static/home/why-icon-1.svg"
-                        alt=""
+                        alt="12"
                       />
                     </figure>
                     <h3 class="type--weight-800 home-why-reason__title">
@@ -166,10 +167,10 @@ function Home() {
                   </li>
                   <li class="home-why-reason">
                     <figure class="home-why-reason__illustration">
-                      <img
+                      <Image
                         loading="lazy"
                         src="https://d33a4decm84gsn.cloudfront.net/static/home/why-icon-2.svg"
-                        alt=""
+                        alt="hidw"
                       />
                     </figure>
                     <h3 class="type--weight-800 home-why-reason__title">
@@ -184,7 +185,7 @@ function Home() {
                   </li>
                   <li class="home-why-reason">
                     <figure class="home-why-reason__illustration">
-                      <img
+                      <Image
                         loading="lazy"
                         src="https://d33a4decm84gsn.cloudfront.net/static/home/why-icon-3.svg"
                         alt=""
@@ -261,7 +262,7 @@ function Home() {
                                 https://d33a4decm84gsn.cloudfront.net/static/home/abby-1.jpg
                               "
                               type="image/jpeg" />
-                            <img
+                            <Image
                               loading="lazy"
                               src="https://d33a4decm84gsn.cloudfront.net/static/home/abby-1.jpg"
                               alt="Abby smiling at the camera"
@@ -279,7 +280,7 @@ function Home() {
                                 https://d33a4decm84gsn.cloudfront.net/static/home/abby-2.jpg
                               "
                               type="image/jpeg" />
-                            <img
+                            <Image
                               loading="lazy"
                               src="https://d33a4decm84gsn.cloudfront.net/static/home/abby-2.jpg"
                               alt="Abby standing under an outdoor arch and smiling at the camera"
@@ -290,7 +291,7 @@ function Home() {
                           class="home-testimonial__swoosh--abby"
                         ></div>
                         <div aria-hidden="true" class="home-testimonial__stamp">
-                          <img
+                          <Image
                             loading="lazy"
                             src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-found.svg"
                             alt="I Found My Niche"
@@ -329,7 +330,7 @@ function Home() {
                                 https://d33a4decm84gsn.cloudfront.net/static/home/dayna-1.jpg
                               "
                               type="image/jpeg" />
-                            <img
+                            <Image
                               loading="lazy"
                               src="https://d33a4decm84gsn.cloudfront.net/static/home/dayna-1.jpg"
                               alt="Dayna reading a book with her child"
@@ -347,7 +348,7 @@ function Home() {
                                 https://d33a4decm84gsn.cloudfront.net/static/home/dayna-2.jpg
                               "
                               type="image/jpeg" />
-                            <img
+                            <Image
                               loading="lazy"
                               src="https://d33a4decm84gsn.cloudfront.net/static/home/dayna-2.jpg"
                               alt="Dayna’s son posing in a green elementary graduation outfit"
@@ -361,7 +362,7 @@ function Home() {
                           aria-hidden="true"
                           class="home-testimonial__stamp home-testimonial__stamp--dayna"
                         >
-                          <img
+                          <Image
                             loading="lazy"
                             src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-dayna.svg"
                             alt="I Found Our Best-Fit School On Niche"
@@ -396,7 +397,7 @@ function Home() {
                                 https://d33a4decm84gsn.cloudfront.net/static/home/clay-1.jpg
                               "
                               type="image/jpeg" />
-                            <img
+                            <Image
                               loading="lazy"
                               src="https://d33a4decm84gsn.cloudfront.net/static/home/clay-1.jpg"
                               alt="Clay smiling at the camera while leaning on a bridge railing"
@@ -414,7 +415,7 @@ function Home() {
                                 https://d33a4decm84gsn.cloudfront.net/static/home/clay-2.jpg
                               "
                               type="image/jpeg" />
-                            <img
+                            <Image
                               loading="lazy"
                               src="https://d33a4decm84gsn.cloudfront.net/static/home/clay-2.jpg"
                               alt="Clay sitting and enjoying the sunlight on a campus lawn"
@@ -425,7 +426,7 @@ function Home() {
                           class="home-testimonial__swoosh--clay"
                         ></div>
                         <div aria-hidden="true" class="home-testimonial__stamp">
-                          <img
+                          <Image
                             loading="lazy"
                             src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-clay.svg"
                             alt="I Found My Best-Fit School On Niche"
@@ -2272,7 +2273,7 @@ function Home() {
               </section>
               <section class="home-compare">
                 <div class="home-compare__stamp">
-                  <img
+                  <Image
                     loading="lazy"
                     src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-everything.svg"
                     alt=""
@@ -4230,7 +4231,7 @@ function Home() {
                             https://d33a4decm84gsn.cloudfront.net/static/home/partner-dartmouth.jpg
                           "
                           type="image/jpeg" />
-                        <img
+                        <Image
                           loading="lazy"
                           src="https://d33a4decm84gsn.cloudfront.net/static/home/partner-dartmouth.jpg"
                           alt="Niche Partner: Dartmouth College"
@@ -4257,7 +4258,7 @@ function Home() {
                             https://d33a4decm84gsn.cloudfront.net/static/home/partner-nazareth-prep.jpg
                           "
                           type="image/jpeg" />
-                        <img
+                        <Image
                           loading="lazy"
                           src="https://d33a4decm84gsn.cloudfront.net/static/home/partner-nazareth-prep.jpg"
                           alt="Niche Partner: Nazareth Prep"
@@ -4270,7 +4271,7 @@ function Home() {
                     </figcaption>
                   </figure>
                   <figure class="home-partners__stamp">
-                    <img
+                    <Image
                       loading="lazy"
                       src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-claim.svg"
                       alt=""
@@ -4286,7 +4287,7 @@ function Home() {
                   </div>
                   <ul class="home-partners__logos">
                     <li class="home-partners__logo">
-                      <img
+                      <Image
                         loading="lazy"
                         src="https://d33a4decm84gsn.cloudfront.net/static/home/logo-phillips-andover.png"
                         class="home-partners__logo__image"
@@ -4294,7 +4295,7 @@ function Home() {
                       />
                     </li>
                     <li class="home-partners__logo">
-                      <img
+                      <Image
                         loading="lazy"
                         src="https://d33a4decm84gsn.cloudfront.net/static/home/logo-oregon.png"
                         class="home-partners__logo__image"
@@ -4302,7 +4303,7 @@ function Home() {
                       />
                     </li>
                     <li class="home-partners__logo">
-                      <img
+                      <Image
                         loading="lazy"
                         src="https://d33a4decm84gsn.cloudfront.net/static/home/logo-wash-jeff.png"
                         class="home-partners__logo__image"
@@ -4310,7 +4311,7 @@ function Home() {
                       />
                     </li>
                     <li class="home-partners__logo">
-                      <img
+                      <Image
                         loading="lazy"
                         src="https://d33a4decm84gsn.cloudfront.net/static/home/logo-marquette.png"
                         class="home-partners__logo__image"
@@ -4346,7 +4347,7 @@ function Home() {
                         https://d33a4decm84gsn.cloudfront.net/static/home/start-student-with-dog.png
                       "
                       type="image/png" />
-                    <img
+                    <Image
                       loading="lazy"
                       src="https://d33a4decm84gsn.cloudfront.net/static/home/start-student-with-dog.png"
                       alt="Illustration of a student and dog looking to the future"
