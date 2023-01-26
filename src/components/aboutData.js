@@ -441,7 +441,7 @@ function aboutData() {
 
               <div className="about-data-sources-wrap">
                 <div className="about-text about-text--18 about-text--pad-b-2 about-text--600">
-                  Colleges and Graduate Schools
+                  Others
                 </div>
 
                 <ul className="about-data-sources">

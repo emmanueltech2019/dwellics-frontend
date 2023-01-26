@@ -584,16 +584,14 @@ Dwellics is the go-to partner for real estate and mortgage brokers/agents who de
                         id="text-block_5edfeccd5d860"
                         className="Expedite-Text pb-[20px] Expedite-Text__source--800 Expedite-Text__weight--400 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                       >
-                        Advertise On Niche
+                        Market insights
                       </div>
 
                       <div
                         id="text-block_5edfeccd5d861"
                         className="Expedite-Text pb-[28px] Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                       >
-                        Advertising on Niche connects you with consumers who are
-                        actively researching their educational, real estate, and
-                        workplace opportunities.
+                        Diverse Companies and startups find Dwellics data useful for marketing, lead generation and growth. Our data comes from impeccable sources and are analysed with our clients in mind.
                       </div>
 
                       <div className="is-layout-flex wp-container-26 wp-block-columns">
@@ -660,7 +658,7 @@ Dwellics is the go-to partner for real estate and mortgage brokers/agents who de
                           className="Expedite-Button--button Expedite-Button__text--indigo02 Expedite-Button__padding--comfy"
                         >
                           <span className="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600">
-                            Learn More About Advertising Our Data
+                          Get More information on Dwellics Data licensing
                           </span>
                         </a>
                       </div>
@@ -681,7 +679,7 @@ Dwellics is the go-to partner for real estate and mortgage brokers/agents who de
                 id="text-block_5edfea445d85a"
                 className="Expedite-Text pb-[40px] Expedite-Text__source--700 Expedite-Text__weight--400 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
               >
-                Get Started With Niche
+                Let's get you started with Dwellics partnership
               </div>
 
               <div id="sg-form-block_5edfe9795d857" className="niche-blocks-sg">
