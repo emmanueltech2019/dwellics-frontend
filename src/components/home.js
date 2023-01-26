@@ -1,5 +1,6 @@
 import React from "react";
-
+import Stamp from "@/assets/stamp-fit.png"
+import Image from "next/image";
 function Home() {
   return (
     <div>
@@ -62,7 +63,7 @@ function Home() {
                 <div className="type--weight-600 home-hero__header__kicker">
                   Find the Best
                 </div>
-                <div className="type--weight-700 home-hero__header__title">
+                <div className="type--weight-700 home-hero__header__title" style={{color:"#D37453"}}>
                 home for you
                 </div>
               </h1>
@@ -116,9 +117,8 @@ function Home() {
               </div>
             </div>
             <div className="home-hero__stamp">
-              <img
-                loading="lazy"
-                src="https://d33a4decm84gsn.cloudfront.net/static/home/stamp-fit.svg"
+              <Image
+                src={Stamp}
                 alt=""
               />
             </div>

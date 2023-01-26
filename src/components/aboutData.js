@@ -14,13 +14,13 @@ function aboutData() {
 
               <ul className="nav__primaries">
                 <li className="nav__primary">
-                  <a href="https://www.niche.com/about/" className="nav__label">
+                  <a href="#" className="nav__label">
                     Overview
                   </a>
                 </li>
                 <li className="nav__primary">
                   <a
-                    href="https://www.niche.com/about/data/"
+                    href="#"
                     className="nav__label nav__label--selected"
                   >
                     Our Data
@@ -28,7 +28,7 @@ function aboutData() {
                 </li>
                 <li className="nav__primary">
                   <a
-                    href="https://www.niche.com/about/press/"
+                    href="#"
                     className="nav__label"
                   >
                     Press
@@ -36,7 +36,7 @@ function aboutData() {
                 </li>
                 <li className="nav__primary">
                   <a
-                    href="https://www.niche.com/about/team/"
+                    href="#"
                     className="nav__label"
                   >
                     Working At Dwellics
@@ -44,7 +44,7 @@ function aboutData() {
                 </li>
                 <li className="nav__primary">
                   <a
-                    href="https://www.niche.com/about/partnerships/"
+                    href="#"
                     className="nav__label"
                   >
                     Partnerships
@@ -156,7 +156,7 @@ function aboutData() {
                     Reviews &amp; Outcomes
                     </div>
                     <div className="about-text about-text--leading-130">
-                    With millions of reviews and survey responses gathered from mothers, fathers, students, home buyers and residents, you are equipped with information to learn what is trending and where to focus your marketing strategies.
+                    With millions of reviews and survey responses gathered from mothers, fathers, home buyers and residents, you are equipped with information to learn what is trending and where to focus your marketing strategies.
                     </div>
                   </div>
                 </div>
@@ -351,29 +351,27 @@ function aboutData() {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      Dwellics K-12 Student and Parent Surveys
+                      Dwellics Surveys
                     </a>
                     <br />
                     <div className="about-data-source__indent">
-                      Survey administered to millions of parents, high school
-                      students, and recent alumni&nbsp;on Dwellics.com.
+                      Survey administered to millions of parents, users and recent alumni&nbsp;on Dwellics.com.
                     </div>
                   </li>
 
                   <li className="about-data-source">
                     <a
                       className="about-link"
-                      href="https://www.niche.com/k12/survey/"
+                      href="#"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      Dwellics K-12 Student and Parent Surveys
+                      Dwellics Surveys
                     </a>
                     &nbsp;
                     <br />
                     <div className="about-data-source__indent">
-                      Survey administered to millions of parents, high school
-                      students, and recent alumni on Dwellics.com.
+                      Survey administered to millions of parents, users and recent alumni on Dwellics.com.
                     </div>
                     <div className="about-data-source__cta about-data-source__cta--green">
                       <div className="about-data-source__cta-icon about-data-source__cta-icon--green">
@@ -394,7 +392,7 @@ function aboutData() {
                         <strong>
                           <a
                             className="about-link"
-                            href="https://www.niche.com/k12/survey/"
+                            href="#"
                           >
                             Dwellics&apos;s School Survey Sweepstakes
                           </a>
@@ -429,7 +427,7 @@ function aboutData() {
                       <div className="about-data-source__cta-text">
                         <a
                           className="about-link"
-                          href="https://www.niche.com/claim-your-school/"
+                          href="#"
                         >
                           Claim Your School{" "}
                         </a>
@@ -491,7 +489,7 @@ function aboutData() {
                     </a>
                     <br />
                     <div className="about-data-source__indent">
-                      College data on faculty awards and student awards.
+                      {/* College data on faculty awards and student awards. */}
                     </div>
                   </li>
 
@@ -547,16 +545,16 @@ function aboutData() {
                   <li className="about-data-source">
                     <a
                       className="about-link"
-                      href="https://www.niche.com/colleges/survey/"
+                      href="#"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      Dwellics College Student Survey
+                      Dwellics Survey
                     </a>
                     &nbsp;
                     <br />
                     <div className="about-data-source__indent">
-                      Survey administered to millions of current students and
+                      Survey administered to millions user and
                       recent alumni on Dwellics.com.
                     </div>
                     <div className="about-data-source__cta about-data-source__cta--green">
@@ -578,9 +576,9 @@ function aboutData() {
                         <strong>
                           <a
                             className="about-link"
-                            href="https://www.niche.com/colleges/survey/"
+                            href="#"
                           >
-                            Dwellics&apos;s College Student Survey
+                            Dwellics&apos;s  Survey
                           </a>
                         </strong>
                         helps others find the college that&apos;s right for them.
@@ -614,7 +612,7 @@ function aboutData() {
                       <div className="about-data-source__cta-text">
                         <a
                           className="about-link"
-                          href="https://www.niche.com/claim-your-school/"
+                          href="#"
                         >
                           Claim Your School{" "}
                         </a>
@@ -761,7 +759,7 @@ function aboutData() {
                   <li className="about-data-source">
                     <a
                       className="about-link"
-                      href="https://www.niche.com/about/urban-neighborhood-data-disclaimers-and-sources/"
+                      href="#"
                       target="_blank"
                       rel="noopener noreferrer"
                     >

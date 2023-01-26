@@ -43,24 +43,9 @@ function partner() {
           </div>
 
           <div
-            className="wp-block-niche-group niche-blocks--max-width-820 wp-block-niche-group--card"
+            className="wp-block-niche-group niche-blocks--max-width-820 wp-block-niche-group--card p-20 md:p-[50px]"
             id="niche-group-10573d2e-129d-4fd2-9a65-554e51d4c60f"
-            style={{ padding: "20px" }}
           >
-            {/* <style>
-              #niche-group-10573d2e-129d-4fd2-9a65-554e51d4c60f {
-                padding-top: 20px;
-                padding-left: 20px;
-                padding-bottom: 20px;
-                padding-right: 20px;
-              }
-              @media (min-width: 768px) {
-                #niche-group-10573d2e-129d-4fd2-9a65-554e51d4c60f {
-                  padding-left: 50px;
-                  padding-right: 50px;
-                }
-              }
-            </style> */}
             <div className="wp-block-niche-group__inner">
               <div className="is-layout-flex wp-container-4 wp-block-columns">
                 <div className="is-layout-flow wp-block-column">
@@ -284,38 +269,23 @@ function partner() {
       </div>
 
       <div
-        class="wp-block-niche-group niche-blocks--max-width-820 md:pt-[70px] pt-[40px] pr-[20px] pl-[20px] "
+        className="wp-block-niche-group niche-blocks--max-width-820 md:pt-[70px] pt-[40px] pr-[20px] pl-[20px] "
         id="niche-group-e326a273-e3d2-4d97-a7d1-a0af3546f6f2"
-        // style={{paddingTop:"40px", paddingRight:"20px", paddingLeft:"20px"}}
       >
-        {/* <style>
-          #niche-group-e326a273-e3d2-4d97-a7d1-a0af3546f6f2 {
-            padding-top: 40px;
-            padding-left: 20px;
-            padding-right: 20px;
-          }
-          @media (min-width: 768px) {
-            #niche-group-e326a273-e3d2-4d97-a7d1-a0af3546f6f2 {
-              padding-top: 70px;
-              padding-left: 0px;
-              padding-right: 0px;
-            }
-          }
-        </style> */}
-        <div class="wp-block-niche-group__inner">
-          <div class="is-layout-flex wp-container-15 wp-block-columns">
+        <div className="wp-block-niche-group__inner">
+          <div className="is-layout-flex wp-container-15 wp-block-columns">
             <div
-              class="is-layout-flow wp-block-column"
+              className="is-layout-flow wp-block-column"
               style={{ flexBasis: "20%" }}
             >
-              <div class="wp-block-image">
-                <figure class="aligncenter size-large is-resized">
+              <div className="wp-block-image">
+                <figure className="aligncenter size-large is-resized">
                   <img
                     decoding="async"
                     loading="lazy"
                     src="https://www.niche.com/about/wp-content/uploads/2018/04/partnerships.png"
                     alt=""
-                    class="wp-image-2190"
+                    className="wp-image-2190"
                     width="125"
                     height="125"
                     srcset="
@@ -329,13 +299,13 @@ function partner() {
             </div>
 
             <div
-              class="is-layout-flow wp-block-column"
+              className="is-layout-flow wp-block-column"
               style={{ flexBasis: "80%" }}
             >
               <div
                 id="text-block_5edfe3070b85f"
                 style={{ paddingBottom: "12px" }}
-                class="Expedite-Text Expedite-Text__source--800 Expedite-Text__weight--400 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                className="Expedite-Text Expedite-Text__source--800 Expedite-Text__weight--400 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
               >
                 K12 School &amp; College Partnerships
               </div>
@@ -343,7 +313,7 @@ function partner() {
               <div
                 id="text-block_5edfe35e0b860"
                 style={{ paddingBottom: "28px" }}
-                class="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
               >
                 Get access to manage your school&apos;s profile on Niche for free.
                 You’ll be able to track engagement and update your information.
@@ -351,12 +321,12 @@ function partner() {
                 visits, and inquiries.
               </div>
 
-              <div class="is-layout-flex wp-container-13 wp-block-columns">
-                <div class="is-layout-flow wp-block-column">
+              <div className="is-layout-flex wp-container-13 wp-block-columns">
+                <div className="is-layout-flow wp-block-column">
                   <div
                     id="text-block_5edfe4130b861"
                     style={{ paddingBottom: "12px" }}
-                    class="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                    className="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
                     Claim Your School
                   </div>
@@ -364,7 +334,7 @@ function partner() {
                   <div
                     id="text-block_5edfe5885d850"
                     style={{ paddingBottom: "4px" }}
-                    class="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                    className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
                     Update your data and track engagement.
                   </div>
@@ -372,24 +342,24 @@ function partner() {
                   <div
                     id="text-block_5edfe44c0b863"
                     style={{ paddingBottom: "28px" }}
-                    class=""
+                    className=""
                   >
                     <a
                       href="https://www.niche.com/claim-your-school/"
-                      class="Expedite-Button--button Expedite-Button__text--indigo02"
+                      className="Expedite-Button--button Expedite-Button__text--indigo02"
                     >
-                      <span class="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--600">
+                      <span className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--600">
                         Claim Your School
                       </span>
                     </a>
                   </div>
                 </div>
 
-                <div class="is-layout-flow wp-block-column">
+                <div className="is-layout-flow wp-block-column">
                   <div
                     id="text-block_5edfe8685d851"
                     style={{ paddingBottom: "12px" }}
-                    class="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                    className="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
                     Upgrade to Premium
                   </div>
@@ -397,7 +367,7 @@ function partner() {
                   <div
                     id="text-block_5edfe8725d852"
                     style={{ paddingBottom: "4px" }}
-                    class="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                    className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
                     Make your profile stand out and take advantage of our
                     enrollment marketing solutions.
@@ -406,24 +376,24 @@ function partner() {
                   <div
                     id="text-block_5edfe87e5d853"
                     style={{ paddingBottom: "28px" }}
-                    class=""
+                    className=""
                   >
                     <a
                       href="https://www.niche.com/about/niche-premium-profile-college/"
-                      class="Expedite-Button--button Expedite-Button__text--indigo02"
+                      className="Expedite-Button--button Expedite-Button__text--indigo02"
                     >
-                      <span class="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--600">
+                      <span className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--600">
                         About Premium Profiles
                       </span>
                     </a>
                   </div>
                 </div>
 
-                <div class="is-layout-flow wp-block-column">
+                <div className="is-layout-flow wp-block-column">
                   <div
                     id="text-block_5edfe8905d854"
                     style={{ paddingBottom: "12px" }}
-                    class="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                    className="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
                     Promote Your School
                   </div>
@@ -431,7 +401,7 @@ function partner() {
                   <div
                     id="text-block_5edfe89c5d855"
                     style={{ paddingBottom: "4px" }}
-                    class="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                    className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
                     Showcase Niche Grades and Rankings on your own site.
                   </div>
@@ -439,13 +409,13 @@ function partner() {
                   <div
                     id="text-block_5edfe8a75d856"
                     style={{ paddingBottom: "20px" }}
-                    class=""
+                    className=""
                   >
                     <a
                       href="https://www.niche.com/about/press-kits/"
-                      class="Expedite-Button--button Expedite-Button__text--indigo02"
+                      className="Expedite-Button--button Expedite-Button__text--indigo02"
                     >
-                      <span class="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--600">
+                      <span className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--600">
                         Get Promotional Materials
                       </span>
                     </a>
@@ -458,51 +428,32 @@ function partner() {
       </div>
 
       <div
-        class="wp-block-niche-group"
+        className="wp-block-niche-group py-[80px]"
         id="niche-group-0d8cb6b3-69ac-4218-bbeb-381574580cba"
+        style={{backgroundColor:"#e4f2e8"}}
       >
-        {/* <style>
-          #niche-group-0d8cb6b3-69ac-4218-bbeb-381574580cba {
-            background-color: #e4f2e8;
-            padding-top: 80px;
-            padding-bottom: 80px;
-          }
-        </style> */}
-        <div class="wp-block-niche-group__inner">
+
+        <div className="wp-block-niche-group__inner">
           <div
-            class="wp-block-niche-group niche-blocks--max-width-900 wp-block-niche-group--card"
+            className="wp-block-niche-group niche-blocks--max-width-900 wp-block-niche-group--card 
+            pt-[40px] pl-[20px] pb-[20px] pr-[20px] 
+            pt-[40px] pl-[40px] pb-[20px] md:pr-[40px]"
             id="niche-group-330b7e80-2936-4e7c-b495-11bcc0b1be6c"
           >
-            {/* <style>
-              #niche-group-330b7e80-2936-4e7c-b495-11bcc0b1be6c {
-                padding-top: 40px;
-                padding-left: 20px;
-                padding-bottom: 20px;
-                padding-right: 20px;
-              }
-              @media (min-width: 768px) {
-                #niche-group-330b7e80-2936-4e7c-b495-11bcc0b1be6c {
-                  padding-top: 40px;
-                  padding-left: 40px;
-                  padding-bottom: 20px;
-                  padding-right: 40px;
-                }
-              }
-            </style> */}
-            <div class="wp-block-niche-group__inner">
-              <div class="is-layout-flex wp-container-21 wp-block-columns">
+            <div className="wp-block-niche-group__inner">
+              <div className="is-layout-flex wp-container-21 wp-block-columns">
                 <div
-                  class="is-layout-flow wp-block-column"
+                  className="is-layout-flow wp-block-column"
                   style={{ flexBasis: "20%" }}
                 >
-                  <div class="wp-block-image">
-                    <figure class="aligncenter size-large is-resized">
+                  <div className="wp-block-image">
+                    <figure className="aligncenter size-large is-resized">
                       <img
                         decoding="async"
                         loading="lazy"
                         src="https://www.niche.com/about/wp-content/uploads/2018/04/sign-new.png"
                         alt=""
-                        class="wp-image-2200"
+                        className="wp-image-2200"
                         width="125"
                         height="125"
                         srcset="
@@ -516,31 +467,19 @@ function partner() {
                 </div>
 
                 <div
-                  class="is-layout-flow wp-block-column"
+                  className="is-layout-flow wp-block-column"
                   style={{ flexBasis: "80%" }}
                 >
-                  {/* <style>
-                    #text-block_5edfe9ae5d858 {
-                      padding-bottom: 20px;
-                    }
-                  </style> */}
 
                   <div
                     id="text-block_5edfe9ae5d858"
-                    class="Expedite-Text Expedite-Text__source--800 Expedite-Text__weight--400 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                    className="Expedite-Text Expedite-Text__source--800 Expedite-Text__weight--400 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left pb-[20px]"
                   >
                     Purchase Niche Data
                   </div>
-
-                  {/* <style>
-                    #text-block_5edfe9cc5d859 {
-                      padding-bottom: 28px;
-                    }
-                  </style> */}
-
                   <div
                     id="text-block_5edfe9cc5d859"
-                    class="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                    className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left pb-[28px]"
                   >
                     Niche has the most comprehensive data on U.S K-12 schools,
                     colleges, and places (like neighborhoods, cities, and zip
@@ -549,69 +488,37 @@ function partner() {
                     and market research.
                   </div>
 
-                  <div class="is-layout-flex wp-container-19 wp-block-columns">
-                    <div class="is-layout-flow wp-block-column">
-                      {/* <style>
-                        #text-block_5edfeba25d85b {
-                          padding-bottom: 12px;
-                        }
-                      </style> */}
+                  <div className="is-layout-flex wp-container-19 wp-block-columns">
+                    <div className="is-layout-flow wp-block-column">
 
                       <div
                         id="text-block_5edfeba25d85b"
-                        class="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                        className="Expedite-Text pb-[12px] Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                       >
                         Market Insights
                       </div>
 
-                      {/* <style>
-                        #text-block_5edfebb25d85c {
-                          padding-bottom: 28px;
-                        }
-                        @media (min-width: 768px) {
-                          #text-block_5edfebb25d85c {
-                            padding-bottom: 0px;
-                          }
-                        }
-                      </style> */}
-
                       <div
                         id="text-block_5edfebb25d85c"
-                        class="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                        className="Expedite-Text pb-[28px] md:pb-[0px] Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                       >
                         Fortune 100 companies and startups alike use Niche for
                         recruitment, marketing, and expansion.
                       </div>
                     </div>
 
-                    <div class="is-layout-flow wp-block-column">
-                      {/* <style>
-                        #text-block_5edfebfe5d85d {
-                          padding-bottom: 12px;
-                        }
-                      </style> */}
+                    <div className="is-layout-flow wp-block-column">
 
                       <div
                         id="text-block_5edfebfe5d85d"
-                        class="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                        className="Expedite-Text pb-[12px] Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                       >
                         Display on Your Own Site
                       </div>
 
-                      {/* <style>
-                        #text-block_5edfec105d85e {
-                          padding-bottom: 28px;
-                        }
-                        @media (min-width: 768px) {
-                          #text-block_5edfec105d85e {
-                            padding-bottom: 0px;
-                          }
-                        }
-                      </style> */}
-
                       <div
                         id="text-block_5edfec105d85e"
-                        class="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                        className="Expedite-Text pb-[28px] md:pb-[0px] Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                       >
                         Add Niche school grades to your real estate content.
                       </div>
@@ -620,13 +527,13 @@ function partner() {
 
                   <div
                     id="text-block_5edfec4c5d85f"
-                    class="niche-blocks--block-align-right"
+                    className="niche-blocks--block-align-right"
                   >
                     <a
                       href="https://www.niche.com/about/licensing/"
-                      class="Expedite-Button--button Expedite-Button__text--indigo02 Expedite-Button__padding--comfy"
+                      className="Expedite-Button--button Expedite-Button__text--indigo02 Expedite-Button__padding--comfy"
                     >
-                      <span class="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600">
+                      <span className="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600">
                         Learn More About Licensing Our Data
                       </span>
                     </a>
@@ -637,49 +544,30 @@ function partner() {
           </div>
 
           <div
-            class="wp-block-niche-group"
+            className="wp-block-niche-group pt-[80px]"
             id="niche-group-68e48824-e5e9-4cfc-86d0-c0bdc448e88e"
           >
-            {/* <style>
-              #niche-group-68e48824-e5e9-4cfc-86d0-c0bdc448e88e {
-                padding-top: 80px;
-              }
-            </style> */}
-            <div class="wp-block-niche-group__inner">
+            <div className="wp-block-niche-group__inner">
               <div
-                class="wp-block-niche-group niche-blocks--max-width-900 wp-block-niche-group--card"
+                className="wp-block-niche-group pt-[40px] pl-[20px] pb-[20px] pr-[20px] md:pl-[40px] md:pr-[40px] niche-blocks--max-width-900 wp-block-niche-group--card"
                 id="niche-group-738673a9-3e3c-43a0-8424-e62f579e389a"
               >
-                {/* <style>
-                  #niche-group-738673a9-3e3c-43a0-8424-e62f579e389a {
-                    padding-top: 40px;
-                    padding-left: 20px;
-                    padding-bottom: 20px;
-                    padding-right: 20px;
-                  }
-                  @media (min-width: 768px) {
-                    #niche-group-738673a9-3e3c-43a0-8424-e62f579e389a {
-                      padding-left: 40px;
-                      padding-right: 40px;
-                    }
-                  }
-                </style> */}
-                <div class="wp-block-niche-group__inner">
+                <div className="wp-block-niche-group__inner">
                   <a id="advertise"></a>
 
-                  <div class="is-layout-flex wp-container-28 wp-block-columns">
+                  <div className="is-layout-flex wp-container-28 wp-block-columns">
                     <div
-                      class="is-layout-flow wp-block-column"
+                      className="is-layout-flow wp-block-column"
                       style={{ flexBasis: "20%" }}
                     >
-                      <div class="wp-block-image">
-                        <figure class="aligncenter size-large is-resized">
+                      <div className="wp-block-image">
+                        <figure className="aligncenter size-large is-resized">
                           <img
                             decoding="async"
                             loading="lazy"
                             src="https://www.niche.com/about/wp-content/uploads/2018/04/advertise.png"
                             alt=""
-                            class="wp-image-2188"
+                            className="wp-image-2188"
                             width="125"
                             height="125"
                             srcset="
@@ -693,134 +581,74 @@ function partner() {
                     </div>
 
                     <div
-                      class="is-layout-flow wp-block-column"
+                      className="is-layout-flow wp-block-column"
                       style={{flexBasis: "80%"}}
                     >
-                      {/* <style>
-                        #text-block_5edfeccd5d860 {
-                          padding-bottom: 20px;
-                        }
-                      </style> */}
 
                       <div
                         id="text-block_5edfeccd5d860"
-                        class="Expedite-Text Expedite-Text__source--800 Expedite-Text__weight--400 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                        className="Expedite-Text pb-[20px] Expedite-Text__source--800 Expedite-Text__weight--400 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                       >
                         Advertise On Niche
                       </div>
 
-                      {/* <style>
-                        #text-block_5edfeccd5d861 {
-                          padding-bottom: 28px;
-                        }
-                      </style> */}
-
                       <div
                         id="text-block_5edfeccd5d861"
-                        class="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                        className="Expedite-Text pb-[28px] Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                       >
                         Advertising on Niche connects you with consumers who are
                         actively researching their educational, real estate, and
                         workplace opportunities.
                       </div>
 
-                      <div class="is-layout-flex wp-container-26 wp-block-columns">
-                        <div class="is-layout-flow wp-block-column">
-                          {/* <style>
-                            #text-block_5edfee4c5d867 {
-                              padding-bottom: 12px;
-                            }
-                          </style> */}
+                      <div className="is-layout-flex wp-container-26 wp-block-columns">
+                        <div className="is-layout-flow wp-block-column">
 
                           <div
                             id="text-block_5edfee4c5d867"
-                            class="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                            className="Expedite-Text pb-[12px] Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                           >
                             College Applicants
                           </div>
 
-                          {/* <style>
-                            #text-block_5edfee645d868 {
-                              padding-bottom: 28px;
-                            }
-                            @media (min-width: 768px) {
-                              #text-block_5edfee645d868 {
-                                padding-bottom: 0px;
-                              }
-                            }
-                          </style> */}
-
                           <div
                             id="text-block_5edfee645d868"
-                            class="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                            className="Expedite-Text pb-[28px] md:pb-[0px] Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                           >
                             20 million students a year research colleges on our
                             platform.
                           </div>
                         </div>
 
-                        <div class="is-layout-flow wp-block-column">
-                          {/* <style>
-                            #text-block_5edfee825d869 {
-                              padding-bottom: 12px;
-                            }
-                          </style> */}
-
+                        <div className="is-layout-flow wp-block-column">
                           <div
                             id="text-block_5edfee825d869"
-                            class="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                            className="Expedite-Text pb-[12px] Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                           >
                             Parents of K-12 Students
                           </div>
 
-                          {/* <style>
-                            #text-block_5edfee925d86a {
-                              padding-bottom: 28px;
-                            }
-                            @media (min-width: 768px) {
-                              #text-block_5edfee925d86a {
-                                padding-bottom: 0px;
-                              }
-                            }
-                          </style> */}
-
                           <div
                             id="text-block_5edfee925d86a"
-                            class="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                            className="Expedite-Text pb-[28px] pb-[0px] Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                           >
                             21 million people a year use Niche to research their
                             children’s K12 school.
                           </div>
                         </div>
 
-                        <div class="is-layout-flow wp-block-column">
-                          {/* <style>
-                            #text-block_5edfeec15d86b {
-                              padding-bottom: 12px;
-                            }
-                          </style> */}
+                        <div className="is-layout-flow wp-block-column">
 
                           <div
                             id="text-block_5edfeec15d86b"
-                            class="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                            className="Expedite-Text pb-[12px] Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                           >
                             Homebuyers
                           </div>
 
-                          {/* <style>
-                            #text-block_5edfeecb5d86c {
-                              padding-bottom: 28px;
-                            }
-                            @media (min-width: 768px) {
-                              #text-block_5edfeecb5d86c {
-                                padding-bottom: 0px;
-                              }
-                            }
-                          </style> */}
-
                           <div
                             id="text-block_5edfeecb5d86c"
-                            class="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                            className="Expedite-Text pb-[28px] md:pb-[0px]  Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                           >
                             11 million people a year use Niche to research
                             Places To Live.
@@ -830,13 +658,13 @@ function partner() {
 
                       <div
                         id="text-block_5edfeccd5d862"
-                        class="niche-blocks--block-align-right"
+                        className="niche-blocks--block-align-right"
                       >
                         <a
                           href="https://www.niche.com/about/advertising/"
-                          class="Expedite-Button--button Expedite-Button__text--indigo02 Expedite-Button__padding--comfy"
+                          className="Expedite-Button--button Expedite-Button__text--indigo02 Expedite-Button__padding--comfy"
                         >
-                          <span class="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600">
+                          <span className="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600">
                             Learn More About Advertising Our Data
                           </span>
                         </a>
@@ -849,112 +677,62 @@ function partner() {
           </div>
 
           <div
-            class="wp-block-niche-group niche-blocks--max-width-580"
+            className="wp-block-niche-group niche-blocks--max-width-580 pt-[80px] pl-[20px] pr-[20px]"
             id="niche-group-ce9e8d25-d394-4f72-b3ba-54ce7e7858f4"
           >
-            {/* <style>
-              #niche-group-ce9e8d25-d394-4f72-b3ba-54ce7e7858f4 {
-                padding-top: 80px;
-                padding-left: 20px;
-                padding-right: 20px;
-              }
-            </style> */}
-            <div class="wp-block-niche-group__inner">
-              {/* <style>
-                #text-block_5edfea445d85a {
-                  padding-bottom: 40px;
-                }
-              </style> */}
+            <div className="wp-block-niche-group__inner">
 
               <div
                 id="text-block_5edfea445d85a"
-                class="Expedite-Text Expedite-Text__source--700 Expedite-Text__weight--400 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
+                className="Expedite-Text pb-[40px] Expedite-Text__source--700 Expedite-Text__weight--400 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
               >
                 Get Started With Niche
               </div>
 
-              <div id="sg-form-block_5edfe9795d857" class="niche-blocks-sg">
-                <div id="survey-wrapper-4239997" class="sg-survey">
-                  {/* <style type="text/css" media="all">
-                    .sg-hide {
-                      display: none;
-                    }
-
-                    .sg-error-message {
-                      display: none;
-                    }
-
-                    .sg-access-helper {
-                      display: block;
-                      position: absolute !important;
-                      margin-left: -999em;
-                      width: 100em;
-                    }
-
-                    .sg-screenreader-only {
-                      position: absolute;
-                      border: 0;
-                      height: 0;
-                      margin: 0;
-                      overflow: hidden;
-                      padding: 0;
-                    }
-                  </style> */}
-
-                  {/* <style type="text/css" media="all">
-                    .sg-progress-bar {
-                      display: none;
-                    }
-                    .sg-powered-by {
-                      display: none;
-                    }
-                    h1.sg-title {
-                      text-align: left;
-                    }
-                    .sg-page-title {
-                      text-align: left;
-                    }
-                    .sg-header-image {
-                      margin: 0 auto 0 0;
-                    }
-                    .sg-question {
-                      border-bottom: none;
-                    }
-                    img.sg-header-image {
-                      max-width: 100%;
-                      display: block;
-                    }
-                  </style> */}
-                  <link
-                    rel="apple-touch-icon"
-                    href="//www.surveygizmo.com/2022.12.21.02/runtimejs/dist/survey/css/default/runtime/qui/retina_icon.png"
-                  />
+              <div id="sg-form-block_5edfe9795d857" className="niche-blocks-sg">
+                <div id="survey-wrapper-4239997" className="sg-survey">
                   <div
-                    class="sg-body sg-page-1 sg-pageid-1 sg-webkit sg-ltr sg-replace-icons sg-js-embed"
+                    className="sg-body sg-page-1 sg-pageid-1 sg-webkit sg-ltr sg-replace-icons sg-js-embed"
                     id="sgbody-4239997"
                   >
-                    <link
-                      href="//fonts.googleapis.com/css?family=Montserrat|Arial"
-                      rel="stylesheet"
-                      type="text/css"
-                    />
-                    <div class="sg-skipnav-container">
-                      <a
-                        id="sg-skipnav"
-                        class="sg-screenreader-only"
-                        href="#sg-skipnav-target"
-                      >
-                        Skip survey header
-                      </a>
-                    </div>
-                    <form
+
+                   
+                    <form>
+                        <div className="mb-1">
+                            <label for="email" className="text-sm font-medium text-gray-900 dark:text-white">Company Name</label>
+                            <input type="text" id="email" className="p-20 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 h-10 p-20" placeholder="john.doe@company.com" required />
+                        </div> 
+                        <div className="mb-1">
+                            <label for="email" className="text-sm font-medium text-gray-900 dark:text-white">Your Name</label>
+                            <input type="text" id="email" className="p-20 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 h-10 p-20" placeholder="john.doe@company.com" required />
+                        </div> 
+                        <div className="mb-1">
+                            <label for="email" className="text-sm font-medium text-gray-900 dark:text-white">Your Email</label>
+                            <input type="text" id="email" className="p-20 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 h-10 p-20" placeholder="john.doe@company.com" required />
+                        </div> 
+                        <div className="mb-1">
+                            <label for="email" className="text-sm font-medium text-gray-900 dark:text-white">Your Role</label>
+                            <input type="text" id="email" className="p-20 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 h-10 p-20" placeholder="john.doe@company.com" required />
+                        </div> 
+                        <div className="mb-1">
+                            <label for="email" className="text-sm font-medium text-gray-900 dark:text-white">What Are You Interested In?</label>
+                            <input type="text" id="email" className="p-20 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 h-10 p-20" placeholder="john.doe@company.com" required />
+                        </div> 
+                        <div className="mb-1">
+                            <label for="email" className="text-sm font-medium text-gray-900 dark:text-white">Tell Us More</label>
+                            <input type="text" id="email" className="p-20 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 h-10 p-20" placeholder="john.doe@company.com" required />
+                        </div> 
+                        
+                        <button type="submit" className="text-white bg-[#115946] hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Submit</button>
+                    </form>
+                    {/* <form
                       action="https://www.surveygizmo.com/s3/4239997/About-Pages-Partnership-Contact-Form?__passthrough=true&amp;__output=embedjs"
                       method="post"
                       enctype="multipart/form-data"
-                      class="sg-survey-form"
+                      className="sg-survey-form"
                       id="sg_FormFor4239997"
                     >
-                      <div class="sg-hidden-inputs">
+                      <div className="sg-hidden-inputs">
                         <input
                           type="hidden"
                           name="sg_referer"
@@ -1009,16 +787,16 @@ function partner() {
                           value=""
                         />
                       </div>
-                      <div class="sg-wrapper">
-                        <div class="sg-header">
-                          <div class="sg-header-hook-1"></div>
+                      <div className="sg-wrapper">
+                        <div className="sg-header">
+                          <div className="sg-header-hook-1"></div>
                           <img
-                            class="sg-header-image"
+                            className="sg-header-image"
                             src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
                             alt=""
                           />
 
-                          <h1 class="sg-title" tabindex="0">
+                          <h1 className="sg-title" tabindex="0">
                             <span>
                               About Pages: Partnership Contact Form -
                               [Partnerships Form Fill - K12/College Partnership
@@ -1026,15 +804,15 @@ function partner() {
                             </span>
                           </h1>
 
-                          <div class="sg-header-hook-2"></div>
+                          <div className="sg-header-hook-2"></div>
                         </div>
-                        <div class="sg-content" id="sg-skipnav-target">
-                          <div class="sg-content-hook-1"></div>
+                        <div className="sg-content" id="sg-skipnav-target">
+                          <div className="sg-content-hook-1"></div>
 
-                          <div class="sg-question-set">
+                          <div className="sg-question-set">
                             <div
                               id="sgE-4239997-1-7-box"
-                              class="sg-question sg-type-textbox"
+                              className="sg-question sg-type-textbox"
                             >
                               <input
                                 type="hidden"
@@ -1048,17 +826,17 @@ function partner() {
                                 name="sgE-4239997-1-7-time"
                                 value=""
                               />
-                              <div class="sg-question-title">
+                              <div className="sg-question-title">
                                 <label for="sgE-4239997-1-7-element">
-                                  <span class="sg-question-number">1.</span>
+                                  <span className="sg-question-number">1.</span>
                                   School/Company Name
                                 </label>
                               </div>
-                              <div class="sg-question-options">
-                                <div class="sg-control-text sg-control-text">
+                              <div className="sg-question-options">
+                                <div className="sg-control-text sg-control-text">
                                   <input
                                     type="text"
-                                    class="sg-input sg-input-text"
+                                    className="sg-input sg-input-text"
                                     id="sgE-4239997-1-7-element"
                                     name="sgE-4239997-1-7"
                                     title="School/Company Name"
@@ -1070,7 +848,7 @@ function partner() {
 
                             <div
                               id="sgE-4239997-1-2-box"
-                              class="sg-question sg-type-textbox"
+                              className="sg-question sg-type-textbox"
                             >
                               <input
                                 type="hidden"
@@ -1084,17 +862,17 @@ function partner() {
                                 name="sgE-4239997-1-2-time"
                                 value=""
                               />
-                              <div class="sg-question-title">
+                              <div className="sg-question-title">
                                 <label for="sgE-4239997-1-2-element">
-                                  <span class="sg-question-number">2.</span>
+                                  <span className="sg-question-number">2.</span>
                                   Your Name
                                 </label>
                               </div>
-                              <div class="sg-question-options">
-                                <div class="sg-control-text sg-control-text">
+                              <div className="sg-question-options">
+                                <div className="sg-control-text sg-control-text">
                                   <input
                                     type="text"
-                                    class="sg-input sg-input-text"
+                                    className="sg-input sg-input-text"
                                     id="sgE-4239997-1-2-element"
                                     name="sgE-4239997-1-2"
                                     title="Your Name"
@@ -1106,7 +884,7 @@ function partner() {
 
                             <div
                               id="sgE-4239997-1-6-box"
-                              class="sg-question sg-type-textbox"
+                              className="sg-question sg-type-textbox"
                             >
                               <input
                                 type="hidden"
@@ -1120,17 +898,17 @@ function partner() {
                                 name="sgE-4239997-1-6-time"
                                 value=""
                               />
-                              <div class="sg-question-title">
+                              <div className="sg-question-title">
                                 <label for="sgE-4239997-1-6-element">
-                                  <span class="sg-question-number">3.</span>
+                                  <span className="sg-question-number">3.</span>
                                   Your Email
                                 </label>
                               </div>
-                              <div class="sg-question-options">
-                                <div class="sg-control-text sg-control-text">
+                              <div className="sg-question-options">
+                                <div className="sg-control-text sg-control-text">
                                   <input
                                     type="text"
-                                    class="sg-input sg-input-text"
+                                    className="sg-input sg-input-text"
                                     id="sgE-4239997-1-6-element"
                                     name="sgE-4239997-1-6"
                                     title="Your Email"
@@ -1142,7 +920,7 @@ function partner() {
 
                             <div
                               id="sgE-4239997-1-10-box"
-                              class="sg-question sg-type-textbox"
+                              className="sg-question sg-type-textbox"
                             >
                               <input
                                 type="hidden"
@@ -1156,17 +934,17 @@ function partner() {
                                 name="sgE-4239997-1-10-time"
                                 value=""
                               />
-                              <div class="sg-question-title">
+                              <div className="sg-question-title">
                                 <label for="sgE-4239997-1-10-element">
-                                  <span class="sg-question-number">4.</span>
+                                  <span className="sg-question-number">4.</span>
                                   Your Role
                                 </label>
                               </div>
-                              <div class="sg-question-options">
-                                <div class="sg-control-text sg-control-text">
+                              <div className="sg-question-options">
+                                <div className="sg-control-text sg-control-text">
                                   <input
                                     type="text"
-                                    class="sg-input sg-input-text"
+                                    className="sg-input sg-input-text"
                                     id="sgE-4239997-1-10-element"
                                     name="sgE-4239997-1-10"
                                     title="Your Role"
@@ -1178,7 +956,7 @@ function partner() {
 
                             <div
                               id="sgE-4239997-1-4-box"
-                              class="sg-question sg-type-menu"
+                              className="sg-question sg-type-menu"
                             >
                               <input
                                 type="hidden"
@@ -1192,17 +970,17 @@ function partner() {
                                 name="sgE-4239997-1-4-time"
                                 value=""
                               />
-                              <div class="sg-question-title">
+                              <div className="sg-question-title">
                                 <label for="sgE-4239997-1-4-element">
-                                  <span class="sg-question-number">5.</span>
+                                  <span className="sg-question-number">5.</span>
                                   What Are You Interested In?
                                 </label>
                               </div>
-                              <div class="sg-question-options">
+                              <div className="sg-question-options">
                                 <select
                                   id="sgE-4239997-1-4-element"
                                   name="sgE-4239997-1-4"
-                                  class="sg-input sg-input-menu"
+                                  className="sg-input sg-input-menu"
                                 >
                                   <option
                                     label="-- Please Select --"
@@ -1237,7 +1015,7 @@ function partner() {
 
                             <div
                               id="sgE-4239997-1-8-box"
-                              class="sg-question sg-type-essay"
+                              className="sg-question sg-type-essay"
                             >
                               <input
                                 type="hidden"
@@ -1251,17 +1029,17 @@ function partner() {
                                 name="sgE-4239997-1-8-time"
                                 value=""
                               />
-                              <div class="sg-question-title">
+                              <div className="sg-question-title">
                                 <label for="sgE-4239997-1-8-element">
-                                  <span class="sg-question-number">6.</span>
+                                  <span className="sg-question-number">6.</span>
                                   Tell Us More
                                 </label>
                               </div>
-                              <div class="sg-question-options">
+                              <div className="sg-question-options">
                                 <textarea
                                   id="sgE-4239997-1-8-element"
                                   name="sgE-4239997-1-8"
-                                  class="sg-input sg-input-essay"
+                                  className="sg-input sg-input-essay"
                                   cols="40"
                                   rows="5"
                                 ></textarea>
@@ -1269,15 +1047,15 @@ function partner() {
                             </div>
                           </div>
 
-                          <div class="sg-content-hook-2"></div>
+                          <div className="sg-content-hook-2"></div>
 
-                          <div class="sg-footer">
-                            <div class="sg-footer-hook-1"></div>
+                          <div className="sg-footer">
+                            <div className="sg-footer-hook-1"></div>
 
-                            <div class="sg-button-bar">
+                            <div className="sg-button-bar">
                               <input
                                 type="submit"
-                                class="sg-button sg-submit-button"
+                                className="sg-button sg-submit-button"
                                 id="sg_SubmitButton"
                                 name="sGizmoSubmitButton"
                                 aria-label="submit button"
@@ -1286,26 +1064,26 @@ function partner() {
                               />
                             </div>
                             <div
-                              class="sg-progress-bar"
+                              className="sg-progress-bar"
                               role="progressbar"
                               aria-valuemin="0"
                               aria-valuemax="100"
                               aria-valuenow="0"
                             >
-                              <div class="sg-progress-bar-text">0%</div>
-                              <div class="sg-progress-bar-background">
+                              <div className="sg-progress-bar-text">0%</div>
+                              <div className="sg-progress-bar-background">
                                 <div
-                                  class="sg-progress-bar-inner"
+                                  className="sg-progress-bar-inner"
                                   style={{ width: "0%" }}
                                 ></div>
                               </div>
                             </div>
 
-                            <div class="sg-footer-hook-2"></div>
+                            <div className="sg-footer-hook-2"></div>
                           </div>
                         </div>
                       </div>
-                    </form>
+                    </form> */}
                   </div>
                 </div>
               </div>

@@ -3040,7 +3040,7 @@ button.global-nav__account-signup:hover {
   }
 }
 .global-nav__inputs-wrap {
-  flex: 1;
+  flex: 1 !important;
   border: 2px solid #ccc;
   border-radius: 4px;
 }
@@ -38390,67 +38390,7 @@ button.global-nav__account-signup {
     transform: translateY(21px) rotate(45deg);
   }
 }
-.mega-menu-wrapper {
-  background-color: #f7f5f5;
-  bottom: 0;
-  box-shadow: inset 0 8px 4px -7px rgba(0, 0, 0, 0.2),
-    inset 0 10px 10px -7px rgba(0, 0, 0, 0.2);
-  height: 100%;
-  left: 0;
-  overflow: hidden;
-  padding-top: 134px;
-  position: absolute;
-  top: 0;
-  width: 100%;
-}
-.mega-menu-wrapper.sherlock-hidden {
-  padding-top: 54px;
-}
-@media only screen and (min-width: 500px) {
-  .mega-menu-wrapper {
-    padding-top: 144px;
-  }
-}
-@media only screen and (min-width: 768px) {
-  .mega-menu-wrapper {
-    background: #fff;
-    border-radius: 0 0 2px 2px;
-    border-top: 1px solid #e6e6e6;
-    bottom: auto;
-    box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.25);
-    height: auto;
-    left: 50%;
-    margin-left: -45vw;
-    padding: 0;
-    top: auto;
-    width: 90vw;
-    z-index: 200;
-  }
-  .mega-menu-wrapper.sherlock-hidden {
-    padding-top: 0;
-  }
-}
-@media only screen and (min-width: 1024px) {
-  .mega-menu-wrapper {
-    margin-left: -425px;
-    width: 850px;
-  }
-}
-.js-focus-visible
-  .mega-menu-wrapper
-  :focus:not(.focus-visible):not(.Mui-focusVisible) {
-  outline: 0;
-}
-.js-focus-visible .mega-menu-wrapper .focus-visible:not(.Mui-focusVisible) {
-  outline: 3px solid #222;
-  outline-offset: 3px;
-  z-index: 1000;
-}
-.js-focus-visible
-  .mega-menu-wrapper
-  .focus-visible:not(.Mui-focusVisible).--alt-focus {
-  outline-color: #fff;
-}
+
 .mega-menu {
   -webkit-overflow-scrolling: touch;
   height: 100%;
@@ -38807,7 +38747,7 @@ button.global-nav__account-signup {
     display: block;
     height: auto;
     opacity: 1;
-    position: static;
+    /* position: static; */
     width: 100%;
   }
   .global-nav--sticky .global-nav__secondary {
@@ -70659,3 +70599,6 @@ html {
 .Expedite-Text__weight--700 {
   font-weight: 700;
 }
+
+
+
