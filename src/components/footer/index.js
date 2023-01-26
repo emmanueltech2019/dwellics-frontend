@@ -8,15 +8,9 @@ function footer() {
       <footer role="contentinfo" aria-label="Footer" className="footer">
         <div className="footer__container relative top-0 left-0">
           <div className="footer-static-nav-container">
-            {/* <a alt="Niche" className="footer-logo" href="/">
-              <img
-                src={Logo}
-                className="ab top-0 left-0"
-                style={{ width: "120px", height: "50px" }}
-                alt={""}
-              />
-            </a> */}
+
             <ul className="footer-static-list" aria-label="about Niche">
+
               <li className="footer-static-list__item">
                 <a
                   className="footer-static-list__link"
@@ -34,17 +28,7 @@ function footer() {
                   rel="noopener"
                   target="_self"
                 >
-                  Niche For Schools
-                </a>
-              </li>
-              <li className="footer-static-list__item">
-                <a
-                  className="footer-static-list__link"
-                  href="#"
-                  rel="noopener"
-                  target="_self"
-                >
-                  Niche For Colleges
+                  Data Sources
                 </a>
               </li>
               <li className="footer-static-list__item">
@@ -57,56 +41,6 @@ function footer() {
                   Blog
                 </a>
               </li>
-              <li className="footer-static-list__item">
-                <a
-                  className="footer-static-list__link"
-                  href="#"
-                  rel="noopener"
-                  target="_self"
-                >
-                  Resource Center
-                </a>
-              </li>
-              <li className="footer-static-list__item">
-                <a
-                  className="footer-static-list__link"
-                  href="#"
-                  rel="noopener"
-                  target="_self"
-                >
-                  Contact Niche
-                </a>
-              </li>
-              <li className="footer-static-list__item">
-                <a
-                  className="footer-static-list__link"
-                  href="#"
-                  rel="noopener"
-                  target="_self"
-                >
-                  Data
-                </a>
-              </li>
-              <li className="footer-static-list__item">
-                <a
-                  className="footer-static-list__link"
-                  href="#"
-                  rel="noopener"
-                  target="_self"
-                >
-                  Careers
-                </a>
-              </li>
-              <li className="footer-static-list__item">
-                <a
-                  className="footer-static-list__link"
-                  href="#"
-                  rel="noopener"
-                  target="_self"
-                >
-                  Partnerships
-                </a>
-              </li>
               
               <li className="footer-static-list__item">
                 <a
@@ -115,7 +49,7 @@ function footer() {
                   rel="noopener"
                   target="_self"
                 >
-                  Do Not Sell My Personal Information
+                  Contact Us
                 </a>
               </li>
               <li className="footer-static-list__item">
@@ -125,7 +59,7 @@ function footer() {
                   rel="noopener"
                   target="_self"
                 >
-                  Privacy Policy
+                  FAQ
                 </a>
               </li>
               <li className="footer-static-list__item">
@@ -135,7 +69,7 @@ function footer() {
                   rel="noopener"
                   target="_self"
                 >
-                  User Agreement
+                  Personalized Ranks
                 </a>
               </li>
               <li className="footer-static-list__item">
@@ -145,7 +79,7 @@ function footer() {
                   rel="noopener"
                   target="_self"
                 >
-                  Web Accessibility
+                  Compare Cities
                 </a>
               </li>
               <li className="footer-static-list__item">
@@ -155,17 +89,17 @@ function footer() {
                   rel="noopener"
                   target="_self"
                 >
-                  Cookie Policy
+                  Compare Climate
                 </a>
               </li>
               <li className="footer-static-list__item">
                 <a
                   className="footer-static-list__link"
-                  href="/sitemap/"
+                  href="#"
                   rel="noopener"
                   target="_self"
                 >
-                  Sitemap
+                  Cost of Living Calculator
                 </a>
               </li>
             </ul>
@@ -237,24 +171,24 @@ function footer() {
             <p className="footer-tagline">
             Discover the Homebuyers data, Places to live data, and mortgage leads.
             </p>
-            <ul className="footer-vertical-links">
-              <li className="footer-vertical-links__item">
-                <a href="#" target="_self">
+            <ul className="footer-vertical-links" style={{fontSize:"1px !important"}}>
+              <li className="footer-vertical-links__item" >
+                <a href="#" target="_self" style={{fontSize:"10px !important"}}>
                 Homebuyers data
                 </a>
               </li>
               <li className="footer-vertical-links__item">
-                <a href="#" target="_self">
+                <a href="#" target="_self" style={{fontSize:"10px !important"}}>
                 Places to live data
                 </a>
               </li>
               <li className="footer-vertical-links__item">
-                <a href="#" target="_self">
+                <a href="#" target="_self" style={{fontSize:"10px !important"}}>
                 Mortgage leads
                 </a>
               </li>
               <li className="footer-vertical-links__item">
-                <a href="#" target="_self">
+                <a href="#" target="_self" style={{fontSize:"10px !important"}}>
                 Market Insights
                 </a>
               </li>
@@ -276,50 +210,45 @@ function footer() {
               <section className="footer-link-collection-list">
                 <ul>
                   <li className="footer-link-collection-list__item">
-                    <a href="#">College Rankings</a>
+                    <a href="#">The Best Cities To Work Remote In 2023</a>
                   </li>
                   <li className="footer-link-collection-list__item">
-                    <a href="#">Best Colleges</a>
+                    <a href="#">Best Places To Raise a Family In The Midwest</a>
                   </li>
                   <li className="footer-link-collection-list__item">
-                    <a href="#">Best Christian Colleges</a>
+                    <a href="#">Best Places To Raise a Family In The Northeast</a>
                   </li>
                   <li className="footer-link-collection-list__item">
-                    <a href="#">Best Liberal Arts Colleges</a>
+                    <a href="#">Best Places To Raise a Family In The South</a>
                   </li>
                   <li className="footer-link-collection-list__item">
-                    <a href="#">Best Value Colleges</a>
+                    <a href="#">Best Places To Raise a Family In The West</a>
+                  </li>
+                  
+               
+                </ul>
+              </section>
+              <section className="footer-link-collection-list">
+                <ul>
+                <li className="footer-link-collection-list__item">
+                    <a href="#">Most Affordable U.S. Cities with Outstanding Education</a>
                   </li>
                   <li className="footer-link-collection-list__item">
-                    <a href="#">Hardest Colleges to Get Into</a>
+                    <a href="#">Most Educated Cities In America</a>
                   </li>
                   <li className="footer-link-collection-list__item">
-                    <a href="#">Top Party Schools</a>
+                    <a href="#">Best Cities For Retired Singles In 2023</a>
                   </li>
                   <li className="footer-link-collection-list__item">
-                    <a href="#">Top Public Universities</a>
+                    <a href="#">Best Cities For Outdoor Living In 2023</a>
                   </li>
                   <li className="footer-link-collection-list__item">
-                    <a href="#">College Scholarships</a>
+                    <a href="#">Healthiest Counties In America 2023</a>
                   </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">California Colleges</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Florida Colleges</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Ohio Colleges</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">New York Colleges</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Pennsylvania Colleges</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Texas Colleges</a>
-                  </li>
+                </ul>
+              </section>
+              <section className="footer-link-collection-list">
+                <ul>
                   <li className="footer-link-collection-list__item">
                     <a href="#">Companies in Austin</a>
                   </li>
@@ -334,134 +263,6 @@ function footer() {
                   </li>
                   <li className="footer-link-collection-list__item">
                     <a href="#">Companies in New York</a>
-                  </li>
-                </ul>
-              </section>
-              <section className="footer-link-collection-list">
-                <ul>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">K-12 School Rankings</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Best School Districts</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Best Elementary Schools</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Best Middle Schools</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Best High Schools</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Best Private High Schools</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Best Charter High Schools</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Best Magnet High Schools</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Best School Districts in California</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Best School Districts in Michigan</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Best School Districts in New Jersey</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Best School Districts in New York</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Best School Districts in Pennsylvania</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Best School Districts in Texas</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Best School Districts in Virginia</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Companies in Pittsburgh</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Companies in Seattle</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Companies in Texas</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Tech Companies</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Financial Services Companies</a>
-                  </li>
-                </ul>
-              </section>
-              <section className="footer-link-collection-list">
-                <ul>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Atlanta Neighborhoods</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Austin Neighborhoods</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Baltimore Neighborhoods</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Boston Neighborhoods</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Chicago Neighborhoods</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Denver Neighborhoods</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Houston Neighborhoods</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Los Angeles Neighborhoods</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Miami Neighborhoods</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">New York City Neighborhoods</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Philadelphia Neighborhoods</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Pittsburgh Neighborhoods</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">San Francisco Neighborhoods</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Seattle Neighborhoods</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Washington, D.C. Neighborhoods</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Healthcare Organizations</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Internet Companies</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Energy Companies</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Retail Companies</a>
-                  </li>
-                  <li className="footer-link-collection-list__item">
-                    <a href="#">Insurance Companies</a>
                   </li>
                 </ul>
               </section>

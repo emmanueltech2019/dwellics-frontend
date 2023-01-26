@@ -7,7 +7,7 @@ function claim() {
         <noscript>
           <div className="noscript">
             <span>
-              Niche requires Javascript to work correctly. Please
+              Dwellics requires Javascript to work correctly. Please
               <a target="_blank" href="http://www.enable-javascript.com/" rel="noreferrer">
                 turn it on
               </a>
@@ -18,10 +18,9 @@ function claim() {
         <main className="claim-school">
           <section className="claim-school-intro">
             <div className="claim-school-intro__content">
-              <h1 className="claim-school-intro-header">Claim Your School</h1>
+              <h1 className="claim-school-intro-header">Claim Your Data</h1>
               <div className="claim-school-intro-subheader">
-                Get access to manage your
-                school's&nbsp;profile&nbsp;on&nbsp;Niche
+              Access your business profile on Dwellics
               </div>
               <section className="claim-school-form">
                 <button
@@ -61,7 +60,7 @@ function claim() {
                             name="contact-org"
                             novalidate=""
                             pattern=".*"
-                            placeholder="Enter a school or college"
+                            placeholder="Enter company or business"
                             spellcheck="off"
                             tabindex="1"
                             value=""
@@ -339,25 +338,26 @@ function claim() {
               </section>
               <ul className="claim-school-reasons">
                 <li className="claim-school-reasons__list-item">
-                  <h2 className="claim-school-reasons-header">Track Engagement</h2>
+                  <h2 className="claim-school-reasons-header">Monitor user engagement</h2>
                   <p className="claim-school-reasons-paragraph">
-                    See user activity for your Niche profile—plus your
-                    competitors
+                  Keep an eye on user activities on your Dwellics profile, and on Competitor profiles
+
                   </p>
                 </li>
                 <li className="claim-school-reasons__list-item">
-                  <h2 className="claim-school-reasons-header">Update Your Data</h2>
+                  <h2 className="claim-school-reasons-header">Keep your profile fresh</h2>
                   <p className="claim-school-reasons-paragraph">
-                    Help us keep your data as up-to-date as possible
+                  Update your Dwellics profile consistently for fresh data
+
                   </p>
                 </li>
                 <li className="claim-school-reasons__list-item">
                   <h2 className="claim-school-reasons-header">
-                    Upgrade to Premium
+                  Go Premium
+
                   </h2>
                   <p className="claim-school-reasons-paragraph">
-                    Showcase your school and motivate next steps—apply, visit,
-                    etc.
+                  Exhibit your outstanding business profile to gain more positive user actions like visits, clicks and apply. 
                   </p>
                 </li>
               </ul>
@@ -365,32 +365,30 @@ function claim() {
           </section>
           <section className="claim-school-footer">
             <h2 className="claim-school-footer__heading">
-              Niche is the #1 Website for Choosing Colleges and K-12 Schools
+            Dwellics is a recognized and trusted site for selecting the best homes and mortgages
             </h2>
             <ul className="claim-school-footer-facts">
               <li className="claim-school-footer-facts__item">
                 <p className="claim-school-footer-fact">
-                  <em className="claim-school-footer-fact__emphasis">1 in 2</em>
+                  <em className="claim-school-footer-fact__emphasis">1 in 3</em>
                   <span>
-                    college-bound students use Niche
-                    to&nbsp;find&nbsp;their&nbsp;college
+                  home buyers successfully use Dwellics to purchase homes and discover home finance 
                   </span>
                 </p>
               </li>
               <li className="claim-school-footer-facts__item">
                 <p className="claim-school-footer-fact">
-                  <em className="claim-school-footer-fact__emphasis">5</em>
+                  <em className="claim-school-footer-fact__emphasis">1,000,000+</em>
                   <span>
-                    million visits per month from
-                    students&nbsp;and&nbsp;families
+                  visits from home buyers and residents 
                   </span>
                 </p>
               </li>
               <li className="claim-school-footer-facts__item">
                 <p className="claim-school-footer-fact">
-                  <em className="claim-school-footer-fact__emphasis">2-4x</em>
+                  <em className="claim-school-footer-fact__emphasis">2-3x</em>
                   <span>
-                    increase in engagement after upgrading&nbsp;to&nbsp;Premium
+                  engagement boost following premium upgrade
                   </span>
                 </p>
               </li>

@@ -7,7 +7,7 @@ function contact() {
         <noscript>
           <div className="noscript">
             <span>
-              Niche requires Javascript to work correctly. Please
+              Dwellics requires Javascript to work correctly. Please
               <a target="_blank" href="http://www.enable-javascript.com/" rel="noreferrer" >
                 turn it on
               </a>
@@ -17,7 +17,7 @@ function contact() {
         </noscript>
         <main className="contact-form">
           <header className="contact-form__header">
-            <h1 className="header--1">Contact Niche</h1>
+            <h1 className="header--1">Contact Dwellics</h1>
             <p className="contact-form__header__info">
               We'd love to hear from you. Tell us a little about yourself and
               what type of question you have.
@@ -40,7 +40,7 @@ function contact() {
                         className="visually-hidden"
                         for="contact-picker-group--userType"
                       >
-                        What kind of Niche user are you? Choose one of the
+                        What kind of Dwellics user are you? Choose one of the
                         following so that we can provide the most appropriate
                         contact form
                       </span>
@@ -59,7 +59,7 @@ function contact() {
                               className="button button--bare picker-list-item__button"
                               aria-label="Niche User"
                             >
-                              Niche User
+                              Dwellics User
                             </button>
                           </li>
                           <li className="picker-list-item" id="schoolRep">

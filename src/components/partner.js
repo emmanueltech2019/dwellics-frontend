@@ -26,18 +26,16 @@ function partner() {
                 style={{ paddingBottom: "20px" }}
                 className="Expedite-Text Expedite-Text__source--800 Expedite-Text__weight--400 niche-blocks--leading-11 niche-blocks--color-gray02 niche-blocks--text-align-left"
               >
-                Niche helps schools and companies reach millions of prospective
-                students and homebuyers every year.
+                Dwellics helps business and companies reach millions of prospective
+                 homebuyers every year.
               </div>
 
               <div
                 id="text-block_5edfd916973b6"
                 className="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
               >
-                We rigorously analyze dozens of public data sets and millions of
-                reviews to produce comprehensive rankings, report cards, and
-                profiles for every K-12 school, college, and neighborhood in the
-                U.S.
+                
+Dwellics is the go-to partner for real estate and mortgage brokers/agents who desire to have access to a wide array of homebuyers and mortgage buyers from across the US annually.
               </div>
             </div>
           </div>
@@ -67,7 +65,7 @@ function partner() {
                     style={{ paddingBottom: "10px" }}
                     className="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
-                    K-12 &amp; College Partnerships
+                   Real estate brokers/agents/companies and mortgage brokers/agents/companies Partnership
                   </div>
 
                   <div
@@ -75,8 +73,8 @@ function partner() {
                     style={{ paddingBottom: "10px" }}
                     className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
-                    Niche enables school administrators to claim their school.
-                    Get access to manage your school&apos;s profile on Niche.
+                    10,000+ annual ratings and reviews from our users
+
                   </div>
 
                   <div
@@ -115,7 +113,7 @@ function partner() {
                     style={{ paddingBottom: "10px" }}
                     className="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
-                    Purchase Niche Data
+                   Buy Dwellics Data
                   </div>
 
                   <div
@@ -123,8 +121,7 @@ function partner() {
                     style={{ paddingBottom: "10px" }}
                     className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
-                    Niche has the most comprehensive data on U.S. K-12 schools,
-                    colleges, and places.
+                    15,000 comprehensive profiles on brokers, agents, companies and neighborhoods
                   </div>
 
                   <div
@@ -163,7 +160,7 @@ function partner() {
                     style={{ paddingBottom: "10px" }}
                     className="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
-                    Advertise on Niche
+                   Advertise on Dwellics
                   </div>
 
                   <div
@@ -171,9 +168,7 @@ function partner() {
                     style={{ paddingBottom: "10px" }}
                     className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
-                    Advertising on Niche connects you with consumers who are
-                    actively researching their educational, real estate, and
-                    workplace opportunities.
+                    1000,000+ yearly visitors use Dwellics
                   </div>
 
                   <div
