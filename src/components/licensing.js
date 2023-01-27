@@ -1,14 +1,12 @@
 import React from "react";
-
+// url(https://www.niche.com/about/wp-content/uploads/2016/01/Licensing_Illustration_1800x400-1.png)
 function licensing() {
   return (
     <div className="content-wrapper h-fit">
     <div
       className="hero-image"
       style={{
-        backgroundImage:
-          "url(https://www.niche.com/about/wp-content/uploads/2016/01/Licensing_Illustration_1800x400-1.png)",
-      }}
+        backgroundImage:"url(https://res.cloudinary.com/wise-solution-inc/image/upload/v1674832055/illustration1_gham5q.png)",}}
     ></div>
       <main className="content-inner" id="maincontent">
         <h1>Licensing Dwellics Data</h1>

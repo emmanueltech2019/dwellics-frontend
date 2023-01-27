@@ -2485,7 +2485,7 @@ I am so grateful for Dwellics and its resources. Finding my dream home has truly
             <div className="type--weight-400 home-body home-body--rankings">
             Powered by data and reviews, Dwellics provides a guide for you through the provision of encompassing data.
             </div>
-            <ul className="home-rankings__ranks">
+            {/* <ul className="home-rankings__ranks">
               <li className="home-rankings__rank">
                 <a
                   href="#"
@@ -2546,7 +2546,7 @@ I am so grateful for Dwellics and its resources. Finding my dream home has truly
                   </span>
                 </a>
               </li>
-            </ul>
+            </ul> */}
           </section>
           <section className="home-partners">
             <div className="home-wavy-edge home-wavy-edge--partners">
@@ -2720,7 +2720,7 @@ I am so grateful for Dwellics and its resources. Finding my dream home has truly
               </div>
             </div>
             <div className="home-start__illustration">
-              <picture>
+              {/* <picture>
                 <source
                   srcset="
                         https://d33a4decm84gsn.cloudfront.net/static/home/start-student-with-dog.webp
@@ -2738,7 +2738,8 @@ I am so grateful for Dwellics and its resources. Finding my dream home has truly
                   src="https://d33a4decm84gsn.cloudfront.net/static/home/start-student-with-dog.png"
                   alt="Illustration of a student and dog looking to the future"
                 />
-              </picture>
+              </picture> */}
+              {/* <img src"../assets/people.png"/> */}
             </div>
             <div className="home-start__content-container">
               <h2 className="home-header home-header--start">
