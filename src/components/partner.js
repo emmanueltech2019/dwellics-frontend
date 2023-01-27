@@ -303,7 +303,7 @@ Learn more
                 style={{ paddingBottom: "12px" }}
                 className="Expedite-Text Expedite-Text__source--800 Expedite-Text__weight--400 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
               >
-                K12 School &amp; College Partnerships
+                Real estate brokers/agents and mortgage brokers/agents Partnership
               </div>
 
               <div
@@ -311,10 +311,7 @@ Learn more
                 style={{ paddingBottom: "28px" }}
                 className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
               >
-                Get access to manage your school&apos;s profile on Niche for free.
-                You’ll be able to track engagement and update your information.
-                Upgrade to Premium to motivate users to drive more applications,
-                visits, and inquiries.
+              Dwellics gives you the opportunity to manage your business/company profile without paying a dime. All you need is to become a premium partner so more visitors can visit and interact with you.
               </div>
 
               <div className="is-layout-flex wp-container-13 wp-block-columns">
@@ -324,7 +321,7 @@ Learn more
                     style={{ paddingBottom: "12px" }}
                     className="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
-                    Claim Your School
+                    Claim your Data
                   </div>
 
                   <div
@@ -332,7 +329,7 @@ Learn more
                     style={{ paddingBottom: "4px" }}
                     className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
-                    Update your data and track engagement.
+                   Keep your profile fresh and track engagement to drive data
                   </div>
 
                   <div
@@ -341,7 +338,7 @@ Learn more
                     className=""
                   >
                     <a
-                      href="https://www.niche.com/claim-your-school/"
+                      href="#"
                       className="Expedite-Button--button Expedite-Button__text--indigo02"
                     >
                       <span className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--600">
@@ -357,7 +354,7 @@ Learn more
                     style={{ paddingBottom: "12px" }}
                     className="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
-                    Upgrade to Premium
+                    Go Premium
                   </div>
 
                   <div
@@ -365,8 +362,8 @@ Learn more
                     style={{ paddingBottom: "4px" }}
                     className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
-                    Make your profile stand out and take advantage of our
-                    enrollment marketing solutions.
+                   With our premium subscription, you can make your profile outstanding while enjoying the benefits of our market insights and solutions
+
                   </div>
 
                   <div
@@ -375,11 +372,12 @@ Learn more
                     className=""
                   >
                     <a
-                      href="https://www.niche.com/about/niche-premium-profile-college/"
+                      href="#"
                       className="Expedite-Button--button Expedite-Button__text--indigo02"
                     >
                       <span className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--600">
-                        About Premium Profiles
+                      Learn more about the Premium Partnership
+
                       </span>
                     </a>
                   </div>
@@ -391,7 +389,7 @@ Learn more
                     style={{ paddingBottom: "12px" }}
                     className="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
-                    Promote Your School
+                    Promote your Brand
                   </div>
 
                   <div
@@ -399,7 +397,7 @@ Learn more
                     style={{ paddingBottom: "4px" }}
                     className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
-                    Showcase Niche Grades and Rankings on your own site.
+                    You have access to promotional materials from Dwellics, including grades and rankings which you can exhibit on your site.
                   </div>
 
                   <div
@@ -408,7 +406,7 @@ Learn more
                     className=""
                   >
                     <a
-                      href="https://www.niche.com/about/press-kits/"
+                      href="#"
                       className="Expedite-Button--button Expedite-Button__text--indigo02"
                     >
                       <span className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--600">
@@ -471,17 +469,15 @@ Learn more
                     id="text-block_5edfe9ae5d858"
                     className="Expedite-Text Expedite-Text__source--800 Expedite-Text__weight--400 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left pb-[20px]"
                   >
-                    Purchase Niche Data
+                   Buy Dwellics Data
+
                   </div>
                   <div
                     id="text-block_5edfe9cc5d859"
                     className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left pb-[28px]"
                   >
-                    Niche has the most comprehensive data on U.S K-12 schools,
-                    colleges, and places (like neighborhoods, cities, and zip
-                    codes) We offer data solutions for the education and real
-                    estate industries as well as customer solutions for brands
-                    and market research.
+                   At Dwellics, we boast of robust, all-inclusive data which immensely benefits real estate brokers and agents, mortgage brokers and agents, and moving companies. We provide authentic public data sets thoroughly analyzed in a way that makes it super useful and relevant to ourto you our client, helping you successfully attain business growth.
+
                   </div>
 
                   <div className="is-layout-flex wp-container-19 wp-block-columns">
@@ -491,15 +487,15 @@ Learn more
                         id="text-block_5edfeba25d85b"
                         className="Expedite-Text pb-[12px] Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                       >
-                        Market Insights
+                       Market Insights
                       </div>
 
                       <div
                         id="text-block_5edfebb25d85c"
                         className="Expedite-Text pb-[28px] md:pb-[0px] Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                       >
-                        Fortune 100 companies and startups alike use Niche for
-                        recruitment, marketing, and expansion.
+                       Diverse Companies and startups find Dwellics data useful for marketing, lead generation, and growth. Our data comes from impeccable sources and are analyzed with our clients in mind.
+
                       </div>
                     </div>
 
@@ -509,14 +505,16 @@ Learn more
                         id="text-block_5edfebfe5d85d"
                         className="Expedite-Text pb-[12px] Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                       >
-                        Display on Your Own Site
+                       Exhibit Our Data on your Website
+
                       </div>
 
                       <div
                         id="text-block_5edfec105d85e"
                         className="Expedite-Text pb-[28px] md:pb-[0px] Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                       >
-                        Add Niche school grades to your real estate content.
+                       You can include Dwellics neighborhood grades in your Web or social media real estate or mortgage content.
+
                       </div>
                     </div>
                   </div>
@@ -526,7 +524,7 @@ Learn more
                     className="niche-blocks--block-align-right"
                   >
                     <a
-                      href="https://www.niche.com/about/licensing/"
+                      href="#"
                       className="Expedite-Button--button Expedite-Button__text--indigo02 Expedite-Button__padding--comfy"
                     >
                       <span className="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600">
@@ -592,10 +590,10 @@ Learn more
                         id="text-block_5edfeccd5d861"
                         className="Expedite-Text pb-[28px] Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                       >
-                        Diverse Companies and startups find Dwellics data useful for marketing, lead generation and growth. Our data comes from impeccable sources and are analysed with our clients in mind.
+                      Diverse Companies and startups find Dwellics data useful for marketing, lead generation, and growth. Our data comes from impeccable sources and are analyzed with our clients in mind.
                       </div>
 
-                      <div className="is-layout-flex wp-container-26 wp-block-columns">
+                      {/* <div className="is-layout-flex wp-container-26 wp-block-columns">
                         <div className="is-layout-flow wp-block-column">
 
                           <div
@@ -648,14 +646,14 @@ Learn more
                             Places To Live.
                           </div>
                         </div>
-                      </div>
+                      </div> */}
 
                       <div
                         id="text-block_5edfeccd5d862"
                         className="niche-blocks--block-align-right"
                       >
                         <a
-                          href="https://www.niche.com/about/advertising/"
+                          href="#"
                           className="Expedite-Button--button Expedite-Button__text--indigo02 Expedite-Button__padding--comfy"
                         >
                           <span className="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600">

@@ -2724,7 +2724,7 @@ function businessprofile() {
                           <div className="expansion-link">
                             <a
                               className="expansion-link__text"
-                              href="https://www.niche.com/colleges/massachusetts-institute-of-technology/students/"
+                              href="#"
                             >
                               <span>Read More About the Students</span>
                               <i className="icon-arrowright-thin--expansion"></i>

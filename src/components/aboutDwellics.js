@@ -14,7 +14,7 @@ function aboutDwellics() {
             <ul className="nav__primaries">
               <li className="nav__primary">
                 <a
-                  href="https://www.niche.com/about/"
+                  href="#"
                   className="nav__label nav__label--selected"
                 >
                   Overview
@@ -22,7 +22,7 @@ function aboutDwellics() {
               </li>
               <li className="nav__primary">
                 <a
-                  href="https://www.niche.com/about/data/"
+                  href="#"
                   className="nav__label "
                 >
                   Our Data
@@ -30,7 +30,7 @@ function aboutDwellics() {
               </li>
               <li className="nav__primary">
                 <a
-                  href="https://www.niche.com/about/team/"
+                  href="#"
                   className="nav__label "
                 >
                   Working At Dwellics
@@ -38,7 +38,7 @@ function aboutDwellics() {
               </li>
               <li className="nav__primary">
                 <a
-                  href="https://www.niche.com/about/partnerships/"
+                  href="#"
                   className="nav__label "
                 >
                   Partnerships

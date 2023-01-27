@@ -407,10 +407,10 @@ function Navbar() {
                   </div>
                   <ul className="mega-menu__niche-links-wrap flex-none">
                     <li className="mega-menu__niche-link">
-                      <a href="#">About Niche</a>
+                      <a href="#">About Dwellics</a>
                     </li>
                     <li className="mega-menu__niche-link">
-                      <a href="#">Niche Data</a>
+                      <a href="#">Dwellics Data</a>
                     </li>
                     <li className="mega-menu__niche-link">
                       <a href="#">Careers</a>
@@ -422,7 +422,7 @@ function Navbar() {
                       <a href="#">Claim Your Mortgage Leads</a>
                     </li>
                     <li className="mega-menu__niche-link">
-                      <a href="#">Contact Niche</a>
+                      <a href="#">Contact Dwellics</a>
                     </li>
                   </ul>
                 </nav>
@@ -443,7 +443,7 @@ function Navbar() {
                       <div className="mega-menu__category-label">
                         <a
                           className="mega-menu-category-label__link"
-                          href="https://www.niche.com/k12/search/best-Mortgage Leads /s/massachusetts/"
+                          href="#"
                           aria-label="K-12 Mortgage Leads  Group - Click to collapse"
                         >
                           K-12 Mortgage Leads 
@@ -467,42 +467,42 @@ function Navbar() {
                         </div>
                       </div>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/k12/search/best-Mortgage Leads /s/massachusetts/">
+                        <a href="">
                           Mortgage Leads Search
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/k12/search/best-Mortgage Leads-districts/s/massachusetts/">
+                        <a href="#">
                           District Search
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/k12/rankings/">
+                        <a href="#">
                           Mortgage Leads Rankings
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/k12/Mortgage Leads -near-you/">
+                        <a href="">
                           Mortgage Leads  Near You
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/about/k12-quiz/">
+                        <a href="">
                           K-12 Quiz
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/k12/compare/">
+                        <a href="">
                           Compare Mortgage Leads 
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/k12/survey/">
+                        <a href="">
                           Review Your Mortgage Leads
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/blog/topics/parent-resources/?ref=megamenu">
+                        <a href="">
                           Parent Resources
                         </a>
                       </li>
@@ -511,7 +511,7 @@ function Navbar() {
                       <div className="mega-menu__category-label">
                         <a
                           className="mega-menu-category-label__link"
-                          href="https://www.niche.com/colleges/search/best-colleges/s/massachusetts/"
+                          href=""
                           aria-label="Colleges Group - Click to collapse"
                         >
                           home loan
@@ -535,48 +535,48 @@ function Navbar() {
                         </div>
                       </div>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/colleges/search/best-colleges/s/massachusetts/">
+                        <a href="">
                         home loan Search
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/colleges/search/best-online-colleges/">
+                        <a href="">
                           Online home loan Search
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/colleges/rankings/">
+                        <a href="">
                         home loan Rankings
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/colleges/college-quiz/">
+                        <a href="">
                         home loan Quiz
                         </a>
                       </li>
 
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/about/find-private-Home Buyer Leads -loans/">
+                        <a href="">
                           Home Buyer Leads  Loans
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/colleges/admissions-calculator/">
+                        <a href="">
                           Admissions Calculator
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/colleges/compare/">
+                        <a href="">
                           Compare home loan
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/colleges/survey/">
+                        <a href="">
                           Review Your home loan
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/blog/topics/college-guidance/?ref=megamenu">
+                        <a href="">
                         home loan Guidance
                         </a>
                       </li>
@@ -585,7 +585,7 @@ function Navbar() {
                       <div className="mega-menu__category-label">
                         <a
                           className="mega-menu-category-label__link"
-                          href="https://www.niche.com/-Mortgage Leads /search/best--Mortgage Leads /s/massachusetts/"
+                          href=""
                           aria-label=" Mortgage Leads  Group - Click to collapse"
                         >
                            Mortgage Leads 
@@ -609,22 +609,22 @@ function Navbar() {
                         </div>
                       </div>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/-Mortgage Leads /search/best--Mortgage Leads /s/massachusetts/">
+                        <a href="#">
                            Mortgage Leads Search
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/-Mortgage Leads /programs/">
+                        <a href="#">
                            Programs
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/-Mortgage Leads /-Mortgage Leads-survey-scholarship/">
+                        <a href="#">
                           $1,000  Survey Scholarship
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/-Mortgage Leads /survey/">
+                        <a href="#">
                           Review Your  Mortgage Leads
                         </a>
                       </li>
@@ -633,7 +633,7 @@ function Navbar() {
                       <div className="mega-menu__category-label">
                         <a
                           className="mega-menu-category-label__link"
-                          href="https://www.niche.com/places-to-live/search/best-places-to-live/s/massachusetts/"
+                          href="#"
                           aria-label="Places To Live Group - Click to collapse"
                         >
                           PLACES TO LIVE
@@ -657,64 +657,64 @@ function Navbar() {
                         </div>
                       </div>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/places-to-live/search/best-places-to-live/s/massachusetts/">
+                        <a href="#">
                           Find Places to Live
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/places-to-live/rankings/">
+                        <a href="#">
                           Rankings
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/places-to-live/survey/">
+                        <a href="#">
                           Review Your Area
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/places-to-work/search/all-workplaces/s/massachusetts/">
+                        <a href="#">
                           Find Places to Work
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/places-to-work/survey/">
+                        <a href="#">
                           Review Your Company
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/blog/topics/home-buying-tips/?ref=megamenu">
+                        <a href="#">
                           Home Buying Tips
                         </a>
                       </li>
                     </ul>
                     <ul className="mega-menu__niche-links-wrap">
                       <li className="mega-menu__niche-link">
-                        <a href="https://www.niche.com/about/">About Niche</a>
+                        <a href="#">About Dwellics</a>
                       </li>
                       <li className="mega-menu__niche-link">
-                        <a href="https://www.niche.com/about/data/">
-                          Niche Data
+                        <a href="#">
+                          Dwellics Data
                         </a>
                       </li>
                       <li className="mega-menu__niche-link">
-                        <a href="https://www.niche.com/about/team/">Careers</a>
+                        <a href="">Careers</a>
                       </li>
                       <li className="mega-menu__niche-link">
-                        <a href="https://www.niche.com/blog/?ref=megamenu">
+                        <a href="#">
                           Blog
                         </a>
                       </li>
                       <li className="mega-menu__niche-link">
-                        <a href="https://www.niche.com/claim-your-Mortgage Leads/">
+                        <a href="#">
                           Claim Your Mortgage Leads
                         </a>
                       </li>
                       <li className="mega-menu__niche-link">
-                        <a href="/contact/">Contact Niche</a>
+                        <a href="/contact/">Contact Dwellics</a>
                       </li>
                       <li className="mega-menu__niche-link mega-menu__niche-link--wrap">
                         <div className="niche-app-icon--footer"></div>
-                        <span>Download the Niche App</span>
+                        <span>Download the Dwellics App</span>
                       </li>
                     </ul>
                   </nav>

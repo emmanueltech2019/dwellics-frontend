@@ -9,7 +9,7 @@ function footer() {
         <div className="footer__container relative top-0 left-0">
           <div className="footer-static-nav-container">
 
-            <ul className="footer-static-list" aria-label="about Niche">
+            <ul className="footer-static-list" aria-label="about Dwellics">
 
               <li className="footer-static-list__item" style={{color:"#000"}}>
                 <a

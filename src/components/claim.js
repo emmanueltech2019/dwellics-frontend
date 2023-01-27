@@ -315,7 +315,7 @@ function claim() {
                           agree to our
                           <a
                             className="form__terms__link"
-                            href="https://www.niche.com/about/privacy/"
+                            href="#"
                             rel="noopener noreferrer"
                             target="_blank"
                           >
@@ -324,7 +324,7 @@ function claim() {
                           and
                           <a
                             className="form__terms__link"
-                            href="https://www.niche.com/about/terms/"
+                            href="#"
                             rel="noopener noreferrer"
                             target="_blank"
                           >
