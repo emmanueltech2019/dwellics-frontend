@@ -296,11 +296,10 @@ function Home() {
                     </div>
                   </div>
                   <div className="home-testimonial__quote home-testimonial__quote--abby home-testimonial__quote--debut">
-                    During my college search, I was having a difficult time
+                  During my search for a home, I was having a difficult time
                     narrowing down what I wanted in a HOME, so I used Dwellics to
                     help. I especially liked looking at the rankings for
-                    different aspects of the college experience, like the
-                    campus, academics, and much more!
+                    different homes in different neighborhoods, different climates, and much more!
                   </div>
                   <div className="home-testimonial__quoter home-testimonial__quoter--debut">
                     Abby D.
@@ -369,10 +368,8 @@ function Home() {
                     </div>
                   </div>
                   <div className="home-testimonial__quote home-testimonial__quote--dayna">
-                    I am so grateful for Dwellics and their resources. Schooling
-                    children at home has truly had its challenges. But having
-                    resources has made it so much easier. Finding the right
-                    programs for my little ones has been invaluable.
+                  During my search for a home, I was having a difficult time narrowing down what I wanted in a HOME, so I used Dwellics to make it easier I especially liked looking at the rankings for different homes in different neighborhoods, different climates, and much more!
+I am so grateful for Dwellics and its resources. Finding my dream home has truly had its challenges. But having Dwellics resources has made it so much easier. Finding the right neighborhood for my little ones has been invaluable.
                   </div>
                   <div className="home-testimonial__quoter">Dayna M.</div>
                 </li>
@@ -436,10 +433,7 @@ function Home() {
                     </div>
                   </div>
                   <div className="home-testimonial__quote home-testimonial__quote--clay">
-                    When I was applying to college, I had no idea what I was
-                    looking for. Dwellics helped me explore different schools and
-                    see breakdowns on many aspects of their programs! Thanks to
-                    Dwellics, I found a HOME that was a perfect fit!
+                  When I was applying for a mortgage loan, I had no idea where to begin I looking for it. Dwellics helped me explore different options in various cities and counties by showing breakdowns on many aspects of their data! Thanks to Dwellics, I found a suitable MORTGAGE LOAN and a HOME that was a perfect fit!
                   </div>
                   <div className="home-testimonial__quoter">Clay N.</div>
                 </li>
@@ -2387,11 +2381,11 @@ function Home() {
             <div className="home-compare__copy-container">
               <h2 className="home-header home-header--compare">
                 <div className="type--weight-600 home-header__kicker">
-                  Choose Your HOME
+                GO FOR YOUR BEST HOME
                 </div>
               </h2>
               <p className="type--weight-700 home-header home-header--compare home-header__title">
-                Everything you need to make your&nbsp;decision.
+              We empower you with every data and tool you need to select your best home.
               </p>
               <div className="home-squiggle home-squiggle--compare">
                 <svg
@@ -2403,14 +2397,14 @@ function Home() {
                 </svg>
               </div>
               <div className="type--weight-400 home-body home-body--compare">
-                With the information you care about on every HOME in America,
-                we make it easy for you to compare schools and colleges to make
-                your decision.
+              You can compare different cities and neighborhoods in America based on the diverse metrics we provide like weather, crime rate, and schools to help you make the best choice for you.
+
               </div>
               <ul className="home-compare__links">
                 <li className="home-compare__link">
                   <a href="#" tabindex="0">
-                    Compare  Homes
+                  Compare cities
+
                   </a>
                 </li>
                 <li className="home-compare__link">
@@ -2418,7 +2412,8 @@ function Home() {
                     href="#"
                     tabindex="0"
                   >
-                    Compare Colleges
+                   Compare homes
+
                   </a>
                 </li>
               </ul>
