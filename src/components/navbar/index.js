@@ -55,7 +55,7 @@ function Navbar() {
                         </li>
                         <li className="global-links__item">
                           <a href="#" role="button">
-                            Graduate Schools
+                             Mortgage Leads 
                           </a>
                         </li>
                         <li className="global-links__item">
@@ -214,7 +214,7 @@ function Navbar() {
                         <a
                           className="mega-menu-category-label__link"
                           href="#"
-                          aria-label="Homebuyers data Schools Group - Click to collapse"
+                          aria-label="Homebuyers data Mortgage Leads  Group - Click to collapse"
                         >
                           Homebuyers data
                         </a>
@@ -229,7 +229,7 @@ function Navbar() {
                           >
                             <path
                               xmlns="http://www.w3.org/2000/svg"
-                              id="arrow_up_Homebuyers data SCHOOLS"
+                              id="arrow_up_Homebuyers data Mortgage Leads "
                               className="st0"
                               d="M4.4 18.6c.7.7 1.6.3 2.1-.2l5.5-5.5 5.5 5.5c.5.5 1.4.9 2.1.2.7-.7.3-1.6-.2-2.1L12 9.1l-7.4 7.4c-.5.5-.9 1.3-.2 2.1z"
                             ></path>
@@ -237,25 +237,25 @@ function Navbar() {
                         </div>
                       </div>
                       <li className="mega-menu__item">
-                        <a href="#">School Search</a>
+                        <a href="#">Mortgage Leads Search</a>
                       </li>
                       <li className="mega-menu__item">
                         <a href="#">District Search</a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="#">School Rankings</a>
+                        <a href="#">Mortgage Leads Rankings</a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="#">Schools Near You</a>
+                        <a href="#">Mortgage Leads  Near You</a>
                       </li>
                       <li className="mega-menu__item">
                         <a href="#">Homebuyers data Quiz</a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="#">Compare Schools</a>
+                        <a href="#">Compare Mortgage Leads </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="#">Review Your School</a>
+                        <a href="#">Review Your Mortgage Leads</a>
                       </li>
                       <li className="mega-menu__item">
                         <a href="#">Parent Resources</a>
@@ -289,25 +289,21 @@ function Navbar() {
                         </div>
                       </div>
                       <li className="mega-menu__item">
-                        <a href="#">College Search</a>
+                        <a href="#">home loan Search</a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="#">Online College Search</a>
+                        <a href="#">Online home loan Search</a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="#">College Rankings</a>
+                        <a href="#">home loan Rankings</a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="#">College Quiz</a>
+                        <a href="#">home loan Quiz</a>
                       </li>
+
+
                       <li className="mega-menu__item">
-                        <a href="#">Scholarships</a>
-                      </li>
-                      <li className="mega-menu__item">
-                        <a href="#">$2,000 No Essay Scholarship</a>
-                      </li>
-                      <li className="mega-menu__item">
-                        <a href="#">Student Loans</a>
+                        <a href="#">Home Buyer Leads  Loans</a>
                       </li>
                       <li className="mega-menu__item">
                         <a href="#">Admissions Calculator</a>
@@ -316,10 +312,10 @@ function Navbar() {
                         <a href="#">Compare Places to live data</a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="#">Review Your College</a>
+                        <a href="#">Review Your home loan</a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="#">College Guidance</a>
+                        <a href="#">home loan Guidance</a>
                       </li>
                     </ul>
                     <ul className="mega-menu__list mega-menu__list--expanded">
@@ -327,7 +323,7 @@ function Navbar() {
                         <a
                           className="mega-menu-category-label__link"
                           href="#"
-                          aria-label="Graduate Schools Group - Click to collapse"
+                          aria-label=" Mortgage Leads  Group - Click to collapse"
                         >
                           Mortgage leads
                         </a>
@@ -342,7 +338,7 @@ function Navbar() {
                           >
                             <path
                               xmlns="http://www.w3.org/2000/svg"
-                              id="arrow_up_GRADUATE SCHOOLS"
+                              id="arrow_up_ Mortgage Leads "
                               className="st0"
                               d="M4.4 18.6c.7.7 1.6.3 2.1-.2l5.5-5.5 5.5 5.5c.5.5 1.4.9 2.1.2.7-.7.3-1.6-.2-2.1L12 9.1l-7.4 7.4c-.5.5-.9 1.3-.2 2.1z"
                             ></path>
@@ -350,16 +346,16 @@ function Navbar() {
                         </div>
                       </div>
                       <li className="mega-menu__item">
-                        <a href="#">Grad School Search</a>
+                        <a href="#"> Mortgage Leads Search</a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="#">Graduate Programs</a>
+                        <a href="#"> Programs</a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="#">$1,000 Graduate Survey Scholarship</a>
+                        <a href="#">$1,000  Survey Scholarship</a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="#">Review Your Grad School</a>
+                        <a href="#">Review Your  Mortgage Leads</a>
                       </li>
                     </ul>
                     <ul className="mega-menu__list mega-menu__list--expanded">
@@ -423,7 +419,7 @@ function Navbar() {
                       <a href="#">Blog</a>
                     </li>
                     <li className="mega-menu__niche-link">
-                      <a href="#">Claim Your School</a>
+                      <a href="#">Claim Your Mortgage Leads</a>
                     </li>
                     <li className="mega-menu__niche-link">
                       <a href="#">Contact Niche</a>
@@ -447,10 +443,10 @@ function Navbar() {
                       <div className="mega-menu__category-label">
                         <a
                           className="mega-menu-category-label__link"
-                          href="https://www.niche.com/k12/search/best-schools/s/massachusetts/"
-                          aria-label="K-12 Schools Group - Click to collapse"
+                          href="https://www.niche.com/k12/search/best-Mortgage Leads /s/massachusetts/"
+                          aria-label="K-12 Mortgage Leads  Group - Click to collapse"
                         >
-                          K-12 SCHOOLS
+                          K-12 Mortgage Leads 
                         </a>
                         <div className="mega-menu__category-label__arrow">
                           <svg
@@ -463,7 +459,7 @@ function Navbar() {
                           >
                             <path
                               xmlns="http://www.w3.org/2000/svg"
-                              id="arrow_up_K-12 SCHOOLS"
+                              id="arrow_up_K-12 Mortgage Leads "
                               className="st0"
                               d="M4.4 18.6c.7.7 1.6.3 2.1-.2l5.5-5.5 5.5 5.5c.5.5 1.4.9 2.1.2.7-.7.3-1.6-.2-2.1L12 9.1l-7.4 7.4c-.5.5-.9 1.3-.2 2.1z"
                             ></path>
@@ -471,23 +467,23 @@ function Navbar() {
                         </div>
                       </div>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/k12/search/best-schools/s/massachusetts/">
-                          School Search
+                        <a href="https://www.niche.com/k12/search/best-Mortgage Leads /s/massachusetts/">
+                          Mortgage Leads Search
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/k12/search/best-school-districts/s/massachusetts/">
+                        <a href="https://www.niche.com/k12/search/best-Mortgage Leads-districts/s/massachusetts/">
                           District Search
                         </a>
                       </li>
                       <li className="mega-menu__item">
                         <a href="https://www.niche.com/k12/rankings/">
-                          School Rankings
+                          Mortgage Leads Rankings
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/k12/schools-near-you/">
-                          Schools Near You
+                        <a href="https://www.niche.com/k12/Mortgage Leads -near-you/">
+                          Mortgage Leads  Near You
                         </a>
                       </li>
                       <li className="mega-menu__item">
@@ -497,12 +493,12 @@ function Navbar() {
                       </li>
                       <li className="mega-menu__item">
                         <a href="https://www.niche.com/k12/compare/">
-                          Compare Schools
+                          Compare Mortgage Leads 
                         </a>
                       </li>
                       <li className="mega-menu__item">
                         <a href="https://www.niche.com/k12/survey/">
-                          Review Your School
+                          Review Your Mortgage Leads
                         </a>
                       </li>
                       <li className="mega-menu__item">
@@ -518,7 +514,7 @@ function Navbar() {
                           href="https://www.niche.com/colleges/search/best-colleges/s/massachusetts/"
                           aria-label="Colleges Group - Click to collapse"
                         >
-                          COLLEGES
+                          home loan
                         </a>
                         <div className="mega-menu__category-label__arrow">
                           <svg
@@ -540,37 +536,28 @@ function Navbar() {
                       </div>
                       <li className="mega-menu__item">
                         <a href="https://www.niche.com/colleges/search/best-colleges/s/massachusetts/">
-                          College Search
+                        home loan Search
                         </a>
                       </li>
                       <li className="mega-menu__item">
                         <a href="https://www.niche.com/colleges/search/best-online-colleges/">
-                          Online College Search
+                          Online home loan Search
                         </a>
                       </li>
                       <li className="mega-menu__item">
                         <a href="https://www.niche.com/colleges/rankings/">
-                          College Rankings
+                        home loan Rankings
                         </a>
                       </li>
                       <li className="mega-menu__item">
                         <a href="https://www.niche.com/colleges/college-quiz/">
-                          College Quiz
+                        home loan Quiz
                         </a>
                       </li>
+
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/colleges/scholarships/">
-                          Scholarships
-                        </a>
-                      </li>
-                      <li className="mega-menu__item">
-                        <a href="https://www.niche.com/colleges/scholarships/no-essay-scholarship/">
-                          $2,000 No Essay Scholarship
-                        </a>
-                      </li>
-                      <li className="mega-menu__item">
-                        <a href="https://www.niche.com/about/find-private-student-loans/">
-                          Student Loans
+                        <a href="https://www.niche.com/about/find-private-Home Buyer Leads -loans/">
+                          Home Buyer Leads  Loans
                         </a>
                       </li>
                       <li className="mega-menu__item">
@@ -580,17 +567,17 @@ function Navbar() {
                       </li>
                       <li className="mega-menu__item">
                         <a href="https://www.niche.com/colleges/compare/">
-                          Compare Colleges
+                          Compare home loan
                         </a>
                       </li>
                       <li className="mega-menu__item">
                         <a href="https://www.niche.com/colleges/survey/">
-                          Review Your College
+                          Review Your home loan
                         </a>
                       </li>
                       <li className="mega-menu__item">
                         <a href="https://www.niche.com/blog/topics/college-guidance/?ref=megamenu">
-                          College Guidance
+                        home loan Guidance
                         </a>
                       </li>
                     </ul>
@@ -598,10 +585,10 @@ function Navbar() {
                       <div className="mega-menu__category-label">
                         <a
                           className="mega-menu-category-label__link"
-                          href="https://www.niche.com/graduate-schools/search/best-graduate-schools/s/massachusetts/"
-                          aria-label="Graduate Schools Group - Click to collapse"
+                          href="https://www.niche.com/-Mortgage Leads /search/best--Mortgage Leads /s/massachusetts/"
+                          aria-label=" Mortgage Leads  Group - Click to collapse"
                         >
-                          GRADUATE SCHOOLS
+                           Mortgage Leads 
                         </a>
                         <div className="mega-menu__category-label__arrow">
                           <svg
@@ -614,7 +601,7 @@ function Navbar() {
                           >
                             <path
                               xmlns="http://www.w3.org/2000/svg"
-                              id="arrow_up_GRADUATE SCHOOLS"
+                              id="arrow_up_ Mortgage Leads "
                               className="st0"
                               d="M4.4 18.6c.7.7 1.6.3 2.1-.2l5.5-5.5 5.5 5.5c.5.5 1.4.9 2.1.2.7-.7.3-1.6-.2-2.1L12 9.1l-7.4 7.4c-.5.5-.9 1.3-.2 2.1z"
                             ></path>
@@ -622,23 +609,23 @@ function Navbar() {
                         </div>
                       </div>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/graduate-schools/search/best-graduate-schools/s/massachusetts/">
-                          Grad School Search
+                        <a href="https://www.niche.com/-Mortgage Leads /search/best--Mortgage Leads /s/massachusetts/">
+                           Mortgage Leads Search
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/graduate-schools/programs/">
-                          Graduate Programs
+                        <a href="https://www.niche.com/-Mortgage Leads /programs/">
+                           Programs
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/graduate-schools/graduate-school-survey-scholarship/">
-                          $1,000 Graduate Survey Scholarship
+                        <a href="https://www.niche.com/-Mortgage Leads /-Mortgage Leads-survey-scholarship/">
+                          $1,000  Survey Scholarship
                         </a>
                       </li>
                       <li className="mega-menu__item">
-                        <a href="https://www.niche.com/graduate-schools/survey/">
-                          Review Your Grad School
+                        <a href="https://www.niche.com/-Mortgage Leads /survey/">
+                          Review Your  Mortgage Leads
                         </a>
                       </li>
                     </ul>
@@ -718,8 +705,8 @@ function Navbar() {
                         </a>
                       </li>
                       <li className="mega-menu__niche-link">
-                        <a href="https://www.niche.com/claim-your-school/">
-                          Claim Your School
+                        <a href="https://www.niche.com/claim-your-Mortgage Leads/">
+                          Claim Your Mortgage Leads
                         </a>
                       </li>
                       <li className="mega-menu__niche-link">
@@ -849,7 +836,7 @@ function Navbar() {
                             className="visually-hidden"
                             id="global-nav-entity-sherlock-label"
                           >
-                            Find a college or university ...
+                            Find a home loan or mortgage ...
                           </span>
                         </div>
                         <div className="sherlock__container--global-nav sherlock__container--location-input">

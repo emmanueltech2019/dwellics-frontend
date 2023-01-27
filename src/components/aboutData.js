@@ -88,7 +88,7 @@ function aboutData() {
               </div>
 
               <div className="about-text about-text--30-35 about-text--pad-b-1">
-                Dwellics has the most comprehensive data on houses, mortgate and climate.
+              Dwellics has the most comprehensive data on places to live, mortgage leads, and market insights.
               </div>
 
               <div className="about-text about-text--18 about-text--leading-150">
@@ -245,7 +245,7 @@ function aboutData() {
 
               <div className="about-data-sources-wrap about-data-sources--less-margin">
                 <div className="about-text about-text--18 about-text--pad-b-2 about-text--600">
-                  K-12 Schools and Districts
+                  Mortgage loan
                 </div>
 
                 <ul className="about-data-sources">

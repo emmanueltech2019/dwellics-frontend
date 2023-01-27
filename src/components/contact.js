@@ -67,7 +67,7 @@ function contact() {
                               className="button button--bare picker-list-item__button"
                               aria-label="School Representative"
                             >
-                              School Representative
+                               Mortgage / Real Estate Agent
                             </button>
                           </li>
                           <li className="picker-list-item" id="businessPartner">
@@ -253,6 +253,7 @@ function contact() {
                   className="button button--large button--wide button--mobile-full-width form__submit__btn form__submit__btn--contact"
                   tabindex="0"
                   type="submit"
+                  style={{backgroundColor:"#D37453"}}
                 >
                   Submit
                 </button>

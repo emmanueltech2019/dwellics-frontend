@@ -11,12 +11,13 @@ function footer() {
 
             <ul className="footer-static-list" aria-label="about Niche">
 
-              <li className="footer-static-list__item">
+              <li className="footer-static-list__item" style={{color:"#000"}}>
                 <a
                   className="footer-static-list__link"
                   href="#"
                   rel="noopener"
                   target="_self"
+                  style={{color:"#000"}}
                 >
                   About Us
                 </a>
@@ -27,6 +28,7 @@ function footer() {
                   href="#"
                   rel="noopener"
                   target="_self"
+                  style={{color:"#000"}}
                 >
                   Data Sources
                 </a>
@@ -37,6 +39,7 @@ function footer() {
                   href="#"
                   rel="noopener"
                   target="_self"
+                  style={{color:"#000"}}
                 >
                   Blog
                 </a>
@@ -48,6 +51,7 @@ function footer() {
                   href="#"
                   rel="noopener"
                   target="_self"
+                  style={{color:"#000"}}
                 >
                   Contact Us
                 </a>
@@ -58,6 +62,7 @@ function footer() {
                   href="#"
                   rel="noopener"
                   target="_self"
+                  style={{color:"#000"}}
                 >
                   FAQ
                 </a>
@@ -68,6 +73,7 @@ function footer() {
                   href="#"
                   rel="noopener"
                   target="_self"
+                  style={{color:"#000"}}
                 >
                   Personalized Ranks
                 </a>
@@ -78,6 +84,7 @@ function footer() {
                   href="#"
                   rel="noopener"
                   target="_self"
+                  style={{color:"#000"}}
                 >
                   Compare Cities
                 </a>
@@ -88,6 +95,7 @@ function footer() {
                   href="#"
                   rel="noopener"
                   target="_self"
+                  style={{color:"#000"}}
                 >
                   Compare Climate
                 </a>
@@ -98,6 +106,7 @@ function footer() {
                   href="#"
                   rel="noopener"
                   target="_self"
+                  style={{color:"#000"}}
                 >
                   Cost of Living Calculator
                 </a>
@@ -198,7 +207,8 @@ function footer() {
                 Are you looking for a house or loan?
                 <a
                   className="claim-your-school-cta__link"
-                  href="/cleam"
+                  href="#"
+                  style={{color:"#115946"}}
                   target="_self"
                 >
                   Check Here

@@ -61,7 +61,7 @@ function Home() {
             <div className="home-hero__content-container">
               <h1 className="home-hero__header">
                 <div className="type--weight-600 home-hero__header__kicker">
-                  Find the Best
+                Discover the Best
                 </div>
                 <div className="type--weight-700 home-hero__header__title" style={{color:"#D37453"}}>
                 home for you
@@ -77,9 +77,7 @@ function Home() {
                 </svg>
               </div>
               <div className="type--weight-400 home-body home-body--hero">
-                Finding the right HOME shouldn&apos;t be hard. From K‑12 to
-                college to grad HOME, we make it easy to discover and connect
-                with the best ones for you.
+              Find the Best home for you
               </div>
               <div className="home-hero__cta-wrap">
                 <div className="type--weight-600 home-hero__cta-title">
@@ -101,7 +99,7 @@ function Home() {
                       className="button home-button--green home-hero__cta-link"
                       tabindex="0"
                     >
-                      Cheap Homes
+                      mortgage loans
                     </a>
                   </li>
                   <li className="home-hero__cta">
@@ -138,9 +136,7 @@ function Home() {
               <div className="type--weight-600 home-header__kicker">Why Dwellics?</div>
             </h2>
             <p className="type--weight-700 home-header home-header--why home-header__title">
-              Your search is unique.
-              <br />
-              Just&nbsp;like&nbsp;you.
+            Make your search effortless
             </p>
             <div className="home-squiggle">
               <svg
@@ -152,8 +148,7 @@ function Home() {
               </svg>
             </div>
             <div className="type--weight-400 home-body home-body--why">
-              We give you all of the data, reviews, and insights in one place to
-              make your search as easy as possible.
+            Our data, reviews, and insights are up to date and available to make your search effortless
             </div>
             <ul className="home-why-reasons">
               <li className="home-why-reason">
@@ -165,10 +160,10 @@ function Home() {
                   />
                 </figure>
                 <h3 className="type--weight-800 home-why-reason__title">
-                  No Heavy Lifting
+                Easy-Peasy
                 </h3>
                 <div className="type--weight-400 home-body home-why-reason__body">
-                  We analyze the data so you don&apos;t have to.
+                We provide indepth data analysis to suit your search needs, saving you the stress
                 </div>
               </li>
               <li className="home-why-reason">
@@ -180,11 +175,10 @@ function Home() {
                   />
                 </figure>
                 <h3 className="type--weight-800 home-why-reason__title">
-                  The Good, The Bad, &amp;&nbsp;The&nbsp;Honest
+                From the horse's mouth
                 </h3>
                 <div className="type--weight-400 home-body home-why-reason__body">
-                  Our user reviews let you hear directly from families and
-                  individuals to give you an honest and holistic view.
+                Our reviews are from our trusted homebuyers and mortgage buyers
                 </div>
               </li>
               <li className="home-why-reason">
@@ -196,11 +190,10 @@ function Home() {
                   />
                 </figure>
                 <h3 className="type--weight-800 home-why-reason__title">
-                  Like A Glove
+                Your search is unique to you
                 </h3>
                 <div className="type--weight-400 home-body home-why-reason__body">
-                  We personalize your search based on what&apos;s most important
-                  to you.
+                We provide search results that are tailor made for you
                 </div>
               </li>
             </ul>
@@ -465,11 +458,11 @@ function Home() {
             <div className="home-features__copy-container">
               <h2 className="home-header home-header--features">
                 <div className="type--weight-600 home-header__kicker">
-                  Stay On Track
+                Stay focused on your search
                 </div>
               </h2>
               <p className="type--weight-700 home-header home-header--features home-header__title">
-                Tools to organize&nbsp;your HOME&nbsp;search.
+              Tracking Tools for you
               </p>
               <div className="home-squiggle home-squiggle--features">
                 <svg
@@ -481,8 +474,7 @@ function Home() {
                 </svg>
               </div>
               <div className="type--weight-400 home-body home-body--features">
-                We&apos;ll help you build your list, track your progress and get
-                new recommendations as your search narrows.
+              As you delve deeper into your search, we'll assist you with a comprehensive list, provide tracking tools and offer recommendations.
               </div>
               <div className="home-features__cta-wrap">
                 <a

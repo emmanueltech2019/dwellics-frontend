@@ -18,8 +18,8 @@ function claim() {
         <main className="claim-school">
           <section className="claim-school-intro">
             <div className="claim-school-intro__content">
-              <h1 className="claim-school-intro-header">Claim Your Data</h1>
-              <div className="claim-school-intro-subheader">
+              <h1 className="claim-school-intro-header" style={{color:"#FAF3F0"}}>Claim Your Data</h1>
+              <div className="claim-school-intro-subheader" style={{color:"#FAF3F0"}}>
               Access your business profile on Dwellics
               </div>
               <section className="claim-school-form">
@@ -27,6 +27,7 @@ function claim() {
                   className="button button--compact claim-school-form__start-button"
                   tabindex="2"
                   aria-expanded="false"
+                  style={{backgroundColor:"#D37453"}}
                 >
                   Start
                 </button>
@@ -336,23 +337,23 @@ function claim() {
                   </form>
                 </div>
               </section>
-              <ul className="claim-school-reasons">
+              <ul className="claim-school-reasons" style={{color:"#FAF3F0"}}>
                 <li className="claim-school-reasons__list-item">
-                  <h2 className="claim-school-reasons-header">Monitor user engagement</h2>
+                  <h2 className="claim-school-reasons-header text-4xl font-bold pb-5" style={{color:"#FAF3F0"}}>Monitor user engagement</h2>
                   <p className="claim-school-reasons-paragraph">
                   Keep an eye on user activities on your Dwellics profile, and on Competitor profiles
 
                   </p>
                 </li>
                 <li className="claim-school-reasons__list-item">
-                  <h2 className="claim-school-reasons-header">Keep your profile fresh</h2>
+                  <h2 className="claim-school-reasons-header text-4xl font-bold pb-5" style={{color:"#FAF3F0"}}>Keep your profile fresh</h2>
                   <p className="claim-school-reasons-paragraph">
                   Update your Dwellics profile consistently for fresh data
 
                   </p>
                 </li>
                 <li className="claim-school-reasons__list-item">
-                  <h2 className="claim-school-reasons-header">
+                  <h2 className="claim-school-reasons-header text-4xl font-bold pb-5" style={{color:"#FAF3F0"}}>
                   Go Premium
 
                   </h2>
@@ -370,7 +371,7 @@ function claim() {
             <ul className="claim-school-footer-facts">
               <li className="claim-school-footer-facts__item">
                 <p className="claim-school-footer-fact">
-                  <em className="claim-school-footer-fact__emphasis">1 in 3</em>
+                  <em className="claim-school-footer-fact__emphasis" style={{color:"#D37453"}}>1 in 3</em>
                   <span>
                   home buyers successfully use Dwellics to purchase homes and discover home finance 
                   </span>
@@ -378,7 +379,7 @@ function claim() {
               </li>
               <li className="claim-school-footer-facts__item">
                 <p className="claim-school-footer-fact">
-                  <em className="claim-school-footer-fact__emphasis">1,000,000+</em>
+                  <em className="claim-school-footer-fact__emphasis" style={{color:"#D37453"}}>1,000,000+</em>
                   <span>
                   visits from home buyers and residents 
                   </span>
@@ -386,14 +387,14 @@ function claim() {
               </li>
               <li className="claim-school-footer-facts__item">
                 <p className="claim-school-footer-fact">
-                  <em className="claim-school-footer-fact__emphasis">2-3x</em>
+                  <em className="claim-school-footer-fact__emphasis" style={{color:"#D37453"}}>2-3x</em>
                   <span>
                   engagement boost following premium upgrade
                   </span>
                 </p>
               </li>
             </ul>
-            <button className="button button--large">Get Started</button>
+            <button className="button button--large" style={{backgroundColor:"#D37453"}}>Get Started</button>
           </section>
         </main>
       </div>

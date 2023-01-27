@@ -4491,7 +4491,7 @@ button.global-nav__account-signup:hover {
   }
 }
 .footer-vertical-links a {
-  color: #298541;
+  color: #115946;
 }
 
 
@@ -4521,7 +4521,7 @@ button.global-nav__account-signup:hover {
 .global-route-link:focus,
 .global-route-link:hover,
 .global-route-link[aria-current="page"] {
-  color: #298541;
+  color: #115946;
   text-decoration: none;
 }
 .account-flyout__nav {
@@ -4686,17 +4686,17 @@ button.global-nav__account-signup:hover {
   color: rgba(0, 0, 0, 0.5);
 }
 .global-nav--grad .global-nav__logo .niche-logo-horizontal path {
-  fill: #298541;
-  stroke: #298541;
+  fill: #115946;
+  stroke: #115946;
 }
 .global-nav--grad .global-nav__logo .niche-logo-horizontal circle {
-  stroke: #298541;
+  stroke: #115946;
 }
 .global-nav__minimal-inner.global-nav--grad .global-nav__account-icon {
-  color: #298541;
+  color: #115946;
 }
 .global-nav__minimal-inner.global-nav--grad .global-nav__account-icon path {
-  fill: #298541;
+  fill: #115946;
 }
 .global-nav__minimal-inner.global-nav--grad .global-nav__account-login,
 .global-nav__minimal-inner.global-nav--grad .global-nav__account__logged-in,
@@ -4708,10 +4708,10 @@ button.global-nav__account-signup:hover {
   .global-nav__account-username:hover,
 .global-nav__minimal-inner.global-nav--grad
   .global-nav__account__logged-in:hover {
-  color: #298541;
+  color: #115946;
 }
 .global-nav__minimal-inner.global-nav--grad .global-nav__account-login:hover {
-  background-color: #298541;
+  background-color: #115946;
   color: #fff;
 }
 .gravatar-icon {
@@ -4814,7 +4814,7 @@ button.global-nav__account-signup:hover {
 }
 @media only screen and (min-width: 768px) {
   .button.button--bare.global-nav__close-search-icon {
-    color: #298541;
+    color: #115946;
     cursor: pointer;
     display: block;
     font-size: 24px;
@@ -4836,7 +4836,7 @@ button.global-nav__account-signup:hover {
 }
 @media only screen and (min-width: 768px) {
   .button.button--bare.global-nav__search-icon {
-    color: #298541;
+    color: #115946;
     cursor: pointer;
     display: block;
     font-size: 24px;
@@ -4872,8 +4872,8 @@ button.global-nav__account-signup:hover {
 @media only screen and (min-width: 900px) {
   .global-nav__account-login {
     background: transparent;
-    box-shadow: inset 0 0 0 2px #298541;
-    color: #298541;
+    box-shadow: inset 0 0 0 2px #115946;
+    color: #115946;
     display: block;
     font-size: 14px;
     font-weight: 600;
@@ -4900,14 +4900,14 @@ button.global-nav__account-signup:hover {
     outline-color: #fff;
   }
   .platform .global-nav__account-login:active {
-    background: #298541;
+    background: #115946;
     color: #fff;
     text-decoration: none;
   }
 }
 @media only screen and (min-width: 900px) and (hover: hover) {
   .platform .global-nav__account-login:hover {
-    background: #298541;
+    background: #115946;
     color: #fff;
     text-decoration: none;
   }
@@ -4920,8 +4920,8 @@ button.global-nav__account-signup:hover {
 }
 button.global-nav__account-signup {
   background: transparent;
-  box-shadow: inset 0 0 0 2px #298541;
-  color: #298541;
+  box-shadow: inset 0 0 0 2px #115946;
+  color: #115946;
   display: block;
   font-size: 14px;
   font-weight: 600;
@@ -4930,19 +4930,19 @@ button.global-nav__account-signup {
 }
 @media (hover: hover) {
   .platform button.global-nav__account-signup:hover {
-    background: #298541;
+    background: #115946;
     color: #fff;
     text-decoration: none;
   }
 }
 .platform button.global-nav__account-signup:active {
-  background: #298541;
+  background: #115946;
   color: #fff;
   text-decoration: none;
 }
 @media only screen and (min-width: 900px) {
   button.global-nav__account-signup {
-    background: #298541;
+    background: #115946;
     box-shadow: none;
     color: #fff;
     padding: 0.625em 0.75em 0.6em;
@@ -5005,7 +5005,7 @@ button.global-nav__account-signup {
   }
 }
 .global-nav__account-icon {
-  color: #298541;
+  color: #115946;
   cursor: pointer;
   font-size: 26px;
   line-height: 1;
@@ -5094,7 +5094,7 @@ button.global-nav__account-signup {
   }
 }
 .global-account-panel .account-nav-content__header {
-  background-color: #298541;
+  background-color: #115946;
   color: #fff;
 }
 .global-account-panel .account-nav-content__header,
@@ -5137,7 +5137,7 @@ button.global-nav__account-signup {
   }
 }
 .global-nav__account-username {
-  color: #298541;
+  color: #115946;
   display: none;
   font-size: 15px;
   font-weight: 600;
@@ -5212,7 +5212,7 @@ button.global-nav__account-signup {
 }
 .button.button--bare.global-links__meatball-icon {
   background-color: #fff;
-  color: #298541;
+  color: #115946;
   cursor: pointer;
   font-size: 1.2em;
   line-height: 1;
@@ -5785,7 +5785,7 @@ button.global-nav__account-signup {
 }
 .global-nav__input-wrap__icon {
   background: linear-gradient(270deg, #fff 75%, hsla(0, 0%, 100%, 0));
-  color: #298541;
+  color: #115946;
   cursor: pointer;
   font-size: 16px;
   padding: 8px 16px;
@@ -5808,7 +5808,7 @@ button.global-nav__account-signup {
 @media only screen and (min-width: 768px) {
   .global-nav__input-wrap__icon {
     background: linear-gradient(270deg, #fff 70%, hsla(0, 0%, 100%, 0));
-    color: #298541;
+    color: #115946;
     font-size: 16px;
     padding: 9px 0;
     right: 0;
@@ -5915,7 +5915,7 @@ button.global-nav__account-signup {
 }
 .global-nav__input-suggestion.global-nav__input-suggestion-recent:before {
   -webkit-font-smoothing: antialiased;
-  color: #298541;
+  color: #115946;
   content: "Recent";
   font: 900 9px/1 Niche;
   position: absolute;
@@ -6137,8 +6137,8 @@ button.global-nav__account-signup {
   min-width: 155px;
 }
 .global-nav__logo .niche-logo-horizontal path {
-  fill: #298541;
-  stroke: #298541;
+  fill: #115946;
+  stroke: #115946;
 }
 .global-nav__logo a {
   display: block;
@@ -6218,7 +6218,7 @@ button.global-nav__account-signup {
 }
 .global-nav__hamburger:after,
 .global-nav__hamburger:before {
-  background-color: #298541;
+  background-color: #115946;
   border-radius: 2px;
   content: "";
   height: 2px;
@@ -6233,7 +6233,7 @@ button.global-nav__account-signup {
   transform: translateY(15px);
 }
 .global-nav__hamburger-line {
-  background-color: #298541;
+  background-color: #115946;
   border-radius: 2px;
   height: 2px;
   left: 14px;
@@ -6402,7 +6402,7 @@ button.global-nav__account-signup {
   }
 }
 .mega-menu__category-label .mega-menu-category-label__link {
-  color: #298541;
+  color: #115946;
   display: inline-block;
   padding-bottom: 15px;
   padding-top: 10px;
@@ -6410,10 +6410,10 @@ button.global-nav__account-signup {
 }
 @media only screen and (min-width: 768px) {
   .mega-menu__category-label:hover {
-    border-bottom: 1px solid #298541;
+    border-bottom: 1px solid #115946;
   }
   .mega-menu__category-label:hover a {
-    color: #298541;
+    color: #115946;
   }
 }
 .mega-menu__category-label:hover a {
@@ -6457,7 +6457,7 @@ button.global-nav__account-signup {
     padding-bottom: 15px;
   }
   .mega-menu__list--expanded .mega-menu__category-label:hover {
-    border-bottom: 1px solid #298541;
+    border-bottom: 1px solid #115946;
     padding-bottom: 15px;
   }
 }
@@ -6493,7 +6493,7 @@ button.global-nav__account-signup {
   color: #464646;
 }
 .mega-menu__item a:hover {
-  color: #298541;
+  color: #115946;
   text-decoration: none;
 }
 .mega-menu__niche-link {
@@ -7698,7 +7698,7 @@ ul li {
 }
 .button.button--inverted.button--green {
   background: #fafafa;
-  color: #298541;
+  color: #115946;
 }
 @media (hover: hover) {
   .platform .button.button--inverted.button--green:hover {
@@ -7706,18 +7706,18 @@ ul li {
     color: #48937E;
   }
   .platform--touch .button.button--inverted.button--green:hover {
-    color: #298541;
+    color: #115946;
   }
 }
 .button--atl-added.button.button--inverted.button--green {
-  background: #298541;
-  border-left: 1px solid #298541;
+  background: #115946;
+  border-left: 1px solid #115946;
   color: #fff;
   cursor: pointer;
 }
 @media (hover: hover) {
   .platform .button--atl-added.button.button--inverted.button--green:hover {
-    background: #298541;
+    background: #115946;
     color: #fff;
   }
   .platform--touch
@@ -7766,22 +7766,22 @@ ul li {
 }
 .button.button--scatterplot {
   background: #fff;
-  color: #298541;
+  color: #115946;
   position: inherit;
 }
 @media (hover: hover) {
   .button.button--scatterplot:hover {
-    background: #298541;
+    background: #115946;
     box-shadow: 0 0 0 1pt #fff;
     color: #fff;
   }
   .platform .button.button--postcard-atl:hover {
-    background-color: #298541;
+    background-color: #115946;
     color: #fff;
   }
 }
 .button.button--green {
-  background: #298541;
+  background: #115946;
 }
 @media (hover: hover) {
   .platform .button.button--green:hover {
@@ -7823,31 +7823,31 @@ ul li {
   box-shadow: inset 0 0 0 1px #007ac8;
 }
 .button.button--outline.button--green {
-  box-shadow: inset 0 0 0 2px #298541;
-  color: #298541;
+  box-shadow: inset 0 0 0 2px #115946;
+  color: #115946;
 }
 @media (hover: hover) {
   .platform .button.button--outline.button--green:hover {
-    background: #298541;
+    background: #115946;
     color: #fff;
   }
   .platform--touch .button.button--outline.button--green:hover {
-    color: #298541;
+    color: #115946;
   }
 }
 .button.button--outline.button--green.button--small,
 .button.button--outline.button--green.button--xsmall {
-  box-shadow: inset 0 0 0 1px #298541;
+  box-shadow: inset 0 0 0 1px #115946;
 }
 .button.button--outline.button--green.button--atl-added {
-  background: #298541;
-  border-left: 1px solid #298541;
+  background: #115946;
+  border-left: 1px solid #115946;
   color: #fff;
   cursor: pointer;
 }
 @media (hover: hover) {
   .platform .button.button--outline.button--green.button--atl-added:hover {
-    background: #298541;
+    background: #115946;
     color: #fff;
   }
   .platform--touch
@@ -8138,12 +8138,12 @@ ul li {
   padding-right: 1em;
 }
 .button.button--atl-added {
-  background: #298541;
+  background: #115946;
   color: #fff;
 }
 @media (hover: hover) {
   .platform .button.button--atl-added:hover {
-    background: #298541;
+    background: #115946;
     color: #fff;
   }
   .platform--touch .button.button--atl-added:hover {
@@ -8173,7 +8173,7 @@ ul li {
   }
 }
 .button.button--atl-added > span {
-  color: #298541;
+  color: #115946;
   position: relative;
 }
 .button.button--atl-added > span:before {
@@ -8810,7 +8810,7 @@ select::-ms-expand {
 .callout__link,
 .callout__link:hover,
 .callout__text {
-  color: #298541;
+  color: #115946;
   margin: 0;
 }
 .chip {
@@ -8966,7 +8966,7 @@ select::-ms-expand {
   padding: 5px;
 }
 .list__sort__item:hover {
-  color: #298541;
+  color: #115946;
 }
 .js-focus-visible
   .list__sort__item:focus:not(.focus-visible):not(.Mui-focusVisible) {
@@ -8978,8 +8978,8 @@ select::-ms-expand {
   z-index: 1000;
 }
 .list__sort__item--active {
-  border-bottom: 4px solid #298541;
-  color: #298541;
+  border-bottom: 4px solid #115946;
+  color: #115946;
   cursor: pointer;
   display: inline-block;
   font-size: 15px;
@@ -8987,7 +8987,7 @@ select::-ms-expand {
   padding: 5px;
 }
 .list__sort__item--active:hover {
-  color: #298541;
+  color: #115946;
 }
 .js-focus-visible .list__sort__item--active.focus-visible {
   outline: 3px solid #222;
@@ -9017,7 +9017,7 @@ select::-ms-expand {
 }
 .list__sort__item--active--disabled:hover,
 .list__sort__item--disabled:hover {
-  color: #298541;
+  color: #115946;
 }
 .js-focus-visible
   .list__sort__item--active--disabled:focus:not(.focus-visible):not(
@@ -10304,14 +10304,14 @@ select::-ms-expand {
 }
 .review__stars,
 .review__stars--gray {
-  color: #298541;
+  color: #115946;
   font-size: 14px;
 }
 .review__stars--gray {
   color: #5f5f5f;
 }
 .review__stars--white {
-  color: #298541;
+  color: #115946;
   color: #fff;
   font-size: 14px;
 }
@@ -10635,14 +10635,14 @@ select::-ms-expand {
   padding: 5px;
 }
 .tabbed-content__tabs--bar .tabbed-content-tab:hover {
-  color: #298541;
+  color: #115946;
 }
 .tabbed-content__tabs--bar .tabbed-content-tab:last-of-type {
   margin: 0;
 }
 .tabbed-content__tabs--bar .tabbed-content-tab.tabbed-content-tab--active {
-  border-bottom: 4px solid #298541;
-  color: #298541;
+  border-bottom: 4px solid #115946;
+  color: #115946;
 }
 .tabbed-content__tabs--button .tabbed-content-tab {
   background-color: #f6f6f6;
@@ -12166,7 +12166,7 @@ select::-ms-expand {
 }
 .category-explorer__ranking {
   align-items: center;
-  color: #298541;
+  color: #115946;
   display: flex;
   flex: 1 0 45%;
   max-width: 45%;
@@ -13083,7 +13083,7 @@ select::-ms-expand {
 }
 .sherlock--success {
   background-color: #FAF3F0;
-  color: #298541;
+  color: #115946;
 }
 .sherlock--error {
   background-color: #ffe4e1;
@@ -13276,11 +13276,11 @@ select::-ms-expand {
   color: #787878;
 }
 .sherlock--panel:focus {
-  border: 1px solid #298541;
+  border: 1px solid #115946;
   outline: none;
 }
 .icon-search-thin--sherlock--panel {
-  color: #298541;
+  color: #115946;
   cursor: pointer;
   font-size: 28px;
   line-height: 46px;
@@ -13308,7 +13308,7 @@ select::-ms-expand {
   color: #007ac8;
 }
 .icon-search-thin--sherlock--search-filter {
-  color: #298541;
+  color: #115946;
   font-size: 26px;
   right: 5px;
   top: -1px;
@@ -13333,7 +13333,7 @@ select::-ms-expand {
   }
   .icon-search-thin--sherlock,
   .icon-search-thin--sherlock--search-filter {
-    color: #298541;
+    color: #115946;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 1200px) {
@@ -13370,7 +13370,7 @@ select::-ms-expand {
   position: relative;
 }
 .sherlock__input-wrap .niche-icon-wrap {
-  color: #298541;
+  color: #115946;
   cursor: pointer;
   pointer-events: none;
   position: absolute;
@@ -13588,7 +13588,7 @@ select::-ms-expand {
   .sherlock-option--recent-profile-suggestion:first-of-type
   .sherlock-option__label:before {
   -webkit-font-smoothing: antialiased;
-  color: #298541;
+  color: #115946;
   content: "Recent";
   font: 900 9px/1 Niche;
   position: absolute;
@@ -13902,7 +13902,7 @@ select::-ms-expand {
   width: 3.5rem;
 }
 .sherlock__container--global-nav .niche-icon-wrap {
-  color: #298541;
+  color: #115946;
   cursor: pointer;
   font-size: 16px;
   position: absolute;
@@ -13918,7 +13918,7 @@ select::-ms-expand {
 }
 @media only screen and (min-width: 768px) {
   .sherlock__container--global-nav .niche-icon-wrap {
-    color: #298541;
+    color: #115946;
     font-size: 16px;
     right: 8px;
     top: 20px;
@@ -14611,7 +14611,7 @@ select::-ms-expand {
 .sherlock__container--userprofileeducation-highSchool.sherlock__container--success
   .sherlock__input {
   background-color: #FAF3F0;
-  color: #298541;
+  color: #115946;
 }
 .sherlock__container--askMeAnything-college.sherlock__container--success
   .sherlock--state-filter
@@ -14992,7 +14992,7 @@ select::-ms-expand {
 .sherlock__container--upgradeCollegeLeadPage3-interestedMajors.sherlock__container--success
   .sherlock__input {
   background-color: #FAF3F0;
-  color: #298541;
+  color: #115946;
 }
 .sherlock__container--payitforward-college.sherlock__container--success
   .sherlock__input::placeholder,
@@ -15004,7 +15004,7 @@ select::-ms-expand {
   .sherlock__input::placeholder,
 .sherlock__container--upgradeCollegeLeadPage3-interestedMajors.sherlock__container--success
   .sherlock__input::placeholder {
-  color: #298541;
+  color: #115946;
 }
 .sherlock__container--payitforward-college.sherlock__container--success
   .sherlock__input
@@ -17458,7 +17458,7 @@ button.repeater-row__trigger:hover {
   color: #b20a00;
 }
 .textbox--conjoined--inner--success + .conjoined-inner__label {
-  color: #298541;
+  color: #115946;
 }
 .textbox--conjoined,
 .textbox--conjoined--inner {
@@ -17554,7 +17554,7 @@ button.repeater-row__trigger:hover {
   box-shadow: none;
   color: #409126;
   color: #464646;
-  color: #298541;
+  color: #115946;
   display: block;
   font-family: Source Sans Pro, sans-serif;
   font-size: 18px;
@@ -17573,7 +17573,7 @@ button.repeater-row__trigger:hover {
   box-shadow: none;
   color: #409126;
   color: #464646;
-  color: #298541;
+  color: #115946;
   display: block;
   font-family: Source Sans Pro, sans-serif;
   font-size: 18px;
@@ -18617,14 +18617,14 @@ button.repeater-row__trigger:hover {
   .checkbox-control
   .checkbox-control__input:checked
   + .checkbox-control__label {
-  color: #298541;
+  color: #115946;
 }
 .field--green
   .checkbox-control
   .checkbox-control__input:checked
   + .checkbox-control__label:before {
-  background: #298541;
-  border-color: #298541;
+  background: #115946;
+  border-color: #115946;
 }
 .field--green
   .checkbox-control
@@ -18835,7 +18835,7 @@ button.repeater-row__trigger:hover {
   color: #f4724a;
 }
 .field__icon.field__icon--green {
-  color: #298541;
+  color: #115946;
 }
 .field--small .field__icon {
   padding-top: 0.15em;
@@ -22513,7 +22513,7 @@ html.map-fullscreen--search .global-nav--show-mobile .global-nav__primary {
   user-select: none;
 }
 .popover__wrap ul.popover-list .popover-item:hover {
-  color: #298541;
+  color: #115946;
   text-decoration: none;
 }
 .popover__wrap ul.popover-list .popover-item.popover-item--subhead {
@@ -22584,7 +22584,7 @@ html.map-fullscreen--search .global-nav--show-mobile .global-nav__primary {
   transition: color 0.25s;
 }
 .platform .popover-list__item > a:hover {
-  color: #298541;
+  color: #115946;
   text-decoration: none;
 }
 .methodology {
@@ -24163,7 +24163,7 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
 }
 .account-nav-content__links .account-nav__button[aria-current="page"] *,
 .account-nav-content__links .account-nav__link[aria-current="page"] * {
-  border-bottom: 2px solid #298541;
+  border-bottom: 2px solid #115946;
 }
 .js-focus-visible
   .account-nav-content__links
@@ -24204,7 +24204,7 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
 .account-nav-content__links .account-nav__button:focus,
 .account-nav-content__links .account-nav__button:hover,
 .account-nav-content__links .account-nav__button[aria-current="page"] {
-  color: #298541;
+  color: #115946;
   text-decoration: none;
 }
 .account-nav-content__links--primary {
@@ -24233,7 +24233,7 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
   }
 }
 .account-sherlock .tabbed-content__body--active {
-  background: #298541;
+  background: #115946;
   border-radius: 0 0 3px 3px;
   padding: 4px;
 }
@@ -24249,7 +24249,7 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
   background-color: #FAF3F0;
   border-bottom: 0;
   border-left: 1px solid #e6e6e6;
-  color: #298541;
+  color: #115946;
   cursor: pointer;
   flex: 1 0 auto;
   font-size: 14px;
@@ -24261,11 +24261,11 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
 .account-sherlock .tabbed-content-tab--active:hover,
 .account-sherlock .tabbed-content-tab:hover {
   background-color: #fff;
-  color: #298541;
+  color: #115946;
 }
 .account-sherlock .tabbed-content-tab--active.tabbed-content-tab--active,
 .account-sherlock .tabbed-content-tab.tabbed-content-tab--active {
-  background-color: #298541;
+  background-color: #115946;
   color: #fff;
   font-weight: 400;
 }
@@ -24281,7 +24281,7 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
 }
 .account-sherlock .icon-search-thin--sherlock,
 .account-sherlock .icon-search-thin--sherlock--search-filter {
-  color: #298541;
+  color: #115946;
   font-size: 22px;
   right: 8px;
   top: -1px;
@@ -24308,8 +24308,8 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
   top: 43px;
 }
 .account-sherlock-wrap {
-  background: #298541;
-  border: 5px solid #298541;
+  background: #115946;
+  border: 5px solid #115946;
   border-radius: 4px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), 0 0 2px rgba(0, 0, 0, 0.1);
   display: block;
@@ -24998,7 +24998,7 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
   padding-bottom: 10px;
 }
 .field-group__label--your-list {
-  color: #298541;
+  color: #115946;
 }
 .field-group__label--your-list:before {
   content: "\e619";
@@ -25128,7 +25128,7 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
   }
 }
 .reg-form-header__form-bar--demographics {
-  background: #298541;
+  background: #115946;
   width: 100%;
 }
 .reg-form-header__back-link-wrapper--demographics {
@@ -25225,7 +25225,7 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
   margin-top: 0;
 }
 .edit-profile__form-wrapper .field-group__wrapper .form__heading {
-  color: #298541;
+  color: #115946;
   font: 600 18px/1.2 Source Sans Pro, sans-serif;
 }
 .edit-profile__form-wrapper .field-group__wrapper .form__heading-description {
@@ -25289,7 +25289,7 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
   padding-top: 0;
 }
 .edit-profile__category__category-header {
-  color: #298541;
+  color: #115946;
   display: none;
   font-size: 26px;
   margin: 0 auto;
@@ -25535,7 +25535,7 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
   top: 2px;
 }
 .icon-search-thin--entity-list {
-  color: #298541;
+  color: #115946;
   cursor: pointer;
   font-size: 22px;
 }
@@ -25630,7 +25630,7 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
   transition: stroke-dashoffset 0.4s;
 }
 .progress-meter-circle__track {
-  fill: #c4e7f6;
+  fill: #48937E;
 }
 .progress-meter-circle__center {
   fill: #fff;
@@ -25944,12 +25944,12 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
 .recommendations-list
   .offers-recs-list-item:nth-child(-n + 4)
   .button--atl-added {
-  background: #298541;
+  background: #115946;
 }
 .recommendations-list
   .offers-recs-list-item:nth-child(-n + 4)
   .recommendation__entity {
-  color: #298541;
+  color: #115946;
 }
 .recommendations-surplus .offers-recs-list-item {
   flex-wrap: nowrap;
@@ -26029,7 +26029,7 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
   }
 }
 .recommendation__subtitle-atl-emphasis {
-  color: #298541;
+  color: #115946;
   font-style: normal;
   font-weight: 600;
 }
@@ -26295,12 +26295,12 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
   padding-top: 20px;
 }
 .button.button--bare.edit-profile__menu__item--active {
-  color: #298541;
+  color: #115946;
   font-weight: 600;
   transition: none;
 }
 .button.button--bare.edit-profile__menu__item--active:before {
-  background: #298541;
+  background: #115946;
   border-radius: 50%;
   content: "";
   height: 9px;
@@ -26311,7 +26311,7 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
 }
 .button.button--bare.edit-profile__menu__item--active:active,
 .button.button--bare.edit-profile__menu__item--active:hover {
-  color: #298541;
+  color: #115946;
   font-weight: 600;
 }
 .edit-profile__menu__divider {
@@ -26437,7 +26437,7 @@ body[data-slide-panel="open"][data-path="/account/list/"] .status-select {
   position: relative;
 }
 .reg-form-header--simple-reg:after {
-  background: #298541;
+  background: #115946;
   bottom: 0;
   content: "";
   height: 48px;
@@ -30387,7 +30387,7 @@ body[data-path="/account/to-do/"] {
   color: #fff;
 }
 .radio-control-ui2:hover .radio-control-ui2__button {
-  background: #298541;
+  background: #115946;
   color: #fff;
 }
 @media only screen and (min-width: 768px) {
@@ -32749,7 +32749,7 @@ button.button.college-quiz-landing__cta.focus-ring-white:focus-visible {
   }
 }
 .claim-school-intro {
-  background-color: #c4e7f6;
+  background-color: #48937E;
   background-image: url(https://d33a4decm84gsn.cloudfront.net/static/claim-school/claimed-illustration-01.svg);
   background-position: bottom;
   background-repeat: no-repeat;
@@ -32762,7 +32762,7 @@ button.button.college-quiz-landing__cta.focus-ring-white:focus-visible {
   text-align: center;
 }
 .claim-school-intro-header {
-  color: #17aadd;
+  color: #FAF3F0;
   font-size: 36px;
 }
 .claim-school-intro-subheader {
@@ -33904,7 +33904,7 @@ a:focus > .event-listing__title {
   stroke-linecap: round;
   stroke-miterlimit: 10;
   stroke-width: 4;
-  stroke: #237c3a;
+  stroke: #48937E;
 }
 .home-background-squiggle {
   left: 0;
@@ -33928,10 +33928,10 @@ a:focus > .event-listing__title {
   }
 }
 .home-background-squiggle--green svg path {
-  fill: #237c3a;
+  fill: #48937E;
 }
 .button.home-button--green {
-  background: #237c3a;
+  background: #48937E;
 }
 .button.home-button--green:hover {
   background: #164234;
@@ -33984,7 +33984,7 @@ a:focus > .event-listing__title {
   }
 }
 a.button.return-home-message__button {
-  background: #237c3a;
+  background: #48937E;
   margin: 10px 0 0;
   position: relative;
   z-index: 1;
@@ -34422,7 +34422,7 @@ a.button.return-home-message__button:hover {
   max-width: 100%;
 }
 .home-why-reason__title {
-  color: #237c3a;
+  color: #48937E;
   font-family: Source Sans Pro, sans-serif;
   font-size: 1rem;
   line-height: 1.2;
@@ -34465,7 +34465,7 @@ a.button.return-home-message__button:hover {
   position: relative;
 }
 .home-header--testimonial .home-testimonial__kicker {
-  color: #237c3a;
+  color: #48937E;
 }
 @media only screen and (max-width: 767.9px) {
   .home-header--testimonial {
@@ -35384,13 +35384,13 @@ a.button.return-home-message__button:hover {
   }
 }
 .home-header--compare {
-  color: #237c3a;
+  color: #48937E;
 }
 .home-squiggle--compare {
   margin: 1rem 0;
 }
 .home-squiggle--compare svg path {
-  stroke: #237c3a;
+  stroke: #48937E;
 }
 .home-body--compare {
   color: #333;
@@ -35402,7 +35402,7 @@ a.button.return-home-message__button:hover {
   margin: 1rem 0;
 }
 .home-compare__link a {
-  color: #237c3a;
+  color: #48937E;
   font-weight: 600;
   text-decoration: underline;
 }
@@ -35680,7 +35680,7 @@ a.button.return-home-message__button:hover {
   max-width: 15rem;
 }
 .home-header--partners .home-header__kicker {
-  color: #237c3a;
+  color: #48937E;
 }
 .home-squiggle--partners {
   margin: 1rem 0;
@@ -35728,7 +35728,7 @@ a.button.return-home-message__button:hover {
   text-decoration: underline;
 }
 .home-partners__cta-claim .home-partners__cta-claim__text:hover {
-  color: #237c3a;
+  color: #48937E;
   text-decoration: underline;
 }
 .home-partners__photo-container {
@@ -35961,7 +35961,7 @@ a.button.return-home-message__button:hover {
   width: 100%;
 }
 .home-started {
-  background: #d0e0ec;
+  background: #48937E;
   padding: 3rem 0;
   position: relative;
 }
@@ -35972,7 +35972,7 @@ a.button.return-home-message__button:hover {
   }
 }
 .home-wavy-edge--start svg path {
-  fill: #d0e0ec;
+  fill: #48937E;
 }
 .home-start__illustration {
   margin: 0 auto;
@@ -36189,7 +36189,7 @@ circle {
   width: 80px;
 }
 .job-listings-header__title {
-  color: #298541;
+  color: #115946;
   font-size: 26px;
   line-height: 30px;
   margin: 5px 0 15px;
@@ -36229,7 +36229,7 @@ circle {
   }
 }
 .job-listing__title--new:after {
-  color: #298541;
+  color: #115946;
   content: "New!";
   font-size: 0.75em;
   font-weight: 600;
@@ -36604,7 +36604,7 @@ circle {
   }
 }
 .footer-vertical-links a {
-  color: #298541;
+  color: #115946;
 }
 
 /* end of footer */
@@ -36634,7 +36634,7 @@ circle {
 .global-route-link:focus,
 .global-route-link:hover,
 .global-route-link[aria-current="page"] {
-  color: #298541;
+  color: #115946;
   text-decoration: none;
 }
 .account-flyout__nav {
@@ -36799,17 +36799,17 @@ circle {
   color: rgba(0, 0, 0, 0.5);
 }
 .global-nav--grad .global-nav__logo .niche-logo-horizontal path {
-  fill: #298541;
-  stroke: #298541;
+  fill: #115946;
+  stroke: #115946;
 }
 .global-nav--grad .global-nav__logo .niche-logo-horizontal circle {
-  stroke: #298541;
+  stroke: #115946;
 }
 .global-nav__minimal-inner.global-nav--grad .global-nav__account-icon {
-  color: #298541;
+  color: #115946;
 }
 .global-nav__minimal-inner.global-nav--grad .global-nav__account-icon path {
-  fill: #298541;
+  fill: #115946;
 }
 .global-nav__minimal-inner.global-nav--grad .global-nav__account-login,
 .global-nav__minimal-inner.global-nav--grad .global-nav__account__logged-in,
@@ -36821,10 +36821,10 @@ circle {
   .global-nav__account-username:hover,
 .global-nav__minimal-inner.global-nav--grad
   .global-nav__account__logged-in:hover {
-  color: #298541;
+  color: #115946;
 }
 .global-nav__minimal-inner.global-nav--grad .global-nav__account-login:hover {
-  background-color: #298541;
+  background-color: #115946;
   color: #fff;
 }
 .gravatar-icon {
@@ -36927,7 +36927,7 @@ circle {
 }
 @media only screen and (min-width: 768px) {
   .button.button--bare.global-nav__close-search-icon {
-    color: #298541;
+    color: #115946;
     cursor: pointer;
     display: block;
     font-size: 24px;
@@ -36949,7 +36949,7 @@ circle {
 }
 @media only screen and (min-width: 768px) {
   .button.button--bare.global-nav__search-icon {
-    color: #298541;
+    color: #115946;
     cursor: pointer;
     display: block;
     font-size: 24px;
@@ -36985,8 +36985,8 @@ circle {
 @media only screen and (min-width: 900px) {
   .global-nav__account-login {
     background: transparent;
-    box-shadow: inset 0 0 0 2px #298541;
-    color: #298541;
+    box-shadow: inset 0 0 0 2px #115946;
+    color: #115946;
     display: block;
     font-size: 14px;
     font-weight: 600;
@@ -37013,14 +37013,14 @@ circle {
     outline-color: #fff;
   }
   .platform .global-nav__account-login:active {
-    background: #298541;
+    background: #115946;
     color: #fff;
     text-decoration: none;
   }
 }
 @media only screen and (min-width: 900px) and (hover: hover) {
   .platform .global-nav__account-login:hover {
-    background: #298541;
+    background: #115946;
     color: #fff;
     text-decoration: none;
   }
@@ -37033,8 +37033,8 @@ circle {
 }
 button.global-nav__account-signup {
   background: transparent;
-  box-shadow: inset 0 0 0 2px #298541;
-  color: #298541;
+  box-shadow: inset 0 0 0 2px #115946;
+  color: #115946;
   display: block;
   font-size: 14px;
   font-weight: 600;
@@ -37043,19 +37043,19 @@ button.global-nav__account-signup {
 }
 @media (hover: hover) {
   .platform button.global-nav__account-signup:hover {
-    background: #298541;
+    background: #115946;
     color: #fff;
     text-decoration: none;
   }
 }
 .platform button.global-nav__account-signup:active {
-  background: #298541;
+  background: #115946;
   color: #fff;
   text-decoration: none;
 }
 @media only screen and (min-width: 900px) {
   button.global-nav__account-signup {
-    background: #298541 !important;
+    background: #115946 !important;
     box-shadow: none;
     color: #fff;
     padding: 0.625em 0.75em 0.6em;
@@ -37118,7 +37118,7 @@ button.global-nav__account-signup {
   }
 }
 .global-nav__account-icon {
-  color: #298541;
+  color: #115946;
   cursor: pointer;
   font-size: 26px;
   line-height: 1;
@@ -37207,7 +37207,7 @@ button.global-nav__account-signup {
   }
 }
 .global-account-panel .account-nav-content__header {
-  background-color: #298541;
+  background-color: #115946;
   color: #fff;
 }
 .global-account-panel .account-nav-content__header,
@@ -37250,7 +37250,7 @@ button.global-nav__account-signup {
   }
 }
 .global-nav__account-username {
-  color: #298541;
+  color: #115946;
   display: none;
   font-size: 15px;
   font-weight: 600;
@@ -37325,7 +37325,7 @@ button.global-nav__account-signup {
 }
 .button.button--bare.global-links__meatball-icon {
   background-color: #fff;
-  color: #298541;
+  color: #115946;
   cursor: pointer;
   font-size: 1.2em;
   line-height: 1;
@@ -37898,7 +37898,7 @@ button.global-nav__account-signup {
 }
 .global-nav__input-wrap__icon {
   background: linear-gradient(270deg, #fff 75%, hsla(0, 0%, 100%, 0));
-  color: #298541;
+  color: #115946;
   cursor: pointer;
   font-size: 16px;
   padding: 8px 16px;
@@ -37921,7 +37921,7 @@ button.global-nav__account-signup {
 @media only screen and (min-width: 768px) {
   .global-nav__input-wrap__icon {
     background: linear-gradient(270deg, #fff 70%, hsla(0, 0%, 100%, 0));
-    color: #298541;
+    color: #115946;
     font-size: 16px;
     padding: 9px 0;
     right: 0;
@@ -38028,7 +38028,7 @@ button.global-nav__account-signup {
 }
 .global-nav__input-suggestion.global-nav__input-suggestion-recent:before {
   -webkit-font-smoothing: antialiased;
-  color: #298541;
+  color: #115946;
   content: "Recent";
   font: 900 9px/1 Niche;
   position: absolute;
@@ -38250,8 +38250,8 @@ button.global-nav__account-signup {
   min-width: 155px;
 }
 .global-nav__logo .niche-logo-horizontal path {
-  fill: #298541;
-  stroke: #298541;
+  fill: #115946;
+  stroke: #115946;
 }
 .global-nav__logo a {
   display: block;
@@ -38331,7 +38331,7 @@ button.global-nav__account-signup {
 }
 .global-nav__hamburger:after,
 .global-nav__hamburger:before {
-  background-color: #298541;
+  background-color: #115946;
   border-radius: 2px;
   content: "";
   height: 2px;
@@ -38346,7 +38346,7 @@ button.global-nav__account-signup {
   transform: translateY(15px);
 }
 .global-nav__hamburger-line {
-  background-color: #298541;
+  background-color: #115946;
   border-radius: 2px;
   height: 2px;
   left: 14px;
@@ -38455,7 +38455,7 @@ button.global-nav__account-signup {
   }
 }
 .mega-menu__category-label .mega-menu-category-label__link {
-  color: #298541;
+  color: #115946;
   display: inline-block;
   padding-bottom: 15px;
   padding-top: 10px;
@@ -38463,10 +38463,10 @@ button.global-nav__account-signup {
 }
 @media only screen and (min-width: 768px) {
   .mega-menu__category-label:hover {
-    border-bottom: 1px solid #298541;
+    border-bottom: 1px solid #115946;
   }
   .mega-menu__category-label:hover a {
-    color: #298541;
+    color: #115946;
   }
 }
 .mega-menu__category-label:hover a {
@@ -38510,7 +38510,7 @@ button.global-nav__account-signup {
     padding-bottom: 15px;
   }
   .mega-menu__list--expanded .mega-menu__category-label:hover {
-    border-bottom: 1px solid #298541;
+    border-bottom: 1px solid #115946;
     padding-bottom: 15px;
   }
 }
@@ -38546,7 +38546,7 @@ button.global-nav__account-signup {
   color: #464646;
 }
 .mega-menu__item a:hover {
-  color: #298541;
+  color: #115946;
   text-decoration: none;
 }
 .mega-menu__niche-link {
@@ -38871,7 +38871,7 @@ button.global-nav__account-signup {
   font-weight: 600;
 }
 .global-nav__faux-input__icon {
-  color: #298541;
+  color: #115946;
   font-size: 16px;
   position: absolute;
   right: 8px;
@@ -39304,7 +39304,7 @@ button.global-nav__account-signup {
 .block--premium-editorial__title,
 .block--premium-spotlight__heading,
 .block__heading {
-  color: #298541;
+  color: #115946;
   font-size: 26px;
   font-weight: 400;
   line-height: 30px;
@@ -39449,7 +39449,7 @@ button.global-nav__account-signup {
 }
 .profile__not__found__return {
   border-top: 1px solid #e6e6e6;
-  color: #298541;
+  color: #115946;
   display: block;
   margin: 0 -30px -15px;
   padding: 20px 30px;
@@ -39512,11 +39512,11 @@ button.global-nav__account-signup {
   width: 95%;
 }
 .profile-sticky-cta--mobile .button {
-  background: #298541;
+  background: #115946;
   width: 100%;
 }
 .profile-sticky-cta--mobile .button:hover {
-  background: #298541;
+  background: #115946;
 }
 .profile-sticky-header--info-wrapper .postcard__attrs {
   display: flex;
@@ -39570,7 +39570,7 @@ button.global-nav__account-signup {
     display: flex;
   }
   .profile-sticky-header--ctas-wrapper .button {
-    background: #298541;
+    background: #115946;
     height: 37px;
     margin: 4px;
   }
@@ -39687,15 +39687,15 @@ button.global-nav__account-signup {
 .button--gallery-item-atl {
   background: #fff;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1), 0 0 20px rgba(0, 0, 0, 0.3);
-  color: #298541;
+  color: #115946;
 }
 .platform .button--gallery-item-atl:hover {
   background-color: #fff;
-  color: #298541;
+  color: #115946;
 }
 @media only screen and (min-width: 768px) {
   .platform .button--gallery-item-atl:hover {
-    background-color: #298541;
+    background-color: #115946;
     color: #fff;
   }
 }
@@ -39719,7 +39719,7 @@ button.global-nav__account-signup {
   margin-right: 2px;
 }
 .button--gallery-item-atl:hover {
-  background-color: #298541;
+  background-color: #115946;
   color: #fff;
 }
 .image-gallery-nav-button {
@@ -40194,7 +40194,7 @@ button.global-nav__account-signup {
   margin: 0 5px 0 0;
 }
 .profile__minus__sign {
-  color: #298541;
+  color: #115946;
 }
 .profile--rankings {
   overflow: visible;
@@ -40708,7 +40708,7 @@ button.global-nav__account-signup {
 }
 .block--location__header {
   background-color: #e5edde;
-  color: #298541;
+  color: #115946;
   font-size: 30px;
   line-height: 30px;
   margin-bottom: 25px;
@@ -40737,7 +40737,7 @@ button.global-nav__account-signup {
   line-height: 30px;
 }
 .block--location__header .profile-entity-name__link {
-  color: #298541;
+  color: #115946;
   cursor: pointer;
   font-size: 30px;
   line-height: 30px;
@@ -41098,7 +41098,7 @@ button.global-nav__account-signup {
 }
 .postcard__reason {
   background: #FAF3F0;
-  color: #298541;
+  color: #115946;
   font: 600 10px/1 Niche;
   padding: 8px 15px 5px;
 }
@@ -41181,7 +41181,7 @@ button.global-nav__account-signup {
 .postcard__atl {
   background: #fff;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1), 0 0 20px rgba(0, 0, 0, 0.3);
-  color: #298541;
+  color: #115946;
   font-size: 14px;
   padding: 0.7em 0.75em 0.6em 1em;
   position: absolute;
@@ -41193,7 +41193,7 @@ button.global-nav__account-signup {
   margin-right: 2px;
 }
 .postcard__atl:hover {
-  background-color: #298541;
+  background-color: #115946;
   color: #fff;
 }
 .postcard__action-menu {
@@ -41232,7 +41232,7 @@ button.global-nav__account-signup {
 .postcard__action-menu.popover-active,
 .postcard__action-menu:hover {
   background-color: #fff;
-  color: #298541;
+  color: #115946;
 }
 .postcard__action-menu-items {
   margin: 0;
@@ -41371,7 +41371,7 @@ button.global-nav__account-signup {
 }
 .postcard__badge,
 .postcard__badge a {
-  color: #298541;
+  color: #115946;
 }
 .postcard__badge a:hover {
   text-decoration: underline;
@@ -41648,7 +41648,7 @@ button.global-nav__account-signup {
 }
 .postcard--chip .postcard__atl:hover {
   background-color: #fff;
-  color: #298541;
+  color: #115946;
 }
 .postcard--chip .postcard__atl__text,
 .postcard--chip .postcard__figure__cite,
@@ -41835,7 +41835,7 @@ button.global-nav__account-signup {
   background: #fff;
   bottom: 7px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1), 0 0 20px rgba(0, 0, 0, 0.3);
-  color: #298541;
+  color: #115946;
   font-size: 14px;
   padding: 7px 9px 7px 8px;
   position: absolute;
@@ -41846,7 +41846,7 @@ button.global-nav__account-signup {
   margin-right: 2px;
 }
 .button--postcard-atl:hover {
-  background-color: #298541;
+  background-color: #115946;
   color: #fff;
 }
 .postcard--squarish .postcard__title {
@@ -42492,7 +42492,7 @@ button.global-nav__account-signup {
   }
 }
 .block--ranking-expansion .card {
-  border-top: 24px solid #298541;
+  border-top: 24px solid #115946;
   overflow: visible;
 }
 .block--ranking-expansion .profile__bucket--1 {
@@ -42551,7 +42551,7 @@ button.global-nav__account-signup {
   outline: none;
 }
 .ranking-expansion-callout {
-  background-color: #298541;
+  background-color: #115946;
   box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
   padding: 15px;
 }
@@ -42627,7 +42627,7 @@ button.global-nav__account-signup {
   }
 }
 .block--rankings {
-  border-top: 25px solid #298541;
+  border-top: 25px solid #115946;
 }
 .block--rankings .ordered__list__bucket__item {
   padding: 0 0 20px;
@@ -42717,7 +42717,7 @@ button.global-nav__account-signup {
 .block--rankings-teaser {
   align-content: center;
   align-items: center;
-  background: #298541;
+  background: #115946;
   border-radius: 2px;
   color: #fff;
   display: flex;
@@ -43427,7 +43427,7 @@ button.global-nav__account-signup {
 }
 .block--two-poll .profile__bucket--2:before,
 .block--two-poll--no-poll .block--two-poll__empty:before {
-  border-bottom: 1px solid #c4e7f6;
+  border-bottom: 1px solid #48937E;
   box-sizing: border-box;
   color: #6bbef2;
   content: "POLLS";
@@ -44254,7 +44254,7 @@ button.global-nav__account-signup {
   width: 100%;
 }
 .profile__map__title {
-  color: #298541;
+  color: #115946;
   display: inline-block;
   font-size: 26px;
   font-weight: 400;
@@ -44591,7 +44591,7 @@ button.global-nav__account-signup {
   color: #074534;
 }
 .profile-nav__active-indicator {
-  background: #298541;
+  background: #115946;
   bottom: 0;
   height: 4px;
   left: 0;
@@ -45163,7 +45163,7 @@ button.global-nav__account-signup {
   top: 2px;
 }
 .expansion-title {
-  color: #298541;
+  color: #115946;
   font-size: 30px;
   line-height: 32px;
   margin: 0.25em auto 0.5em;
@@ -45518,7 +45518,7 @@ button.global-nav__account-signup {
   display: none;
 }
 .profile__list__title {
-  color: #298541;
+  color: #115946;
   font-size: 20px;
   font-weight: 400;
   line-height: 24px;
@@ -45698,7 +45698,7 @@ button.global-nav__account-signup {
 }
 .majors-list__header__title {
   align-items: flex-end;
-  color: #298541;
+  color: #115946;
   flex: 1 auto;
   font-size: 20px;
   line-height: 24px;
@@ -48883,7 +48883,7 @@ body[data-path="/places-to-live/rankings/"]
 }
 .scatterplot__overlay .icon-search-thin--sherlock,
 .scatterplot__overlay .icon-search-thin--sherlock--search-filter {
-  color: #298541;
+  color: #115946;
   right: 10px;
 }
 .scatterplot__overlay-close-button {
@@ -49156,7 +49156,7 @@ body[data-path="/places-to-live/rankings/"]
   }
 }
 .scatterplot__header--profile .scatterplot__title {
-  color: #298541;
+  color: #115946;
   font-size: 26px;
   font-weight: 400;
   padding: 15px;
@@ -49741,7 +49741,7 @@ body[data-path="/places-to-live/rankings/"]
   list-style-type: decimal;
 }
 .legacy-scholarship-header:after {
-  background: #298541;
+  background: #115946;
   bottom: 0;
   content: "";
   height: 48px;
@@ -51009,7 +51009,7 @@ body[data-path="/places-to-live/rankings/"]
 }
 .search-sherlock .icon-search-thin--sherlock,
 .search-sherlock .icon-search-thin--sherlock--search-filter {
-  color: #298541;
+  color: #115946;
 }
 .search-sherlock .sherlock--error:focus-visible:focus,
 .search-sherlock .sherlock--search-filter:focus-visible:focus,
@@ -52332,7 +52332,7 @@ details summary > * {
   text-align: center;
 }
 .school-locator-header {
-  background: linear-gradient(180deg, #c4e7f6, #fff 50%);
+  background: linear-gradient(180deg, #48937E, #fff 50%);
   margin: 0 auto;
   max-width: 1140px;
   padding: 20px 0 0;
@@ -52788,7 +52788,7 @@ details summary > * {
   position: relative;
 }
 .real-estate-header__title {
-  color: #298541;
+  color: #115946;
   font-size: 20px;
   line-height: 31px;
   margin: 5px 0 15px;
@@ -54296,11 +54296,11 @@ body[data-path="/site-search/"] .global-nav__search-icon-container {
   overflow: visible;
 }
 .scholarship-search-result--featured .scholarship-search-result__title > a {
-  color: #298541;
+  color: #115946;
 }
 .scholarship-search-result--featured
   .scholarship-search-result__apply-button--header {
-  background-color: #298541;
+  background-color: #115946;
 }
 .scholarship-search-result--featured
   .scholarship-search-result__apply-button--header:hover {
@@ -54308,14 +54308,14 @@ body[data-path="/site-search/"] .global-nav__search-icon-container {
 }
 .scholarship-search-result--featured
   .scholarship-search-result__apply-button--details {
-  background-color: #298541;
+  background-color: #115946;
 }
 .scholarship-search-result--featured
   .scholarship-search-result__apply-button--details:hover {
   background-color: #48937E;
 }
 .scholarship-search-result__sponsored {
-  color: #298541;
+  color: #115946;
   display: block;
   font-size: 12px;
   font-weight: 600;
@@ -57001,7 +57001,7 @@ section[class^="survey-block--"] + section[class*="survey-block--before"] {
 .survey-na__button.survey-na__button--selected,
 .survey-na__button.survey-na__button--selected:active,
 .survey-na__button.survey-na__button--selected:hover {
-  background: #298541;
+  background: #115946;
   color: #fff;
 }
 .survey-bucket--list__list .survey-na__button {
@@ -57561,7 +57561,7 @@ section[class^="survey-block--"] + section[class*="survey-block--before"] {
   display: flex;
 }
 .star-rating__stars {
-  color: #298541;
+  color: #115946;
   display: inline-block;
   font-size: 2em;
   height: 32.006px;
@@ -62701,10 +62701,10 @@ div[class^="survey-"][class$="--na"] .survey-single-choice__heading {
   background-color: #48937E;
 }
 .about-background--green02 {
-  background-color: #298541;
+  background-color: #115946;
 }
 .about-background--green02.about-background--angle:after {
-  background-color: #298541;
+  background-color: #115946;
 }
 .about-background--hill-green {
   background-color: #48937E;
@@ -63851,12 +63851,12 @@ div[class^="survey-"][class$="--na"] .survey-single-choice__heading {
   height: 48.7%;
 }
 .icon-shape--left-arrow svg {
-  color: #298541;
+  color: #115946;
   left: 4px;
   top: 4px;
 }
 .icon-shape--right-arrow svg {
-  color: #298541;
+  color: #115946;
   left: 6px;
   top: 4px;
 }
@@ -64023,7 +64023,7 @@ div[class^="survey-"][class$="--na"] .survey-single-choice__heading {
   color: #51c8fc;
 }
 .about-data-source__cta-icon--green {
-  color: #298541;
+  color: #115946;
 }
 .about-data-source__cta-text {
   display: inline-block;
@@ -64786,7 +64786,7 @@ div[class^="survey-"][class$="--na"] .survey-single-choice__heading {
   color: #e6fcf9;
 }
 .niche-blocks--color-cyan01 {
-  color: #17aadd;
+  color: #FAF3F0;
 }
 .niche-blocks--color-cyan02 {
   color: #51c8fc;
@@ -64798,7 +64798,7 @@ div[class^="survey-"][class$="--na"] .survey-single-choice__heading {
   color: #9eddf8;
 }
 .niche-blocks--color-cyan05 {
-  color: #c4e7f6;
+  color: #48937E;
 }
 .niche-blocks--color-cyan06 {
   color: #e6f9fc;
@@ -70894,10 +70894,10 @@ html {
   background-color: #7cbc67;
 }
 .about-background--green02 {
-  background-color: #298541;
+  background-color: #115946;
 }
 .about-background--green02.about-background--angle:after {
-  background-color: #298541;
+  background-color: #115946;
 }
 .about-background--hill-green {
   background-color: #7cbc67;
@@ -72044,12 +72044,12 @@ html {
   height: 48.7%;
 }
 .icon-shape--left-arrow svg {
-  color: #298541;
+  color: #115946;
   left: 4px;
   top: 4px;
 }
 .icon-shape--right-arrow svg {
-  color: #298541;
+  color: #115946;
   left: 6px;
   top: 4px;
 }
@@ -72216,7 +72216,7 @@ html {
   color: #51c8fc;
 }
 .about-data-source__cta-icon--green {
-  color: #298541;
+  color: #115946;
 }
 .about-data-source__cta-text {
   display: inline-block;

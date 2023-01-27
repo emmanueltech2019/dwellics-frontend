@@ -65,7 +65,7 @@ Dwellics is the go-to partner for real estate and mortgage brokers/agents who de
                     style={{ paddingBottom: "10px" }}
                     className="Expedite-Text Expedite-Text__source--500 Expedite-Text__weight--600 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
-                   Real estate brokers/agents/companies and mortgage brokers/agents/companies Partnership
+                   Real estate brokers/agents and mortgage brokers/agents Partnership
                   </div>
 
                   <div
@@ -73,8 +73,8 @@ Dwellics is the go-to partner for real estate and mortgage brokers/agents who de
                     style={{ paddingBottom: "10px" }}
                     className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
-                    10,000+ annual ratings and reviews from our users
-
+                    Partnership with Dwellics offers golden opportunities for real estate and mortgage brokers and agents to track their business profiles on Dwellics
+Learn more
                   </div>
 
                   <div
@@ -121,7 +121,8 @@ Dwellics is the go-to partner for real estate and mortgage brokers/agents who de
                     style={{ paddingBottom: "10px" }}
                     className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
-                    15,000 comprehensive profiles on brokers, agents, companies and neighborhoods
+                    Partnership with Dwellics offers golden opportunities for real estate and mortgage brokers and agents to track their business profiles on Dwellics
+Learn more
                   </div>
 
                   <div
@@ -168,7 +169,7 @@ Dwellics is the go-to partner for real estate and mortgage brokers/agents who de
                     style={{ paddingBottom: "10px" }}
                     className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-14 niche-blocks--color-gray02 niche-blocks--text-align-left"
                   >
-                    1000,000+ yearly visitors use Dwellics
+                    Get connected to your target audience, homebuyers and loan buyers actively looking for real estate, mortgage and loan opportunities
                   </div>
 
                   <div
@@ -203,7 +204,7 @@ Dwellics is the go-to partner for real estate and mortgage brokers/agents who de
                     style={{ paddingBottom: "10px" }}
                     className="Expedite-Text Expedite-Text__niche--800 Expedite-Text__weight--700 niche-blocks--leading-11 niche-blocks--color-gray04 niche-blocks--text-align-center"
                   >
-                    100 MILLION+
+                    10,000+
                   </div>
 
                   <div
@@ -211,7 +212,7 @@ Dwellics is the go-to partner for real estate and mortgage brokers/agents who de
                     style={{ paddingBottom: "30px" }}
                     className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-center"
                   >
-                    ratings and reviews from real people
+                    annual ratings and reviews from our users
                   </div>
                 </div>
 
@@ -221,7 +222,7 @@ Dwellics is the go-to partner for real estate and mortgage brokers/agents who de
                     style={{ paddingBottom: "10px" }}
                     className="Expedite-Text Expedite-Text__niche--800 Expedite-Text__weight--700 niche-blocks--leading-11 niche-blocks--color-gray04 niche-blocks--text-align-center"
                   >
-                    200 THOUSAND+
+                    15,000
                   </div>
 
                   <div
@@ -229,7 +230,7 @@ Dwellics is the go-to partner for real estate and mortgage brokers/agents who de
                     style={{ paddingBottom: "30px" }}
                     className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-center"
                   >
-                    in-depth profiles on schools, companies, and neighborhoods
+                   comprehensive profiles on brokers, agents, companies and neighborhoods
                   </div>
                 </div>
 
@@ -239,14 +240,14 @@ Dwellics is the go-to partner for real estate and mortgage brokers/agents who de
                     style={{ paddingBottom: "10px" }}
                     className="Expedite-Text Expedite-Text__niche--800 Expedite-Text__weight--700 niche-blocks--leading-11 niche-blocks--color-gray04 niche-blocks--text-align-center"
                   >
-                    50 MILLION+
+                    1,000,000+
                   </div>
 
                   <div
                     id="text-block_5edfe29d0b85e"
                     className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--400 niche-blocks--leading-12 niche-blocks--color-gray02 niche-blocks--text-align-center"
                   >
-                    people used Niche in the last year
+                    yearly visitors use Dwellics
                   </div>
                 </div>
               </div>
@@ -411,7 +412,7 @@ Dwellics is the go-to partner for real estate and mortgage brokers/agents who de
                       className="Expedite-Button--button Expedite-Button__text--indigo02"
                     >
                       <span className="Expedite-Text Expedite-Text__source--400 Expedite-Text__weight--600">
-                        Get Promotional Materials
+                        Learn more
                       </span>
                     </a>
                   </div>
